@@ -1,0 +1,1118 @@
+451747	Zyabrikovo	Zyabrikovo		56.84665	34.7048	P	PPL	RU		77				0		204	Europe/Moscow	2011-07-09
+451748	Znamenka	Znamenka		56.74087	34.02323	P	PPL	RU		77				0		215	Europe/Moscow	2011-07-09
+451749	Zhukovo	Zhukovo		57.26429	34.20956	P	PPL	RU		77				0		237	Europe/Moscow	2011-07-09
+451750	Zhitovo	Zhitovo		57.29693	34.41848	P	PPL	RU		77				0		247	Europe/Moscow	2011-07-09
+451751	Zhitnikovo	Zhitnikovo		57.20064	34.57831	P	PPL	RU		77				0		198	Europe/Moscow	2011-07-09
+451752	Zhelezovo	Zhelezovo		57.02591	34.51886	P	PPL	RU		77				0		192	Europe/Moscow	2011-07-09
+451753	Zelëntsyno	Zelentsyno		56.73452	34.92011	P	PPL	RU		77				0		159	Europe/Moscow	2011-07-09
+451754	Zelënaya Niva	Zelenaya Niva		57.1711	34.76977	P	PPL	RU		77				0		160	Europe/Moscow	2011-07-09
+451755	Zasten’ye	Zasten'ye		57.27055	34.73	P	PPL	RU		77				0		184	Europe/Moscow	2011-07-09
+451756	Zarech’ye	Zarech'ye		56.68265	34.70984	P	PPL	RU		77				0		178	Europe/Moscow	2011-07-09
+451757	Zamush’ye	Zamush'ye		57.22984	34.77983	P	PPL	RU		77				0		182	Europe/Moscow	2011-07-09
+451758	Zaleden’ye	Zaleden'ye		57.12851	34.26788	P	PPLQ	RU		77				0		278	Europe/Moscow	2011-07-09
+451759	Urochishche Zakaznik	Urochishche Zakaznik		56.89212	34.56952	L	LCTY	RU		77				0		219	Europe/Moscow	2011-07-09
+451760	Zador’ye	Zador'ye		56.85239	34.49864	P	PPL	RU		77				0		224	Europe/Moscow	2011-07-09
+451761	Zabolot’ye	Zabolot'ye		56.74771	34.84792	P	PPL	RU		77				0		190	Europe/Moscow	2011-07-09
+451762	Yeskino	Yeskino		57.07916	34.78913	P	PPL	RU		77				0		189	Europe/Moscow	2011-07-09
+451763	Yereshkino	Yereshkino		57.22681	34.58422	P	PPL	RU		77				0		218	Europe/Moscow	2011-07-09
+451764	Yeremeyki	Yeremeyki		56.81639	34.92389	P	PPL	RU		77				0		160	Europe/Moscow	1998-05-01
+451765	Yelizavetino	Yelizavetino		56.7813	34.49321	P	PPL	RU		77				0		242	Europe/Moscow	2011-07-09
+451766	Urochishche Yegur’yevo	Urochishche Yegur'yevo		57.17701	34.47458	L	LCTY	RU		77				0		273	Europe/Moscow	2011-07-09
+451767	Yegor’ye	Yegor'ye		57.02174	34.29403	P	PPL	RU		77				0		268	Europe/Moscow	2011-07-09
+451768	Yefremovo	Yefremovo		57.06001	34.74787	P	PPL	RU		77				0		188	Europe/Moscow	2011-07-09
+451769	Yavidovo	Yavidovo	Javidovo,Yavidovo,Явидово	56.87068	34.51994	P	PPL	RU		77				0		217	Europe/Moscow	2012-01-16
+451770	Yasnaya Polyana	Yasnaya Polyana		56.93054	34.54696	P	PPL	RU		77				0		214	Europe/Moscow	2011-07-09
+451771	Yasnaya Polyana	Yasnaya Polyana		56.90599	34.97555	P	PPL	RU		77				0		185	Europe/Moscow	2011-07-09
+451772	Yakutino	Yakutino		56.99404	34.9857	P	PPL	RU		77				0		159	Europe/Moscow	2011-07-09
+451773	Yakshino	Yakshino		57.08518	34.60433	P	PPL	RU		77				0		188	Europe/Moscow	2011-07-09
+451774	Yakovlevo	Yakovlevo		57.3122	34.12509	P	PPL	RU		77				0		280	Europe/Moscow	2011-07-09
+451775	Yakimovo	Yakimovo		57.14907	34.60264	P	PPL	RU		77				0		193	Europe/Moscow	2011-07-09
+451776	Vysokoye	Vysokoye		56.98226	34.43519	P	PPL	RU		77				0		202	Europe/Moscow	2011-07-09
+451777	Vysokoye	Vysokoye		56.8213	34.52753	P	PPL	RU		77				0		244	Europe/Moscow	2011-07-09
+451778	Vyshgorod	Vyshgorod		56.9323	34.36491	P	PPL	RU		77				0		210	Europe/Moscow	2011-07-09
+451779	Vyalets	Vyalets		57.19192	34.10974	H	STM	RU		77				0		240	Europe/Moscow	2011-07-09
+451780	Urochishche Vtoraya Molozha	Urochishche Vtoraya Molozha		56.71654	34.0446	L	LCTY	RU		77				0		235	Europe/Moscow	2011-07-09
+451781	Vpered	Vpered		56.94095	34.43464	P	PPL	RU		77				0		219	Europe/Moscow	2011-07-09
+451782	Vostsy	Vostsy		57.15375	34.82483	P	PPL	RU		77				0		199	Europe/Moscow	2011-07-09
+451783	Voronovo	Voronovo		57.02926	34.46772	P	PPL	RU		77				0		211	Europe/Moscow	2011-07-09
+451784	Voronovo	Voronovo		56.78582	34.03805	P	PPL	RU		77				0		229	Europe/Moscow	2011-07-09
+451785	Vorob’yevo	Vorob'yevo		57.16933	34.90437	P	PPL	RU		77				0		161	Europe/Moscow	2011-07-09
+451786	Urochishche Voraksikha	Urochishche Voraksikha		56.87934	34.23175	L	LCTY	RU		77				0		247	Europe/Moscow	2011-07-09
+451787	Volosovo	Volosovo		57.04292	34.56479	P	PPL	RU		77				0		203	Europe/Moscow	2011-07-09
+451788	Voloshnya	Voloshnya		56.9381	34.35494	H	STM	RU		77				0		211	Europe/Moscow	2011-07-09
+451789	Volochagino	Volochagino		56.70458	34.42898	P	PPL	RU		77				0		258	Europe/Moscow	2011-07-09
+451790	Vladychno	Vladychno		57.27655	34.47071	P	PPL	RU		77				0		212	Europe/Moscow	2011-07-09
+451791	Vishenki	Vishenki		56.81603	34.61915	P	PPL	RU		77				0		216	Europe/Moscow	2011-07-09
+451792	Prud Verkhov’ye	Prud Verkhov'ye		57.10892	34.02429	H	PND	RU		77				0		256	Europe/Moscow	2011-07-09
+451793	Verevochka	Verevochka		57.32222	34.59678	H	STM	RU		77				0		156	Europe/Moscow	2011-07-09
+451794	Vel’ya	Vel'ya		57.00873	34.7347	H	STM	RU		77				0		174	Europe/Moscow	2011-07-09
+451795	Velikosel’ye	Velikosel'ye		56.76512	34.85882	P	PPL	RU		77				0		199	Europe/Moscow	2011-07-09
+451796	Velemozh’ye	Velemozh'ye		57.10735	34.43741	P	PPL	RU		77				0		197	Europe/Moscow	2011-07-09
+451797	Vechernyaya Zarya	Vechernyaya Zarya		56.93608	34.42266	P	PPL	RU		77				0		223	Europe/Moscow	2011-07-09
+451798	Vasil’yevo	Vasil'yevo	Vasil'evo,Vasil'yevo,Vasiljevo,Vasil’yevo,Васильево	56.77807	34.65301	P	PPL	RU		77				0		221	Europe/Moscow	2012-01-16
+451799	Upryshkino	Upryshkino		57.0886	34.50424	P	PPL	RU		77				0		221	Europe/Moscow	2011-07-09
+451800	Ul’yanovo	Ul'yanovo		57.08376	34.34988	P	PPL	RU		77				0		259	Europe/Moscow	2011-07-09
+451801	Ulitkino	Ulitkino		57.27638	34.5553	P	PPL	RU		77				0		204	Europe/Moscow	2011-07-09
+451802	Udal’tsovo	Udal'tsovo		57.19599	34.55373	P	PPL	RU		77				0		203	Europe/Moscow	2011-07-09
+451803	Tveretskiy	Tveretskiy		57.26385	34.82953	P	PPL	RU		77				0		155	Europe/Moscow	2011-07-09
+451804	Turlayevo	Turlayevo		57.23878	34.34752	P	PPL	RU		77				0		244	Europe/Moscow	2011-07-09
+451805	Turkovo	Turkovo		56.74924	34.15238	P	PPL	RU		77				0		226	Europe/Moscow	2011-07-09
+451806	Tsapushevo	Tsapushevo		56.80251	34.68958	P	PPL	RU		77				0		203	Europe/Moscow	2011-07-09
+451807	Tryasna	Tryasna		56.86448	34.16633	H	STM	RU		77				0		232	Europe/Moscow	2011-07-09
+451808	Tryasënka	Tryasenka		57.01356	34.72476	H	STM	RU		77				0		171	Europe/Moscow	2011-07-09
+451809	Treskovo	Treskovo		57.0205	34.45992	P	PPL	RU		77				0		209	Europe/Moscow	2011-07-09
+451810	Treshchatina	Treshchatina		56.79145	34.85697	H	STM	RU		77				0		170	Europe/Moscow	2011-07-09
+451811	Timoshkino	Timoshkino		57.19533	34.87121	P	PPL	RU		77				0		176	Europe/Moscow	2011-07-09
+451812	Timonino	Timonino		56.8097	34.91775	P	PPL	RU		77				0		160	Europe/Moscow	2011-07-09
+451813	Timofeyevo	Timofeyevo		57.0061	34.60744	P	PPL	RU		77				0		219	Europe/Moscow	2011-07-09
+451814	Telyakovka	Telyakovka		57.01868	34.39307	H	STM	RU		77				0		219	Europe/Moscow	2011-07-09
+451815	Telitsyno	Telitsyno		57.19886	34.8971	P	PPL	RU		77				0		153	Europe/Moscow	2011-07-09
+451816	Vodokhranilishche Taraskovskoye	Vodokhranilishche Taraskovskoye		57.02253	33.98684	H	RSV	RU		77				0		243	Europe/Moscow	2011-07-09
+451817	Talets	Talets		57.04366	34.44042	H	STM	RU		77				0		205	Europe/Moscow	2011-07-09
+451818	Syrkovo	Syrkovo		57.00359	34.51981	P	PPL	RU		77				0		209	Europe/Moscow	2011-07-09
+451819	Svoboda	Svoboda		56.96613	34.19721	P	PPL	RU		77				0		243	Europe/Moscow	2011-07-09
+451820	Sverchkovo	Sverchkovo		56.82755	34.61065	P	PPL	RU		77				0		221	Europe/Moscow	2011-07-09
+451821	Sutoki	Sutoki		57.17889	34.27454	P	PPL	RU		77				0		219	Europe/Moscow	2011-07-09
+451822	Sukhoy Ruchey	Sukhoy Ruchey	Sukhoj Ruchej,Sukhoy Ruchey,Сухой Ручей	56.99787	34.38928	P	PPL	RU		77				0		219	Europe/Moscow	2012-01-16
+451823	Stupnevo	Stupnevo	Stupnevo,Ступнево	57.08113	34.57708	P	PPL	RU		77				0		196	Europe/Moscow	2012-01-16
+451824	Stukshino	Stukshino	Stukshino,Стукшино	56.68851	34.78528	P	PPL	RU		77				0		175	Europe/Moscow	2012-01-16
+451825	Strubishche	Strubishche	Strubishche,Strubishhe,Струбище	57.16038	34.64929	P	PPL	RU		77				0		180	Europe/Moscow	2012-01-16
+451826	Stroyevichi	Stroyevichi	Stroevichi,Stroyevichi,Строевичи	56.82265	34.80191	P	PPL	RU		77				0		197	Europe/Moscow	2012-01-16
+451827	Strenevo	Strenevo	Strenevo,Стренево	56.68604	34.42764	P	PPL	RU		77				0		262	Europe/Moscow	2012-01-16
+451828	Strana Sovetov	Strana Sovetov	Strana Sovetov,Страна Советов	56.78952	34.11155	P	PPL	RU		77				0		238	Europe/Moscow	2012-01-16
+451829	Stepurino	Stepurino	Stepurino,Степурино	57.21477	34.81292	P	PPL	RU		77				0		203	Europe/Moscow	2012-01-16
+451830	Stepankovo	Stepankovo	Stepankovo,Степанково	56.71673	34.35599	P	PPL	RU		77				0		250	Europe/Moscow	2012-01-16
+451831	Urochishche Stavrovo	Urochishche Stavrovo	Urochishche Stavrovo,Urochishhe Stavrovo,Урочище Ставрово	56.82289	34.11538	L	LCTY	RU		77				0		254	Europe/Moscow	2012-01-16
+451832	Staroye Malinovo	Staroye Malinovo	Staroe Malinovo,Staroye Malinovo,Старое Малиново	57.14858	34.51892	P	PPL	RU		77				0		210	Europe/Moscow	2012-01-16
+451833	Staroye Kitovo	Staroye Kitovo	Staroe Kitovo,Staroye Kitovo,Старое Китово	57.2161	34.43095	P	PPL	RU		77				0		220	Europe/Moscow	2012-01-16
+451834	Staroye	Staroye	Staroe,Staroye,Старое	56.8418	34.73122	P	PPL	RU		77				0		190	Europe/Moscow	2012-01-16
+451835	Stany	Stany	Stany,Станы	56.79454	34.3125	P	PPL	RU		77				0		249	Europe/Moscow	2012-01-16
+451836	Spirovo	Spirovo	Spirovo,Спирово	57.10357	34.47102	P	PPL	RU		77				0		202	Europe/Moscow	2012-01-16
+451837	Sotskiy	Sotskiy	Sotskij,Sotskiy,Сотский	56.80197	34.88595	H	STM	RU		77				0		164	Europe/Moscow	2012-01-16
+451838	Sosenka	Sosenka	Sosenka,Сосенка	57.10082	34.72524	P	PPL	RU		77				0		189	Europe/Moscow	2012-01-16
+451839	Sorokino	Sorokino	Sorokino,Сорокино	56.94356	34.13368	P	PPL	RU		77				0		265	Europe/Moscow	2012-01-16
+451840	Solenka	Solenka	Solenka,Соленка	56.8757	34.2674	H	STM	RU		77				0		232	Europe/Moscow	2012-01-16
+451841	Urochishche Sokolovo	Urochishche Sokolovo	Urochishche Sokolovo,Urochishhe Sokolovo,Урочище Соколово	57.09891	34.05502	L	LCTY	RU		77				0		265	Europe/Moscow	2012-01-16
+451842	Sokolovo	Sokolovo	Sokolovo,Соколово	57.09337	34.59095	P	PPL	RU		77				0		188	Europe/Moscow	2012-01-16
+451843	Sokolino	Sokolino	Sokolino,Соколино	57.18522	34.68549	P	PPL	RU		77				0		210	Europe/Moscow	2012-01-16
+451844	Snegirëvo	Snegirevo	Snegirevo,Snegirjovo,Snegirëvo,Снегирёво	56.86099	34.90253	P	PPL	RU		77				0		181	Europe/Moscow	2012-01-16
+451845	Smerdovo	Smerdovo	Smerdovo,Смердово	57.08446	34.70564	P	PPL	RU		77				0		174	Europe/Moscow	2012-01-16
+451846	Slonovo	Slonovo	Slonovo,Слоново	56.83463	34.81326	P	PPL	RU		77				0		182	Europe/Moscow	2012-01-16
+451847	Slapikhino	Slapikhino	Slapikhino,Слапихино	56.97014	34.54252	P	PPL	RU		77				0		212	Europe/Moscow	2012-01-16
+451848	Skrylëvo	Skrylevo	Skrylevo,Skryljovo,Skrylëvo,Скрылёво	56.88114	34.47642	P	PPL	RU		77				0		199	Europe/Moscow	2012-01-16
+451849	Skrylëvo	Skrylevo	Skrylevo,Skryljovo,Skrylëvo,Скрылёво	56.84076	34.40324	P	PPL	RU		77				0		244	Europe/Moscow	2012-01-16
+451850	Skripkovo	Skripkovo	Skripkovo,Скрипково	57.00301	34.85056	P	PPL	RU		77				0		205	Europe/Moscow	2012-01-16
+451851	Sidorovo	Sidorovo	Sidorovo,Сидорово	57.21631	34.38399	P	PPL	RU		77				0		237	Europe/Moscow	2012-01-16
+451852	Shuvalov	Shuvalov	Shuvalov,Шувалов	56.94284	34.44036	P	PPL	RU		77				0		219	Europe/Moscow	2012-01-16
+451853	Shchilovo	Shchilovo	Shchilovo,Shhilovo,Щилово	57.00782	34.56777	P	PPL	RU		77				0		184	Europe/Moscow	2012-01-16
+451854	Shchemelinino	Shchemelinino	Shchemelinino,Shhemelinino,Щемелинино	56.82786	34.84024	P	PPL	RU		77				0		166	Europe/Moscow	2012-01-16
+451855	Shchelenka	Shchelenka	Shchelenka,Shhelenka,Щеленка	57.05827	34.14452	H	STM	RU		77				0		231	Europe/Moscow	2012-01-16
+451856	Shchegolevo	Shchegolevo	Shchegolevo,Shhegolevo,Щеголево	56.89742	34.44873	P	PPL	RU		77				0		199	Europe/Moscow	2012-01-16
+451857	Shashkovo	Shashkovo	Shashkovo,Шашково	57.19123	34.28458	P	PPL	RU		77				0		227	Europe/Moscow	2012-01-16
+451858	Shaplovo	Shaplovo	Shaplovo,Шаплово	56.91831	34.30227	P	PPL	RU		77				0		235	Europe/Moscow	2012-01-16
+451859	Severnaya Ryasnya	Severnaya Ryasnya	Severnaja Rjasnja,Severnaya Ryasnya,Северная Рясня	56.78838	34.21927	H	STM	RU		77				0		230	Europe/Moscow	2012-01-16
+451860	Senchukovo	Senchukovo	Senchukovo,Сенчуково	56.67127	34.76237	P	PPL	RU		77				0		171	Europe/Moscow	2012-01-16
+451861	Semyn’	Semyn'	Semyn',Semyn’,Семынь	57.18168	34.28542	H	STM	RU		77				0		214	Europe/Moscow	2012-01-16
+451862	Selino	Selino	Selino,Селино	56.9928	34.53119	P	PPL	RU		77				0		185	Europe/Moscow	2012-01-16
+451863	Vodokhranilishche Selikhovskoye	Vodokhranilishche Selikhovskoye	Vodokhranilishche Selikhovskoye,Vodokhranilishhe Selikhovskoe,Водохранилище Селиховское	57.01986	34.80375	H	RSV	RU		77				0		191	Europe/Moscow	2012-01-16
+451864	Selikhovo	Selikhovo	Selikhovo,Селихово	57.03465	34.64079	P	PPL	RU		77				0		188	Europe/Moscow	2012-01-16
+451865	Sanatoriy Mitino	Sanatoriy Mitino	Sanatorij Mitino,Sanatoriy Mitino,Санаторий Митино	57.10048	34.97636	S	SNTR	RU		77				0		164	Europe/Moscow	2012-01-16
+451866	Samotelki	Samotelki	Samotelki,Самотелки	56.93594	34.664	P	PPL	RU		77				0		209	Europe/Moscow	2012-01-16
+451867	Sakharikha	Sakharikha	Sakharikha,Сахариха	57.14528	34.88707	P	PPL	RU		77				0		179	Europe/Moscow	2012-01-16
+451868	Sadok	Sadok	Sadok,Садок	56.96499	34.86447	P	PPL	RU		77				0		204	Europe/Moscow	2012-01-16
+451869	Saburovo	Saburovo	Saburovo,Сабурово	57.01586	34.06202	P	PPL	RU		77				0		264	Europe/Moscow	2012-01-16
+451870	Rzhavets	Rzhavets	Rzhavec,Rzhavets,Ржавец	57.22088	34.36344	H	STM	RU		77				0		215	Europe/Moscow	2012-01-16
+451871	Ryukhovo	Ryukhovo	Rjukhovo,Ryukhovo,Рюхово	56.94116	34.07782	P	PPL	RU		77				0		248	Europe/Moscow	2012-01-16
+451872	Rylovo	Rylovo	Rylovo,Рылово	56.71154	34.42717	P	PPL	RU		77				0		261	Europe/Moscow	2012-01-16
+451873	Ryasenka	Ryasenka	Rjasenka,Ryasenka,Рясенка	56.90524	34.42077	H	STM	RU		77				0		206	Europe/Moscow	2012-01-16
+451874	Ryabinikha	Ryabinikha	Rjabinikha,Ryabinikha,Рябиниха	56.78703	34.3918	P	PPL	RU		77				0		273	Europe/Moscow	2012-01-16
+451875	Rozhnovo	Rozhnovo	Rozhnovo,Рожново	56.84773	34.81289	P	PPL	RU		77				0		178	Europe/Moscow	2012-01-16
+451876	Red’kino	Red'kino	Red'kino,Red’kino,Редькино	57.29024	34.59566	P	PPL	RU		77				0		181	Europe/Moscow	2012-01-16
+451877	Red’kino	Red'kino	Red'kino,Red’kino,Редькино	56.78098	34.53424	P	PPL	RU		77				0		224	Europe/Moscow	2012-01-16
+451878	Raychonka	Raychonka	Rajchonka,Raychonka,Райчонка	57.04251	34.70794	H	STM	RU		77				0		168	Europe/Moscow	2012-01-16
+451879	Raychona	Raychona	Rajchona,Raychona,Райчона	56.9388	34.73781	H	STM	RU		77				0		191	Europe/Moscow	2012-01-16
+451880	Ratmirovo	Ratmirovo	Ratmirovo,Ратмирово	57.24103	34.18679	P	PPL	RU		77				0		264	Europe/Moscow	2012-01-16
+451881	Rashkino	Rashkino	Rashkino,Рашкино	56.99274	34.64928	P	PPL	RU		77				0		209	Europe/Moscow	2012-01-16
+451882	Boloto Rantsevskoye	Boloto Rantsevskoye	Boloto Rancevskoe,Boloto Rantsevskoye,Болото Ранцевское	56.93357	33.98874	H	SWMP	RU		77				0		265	Europe/Moscow	2012-01-16
+451883	Radilovo	Radilovo	Radilovo,Радилово	56.88746	34.84681	P	PPL	RU		77				0		191	Europe/Moscow	2012-01-16
+451884	Puzakovo	Puzakovo	Puzakovo,Пузаково	57.00843	34.30681	P	PPL	RU		77				0		251	Europe/Moscow	2012-01-16
+451885	Pustoradikha	Pustoradikha	Pustoradikha,Пусторадиха	56.73218	34.36294	P	PPL	RU		77				0		265	Europe/Moscow	2012-01-16
+451886	Prutenka	Prutenka	Prutenka,Прутенка	57.11024	34.95362	P	PPL	RU		77				0		150	Europe/Moscow	2012-01-16
+451887	Prusovo	Prusovo	Prusovo,Прусово	56.87733	34.47257	P	PPL	RU		77				0		206	Europe/Moscow	2012-01-16
+451888	Prusovka	Prusovka	Prusovka,Прусовка	56.88223	34.48349	H	STM	RU		77				0		195	Europe/Moscow	2012-01-16
+451889	Proletarka	Proletarka	Proletarka,Пролетарка	56.99752	34.1437	P	PPL	RU		77				0		246	Europe/Moscow	2012-01-16
+451890	Povedskaya Bol’nitsa	Povedskaya Bol'nitsa	Povedskaja Bol'nica,Povedskaya Bol'nitsa,Povedskaya Bol’nitsa,Поведская Больница	57.21317	34.61232	S	HSP	RU		77				0		190	Europe/Moscow	2012-01-16
+451891	Vysokoye	Vysokoye	Vysokoe,Vysokoje,Vysokoye,Высокое	56.69912	34.90271	P	PPL	RU		77				0		178	Europe/Moscow	2012-01-16
+451892	Popovo	Popovo	Popovo,Попово	56.9295	34.5062	P	PPL	RU		77				0		216	Europe/Moscow	2012-01-16
+451893	Polishino	Polishino	Polishino,Полишино	56.82077	34.49975	P	PPL	RU		77				0		252	Europe/Moscow	2012-01-16
+451894	Podsosen’ye	Podsosen'ye	Podsosen'e,Podsosen'ye,Podsosen’ye,Подсосенье	57.20421	34.54703	P	PPL	RU		77				0		201	Europe/Moscow	2012-01-16
+451895	Podol’tsy	Podol'tsy	Podol'cy,Podol'tsy,Podol’tsy,Подольцы	57.10811	34.56027	P	PPL	RU		77				0		177	Europe/Moscow	2012-01-16
+451896	Pleshevets	Pleshevets	Pleshevec,Pleshevets,Плешевец	56.69761	34.3524	H	STM	RU		77				0		223	Europe/Moscow	2012-01-16
+451897	Plavinka	Plavinka	Plavinka,Плавинка	56.69113	34.08331	H	STM	RU		77				0		221	Europe/Moscow	2012-01-16
+451898	Petrovo	Petrovo	Petrovo,Петрово	57.27551	34.61445	P	PPL	RU		77				0		188	Europe/Moscow	2012-01-16
+451899	Petrovo	Petrovo	Petrovo,Петрово	57.19994	34.31965	P	PPL	RU		77				0		243	Europe/Moscow	2012-01-16
+451900	Petrishchevo	Petrishchevo	Petrishchevo,Petrishhevo,Петрищево	56.69362	34.40143	P	PPL	RU		77				0		254	Europe/Moscow	2012-01-16
+451901	Peschanki	Peschanki	Peschanki,Песчанки	56.8734	34.66884	P	PPL	RU		77				0		228	Europe/Moscow	2012-01-16
+451902	Pervoye Maya	Pervoye Maya	Pervoe Maja,Pervoye Maya,Первое Мая	57.02031	34.59927	P	PPL	RU		77				0		208	Europe/Moscow	2012-01-16
+451903	Pekishevo	Pekishevo	Pekishevo,Пекишево	56.89792	34.33375	P	PPL	RU		77				0		246	Europe/Moscow	2012-01-16
+451904	Pechnikovo	Pechnikovo	Pechnikovo,Печниково	57.24149	34.20677	P	PPL	RU		77				0		241	Europe/Moscow	2012-01-16
+451905	Pavlovskoye	Pavlovskoye	Pavlovskoe,Pavlovskoye,Павловское	57.16239	34.30689	P	PPL	RU		77				0		227	Europe/Moscow	2012-01-16
+451906	Pavlovskoye	Pavlovskoye	Pavlovskoe,Pavlovskoye,Павловское	56.68081	34.67509	P	PPL	RU		77				0		215	Europe/Moscow	2012-01-16
+451907	Patrakovo	Patrakovo	Patrakovo,Патраково	56.75165	34.69534	P	PPL	RU		77				0		202	Europe/Moscow	2012-01-16
+451908	Pavlushkovo	Pavlushkovo	Pavlushkovo,Павлушково	56.78195	34.10601	P	PPL	RU		77				0		237	Europe/Moscow	2012-01-16
+451909	Pankratovo	Pankratovo	Pankratovo,Панкратово	56.83709	34.67509	P	PPL	RU		77				0		217	Europe/Moscow	2012-01-16
+451910	Pan’kovo	Pan'kovo	Pan'kovo,Pan’kovo,Паньково	57.32078	34.3658	P	PPL	RU		77				0		270	Europe/Moscow	2012-01-16
+451911	Panin	Panin	Panin,Панин	56.97863	34.23625	H	STM	RU		77				0		222	Europe/Moscow	2012-01-16
+451912	Pagubitsa	Pagubitsa	Pagubica,Pagubitsa,Пагубица	57.25805	34.72995	H	STM	RU		77				0		148	Europe/Moscow	2012-01-16
+451913	Ozernya	Ozernya	Ozernja,Ozernya,Озерня	56.68086	34.64083	H	STM	RU		77				0		193	Europe/Moscow	2012-01-16
+451914	Ozeretskoye	Ozeretskoye	Ozeretskoe,Ozeretskoye,Озеретское	57.03219	34.05829	P	PPL	RU		77				0		239	Europe/Moscow	2012-01-16
+451915	Ozerets	Ozerets	Ozerec,Ozerets,Озерец	57.03242	34.06637	H	STM	RU		77				0		245	Europe/Moscow	2012-01-16
+451916	Oskomlya	Oskomlya	Oskomlja,Oskomlva,Oskomlya,Оскомля	57.32706	34.60564	H	STM	RU		77				0		155	Europe/Moscow	2012-01-16
+451917	Orekhovo	Orekhovo	Orekhovo,Орехово	56.86704	34.03252	P	PPL	RU		77				0		262	Europe/Moscow	2012-01-16
+451918	Ol’shanka	Ol'shanka	Ol'shanka,Ol’shanka,Ольшанка	56.72422	34.91116	H	STM	RU		77				0		153	Europe/Moscow	2012-01-16
+451919	Oblovo	Oblovo	Oblovo,Облово	57.04877	34.12661	P	PPLX	RU		77				0		249	Europe/Moscow	2012-01-16
+451920	Novyy	Novyy	Novyj,Novyy,Новый	57.26487	34.22659	P	PPL	RU		77				0		239	Europe/Moscow	2012-01-16
+451921	Novoye Malinovo	Novoye Malinovo	Novoe Malinovo,Novoye Malinovo,Новое Малиново	57.15637	34.51395	P	PPL	RU		77				0		209	Europe/Moscow	2012-01-16
+451922	Novoye Kitovo	Novoye Kitovo	Novoe Kitovo,Novoye Kitovo,Новое Китово	57.20625	34.41684	P	PPL	RU		77				0		244	Europe/Moscow	2012-01-16
+451923	Novopetrovskoye	Novopetrovskoye	Novopetrovskoe,Novopetrovskoye,Новопетровское	56.79566	34.56617	P	PPL	RU		77				0		228	Europe/Moscow	2012-01-16
+451924	Novoaleksandrovka	Novoaleksandrovka	Novoaleksandrovka,Новоалександровка	56.82321	34.84393	P	PPL	RU		77				0		170	Europe/Moscow	2012-01-16
+451925	Novinki	Novinki	Novinki,Новинки	57.0083	34.78585	P	PPL	RU		77				0		202	Europe/Moscow	2012-01-16
+451926	Novinki	Novinki	Novinki,Новинки	56.90015	34.74492	P	PPL	RU		77				0		228	Europe/Moscow	2012-01-16
+451927	Novgorodskoye	Novgorodskoye	Novgorodskoe,Novgorodskoye,Новгородское	56.83898	34.9833	P	PPL	RU		77				0		163	Europe/Moscow	2012-01-16
+451928	Noskovo	Noskovo	Noskovo,Носково	56.9739	34.44459	P	PPL	RU		77				0		212	Europe/Moscow	2012-01-16
+451929	Nizhnenevochanskoye Vodokhranilishche	Nizhnenevochanskoye Vodokhranilishche	Nizhnenevochanskoe Vodokhranilishhe,Nizhnenevochanskoye Vodokhranilishche,Нижненевочанское Водохранилище	57.05293	34.14465	H	RSV	RU		77				0		231	Europe/Moscow	2012-01-16
+451930	Niva	Niva	Niva,Нива	56.90246	34.78547	P	PPL	RU		77				0		207	Europe/Moscow	2012-01-16
+451931	Nikol’skoye	Nikol'skoye	Nikol'skoe,Nikol'skoye,Nikol’skoye,Никольское	56.66684	34.4654	P	PPL	RU		77				0		240	Europe/Moscow	2012-01-16
+451932	Nikola-Bor	Nikola-Bor	Nikola-Bor,Никола-Бор	57.25008	34.81508	P	PPL	RU		77				0		153	Europe/Moscow	2012-01-16
+451933	Nesterovo	Nesterovo	Nesterovo,Нестерово	56.70262	34.8597	P	PPL	RU		77				0		164	Europe/Moscow	2012-01-16
+451934	Urochishche Nesterkovo	Urochishche Nesterkovo	Urochishche Nesterkovo,Urochishhe Nesterkovo,Урочище Нестерково	56.91877	34.19367	L	LCTY	RU		77				0		262	Europe/Moscow	2012-01-16
+451935	Nerudnyy	Nerudnyy	Nerudnyj,Nerudnyy,Нерудный	56.89099	34.74566	P	PPL	RU		77				0		203	Europe/Moscow	2012-01-16
+451936	Nemchino	Nemchino	Nemchino,Немчино	56.81045	34.62392	P	PPL	RU		77				0		220	Europe/Moscow	2012-01-16
+451937	Negoch’	Negoch'	Negoch',Negoch’,Негочь	57.06316	34.11947	H	STM	RU		77				0		234	Europe/Moscow	2012-01-16
+451938	Nebrokhino	Nebrokhino	Nebrokhino,Неброхино	56.97651	34.53907	P	PPL	RU		77				0		206	Europe/Moscow	2012-01-16
+451939	Myakinnitskiy L’nozavod	Myakinnitskiy L'nozavod	Mjakinnitskij L'nozavod,Myakinnitskiy L'nozavod,Myakinnitskiy L’nozavod,Мякиннитский Льнозавод	56.74642	34.53638	S	MFG	RU		77				0		236	Europe/Moscow	2012-01-16
+451940	Myakinnitsa	Myakinnitsa	Mjakinnica,Myakinnitsa,Мякинница	56.78715	34.53942	H	STM	RU		77				0		224	Europe/Moscow	2012-01-16
+451941	Moshnik	Moshnik	Moshnik,Мошник	57.04785	34.45	P	PPL	RU		77				0		217	Europe/Moscow	2012-01-16
+451942	Moshkovo	Moshkovo	Moshkovo,Мошково	57.30854	34.53794	P	PPL	RU		77				0		189	Europe/Moscow	2012-01-16
+451943	Morozovka	Morozovka	Morozovka,Морозовка	57.01888	34.19391	H	STM	RU		77				0		225	Europe/Moscow	2012-01-16
+451944	Mishkovo	Mishkovo	Mishkovo,Мишково	57.08068	34.61968	P	PPL	RU		77				0		181	Europe/Moscow	2012-01-16
+451945	Mishevo	Mishevo	Mishevo,Мишево	56.97825	34.26705	P	PPL	RU		77				0		231	Europe/Moscow	2012-01-16
+451946	Minino	Minino	Minino,Минино	56.70315	34.48691	P	PPL	RU		77				0		257	Europe/Moscow	2012-01-16
+451947	Mikhaylovo	Mikhaylovo	Mikhajlovo,Mikhaylovo,Михайлово	56.84583	34.57145	P	PPL	RU		77				0		237	Europe/Moscow	2012-01-16
+451948	Mikhalkovo	Mikhalkovo	Mikhalkovo,Михалково	56.72359	34.41454	P	PPL	RU		77				0		264	Europe/Moscow	2012-01-16
+451949	Mikhalenka	Mikhalenka	Mikhalenka,Михаленка	57.28719	34.81961	H	STM	RU		77				0		146	Europe/Moscow	2012-01-16
+451950	Mezhostrovo	Mezhostrovo	Mezhostrovo,Межострово	56.91771	34.65096	P	PPL	RU		77				0		217	Europe/Moscow	2012-01-16
+451951	Medvezh’ye	Medvezh'ye	Medvezh'e,Medvezh'ye,Medvezh’ye,Медвежье	57.02392	34.40675	P	PPL	RU		77				0		239	Europe/Moscow	2012-01-16
+451952	Medvedkovo	Medvedkovo	Medvedkovo,Медведково	57.00948	34.85878	P	PPL	RU		77				0		204	Europe/Moscow	2012-01-16
+451953	Medvedkovo	Medvedkovo	Medvedkovo,Медведково	56.97237	34.51429	P	PPL	RU		77				0		207	Europe/Moscow	2012-01-16
+451954	Medvedevo	Medvedevo	Medvedevo,Медведево	57.29293	34.08326	P	PPL	RU		77				0		270	Europe/Moscow	2012-01-16
+451955	Mayskiy	Mayskiy	Majskij,Mayskiy,Майский	56.96877	34.17399	P	PPL	RU		77				0		245	Europe/Moscow	2012-01-16
+451956	Urochishche Matveikha	Urochishche Matveikha	Urochishche Matveikha,Urochishhe Matveikha,Урочище Матвеиха	56.71602	34.66008	L	LCTY	RU		77				0		243	Europe/Moscow	2012-01-16
+451957	Maslovo	Maslovo	Maslovo,Маслово	57.00241	34.65367	P	PPL	RU		77				0		207	Europe/Moscow	2012-01-16
+451958	Mashutino	Mashutino	Mashutino,Машутино	57.04162	34.70921	P	PPL	RU		77				0		169	Europe/Moscow	2012-01-16
+451959	Mashkino	Mashkino	Mashkino,Машкино	57.21537	34.49823	P	PPL	RU		77				0		212	Europe/Moscow	2012-01-16
+451960	Manuylovo	Manuylovo	Manujlovo,Manuylovo,Мануйлово	57.04947	34.57527	P	PPL	RU		77				0		200	Europe/Moscow	2012-01-16
+451961	Malyy Borok	Malyy Borok	Malyj Borok,Malyy Borok,Малый Борок	57.03377	34.58057	P	PPL	RU		77				0		179	Europe/Moscow	2012-01-16
+451962	Maloye-Kapkovo	Maloye-Kapkovo	Maloe-Kapkovo,Maloye-Kapkovo,Малое-Капково	56.68572	34.35138	P	PPL	RU		77				0		226	Europe/Moscow	2012-01-16
+451963	Maloye Svyattsovo	Maloye Svyattsovo	Maloe Svjatcovo,Maloye Svyattsovo,Малое Святцово	57.1201	34.59764	P	PPL	RU		77				0		198	Europe/Moscow	2012-01-16
+451964	Maloye Korostkovo	Maloye Korostkovo	Maloe Korostkovo,Maloye Korostkovo,Малое Коростково	56.93143	34.48046	P	PPL	RU		77				0		197	Europe/Moscow	2012-01-16
+451965	Maloye Khoroshevo	Maloye Khoroshevo	Maloe Khoroshevo,Maloye Khoroshevo,Малое Хорошево	56.73316	34.23603	P	PPL	RU		77				0		244	Europe/Moscow	2012-01-16
+451966	Maloye Khor’kino	Maloye Khor'kino	Maloe Khor'kino,Maloye Khor'kino,Maloye Khor’kino,Малое Хорькино	57.01814	34.15118	P	PPLX	RU		77				0		242	Europe/Moscow	2012-01-16
+451967	Maloye Il’ino	Maloye Il'ino	Maloe Il'ino,Maloye Il'ino,Maloye Il’ino,Малое Ильино	57.0183	34.33187	P	PPL	RU		77				0		251	Europe/Moscow	2012-01-16
+451968	Maksimkovo	Maksimkovo	Maksimkovo,Максимково	57.07533	34.39894	P	PPL	RU		77				0		235	Europe/Moscow	2012-01-16
+451969	Lyubitsa	Lyubitsa	Ljubica,Lyubitsa,Любица	57.16374	34.17571	H	STM	RU		77				0		238	Europe/Moscow	2012-01-16
+451970	Lunyakovo	Lunyakovo	Lunjakovo,Lunyakovo,Луняково	56.79325	34.87003	P	PPL	RU		77				0		174	Europe/Moscow	2012-01-16
+451971	L’nozavod	L'nozavod	L'nozavod,L’nozavod,Льнозавод	56.66751	34.39576	P	PPL	RU		77				0		222	Europe/Moscow	2012-01-16
+451972	Leshilovo	Leshilovo	Leshilovo,Лешилово	56.86232	34.09828	P	PPL	RU		77				0		286	Europe/Moscow	2012-01-16
+451973	Lepeshkino	Lepeshkino	Lepeshkino,Лепешкино	56.83382	34.83818	P	PPL	RU		77				0		177	Europe/Moscow	2012-01-16
+451974	Lebedka	Lebedka	Lebedka,Лебедка	56.98036	34.49517	H	STM	RU		77				0		185	Europe/Moscow	2012-01-16
+451975	Lavrovo	Lavrovo	Lavrovo,Лаврово	57.28189	34.26053	P	PPL	RU		77				0		243	Europe/Moscow	2012-01-16
+451976	Lava	Lava	Lava,Лава	56.72511	34.13889	P	PPL	RU		77				0		223	Europe/Moscow	2012-01-16
+451977	Latyn’	Latyn'	Latyn',Latyn’,Латынь	57.23598	34.27215	H	STM	RU		77				0		222	Europe/Moscow	2012-01-16
+451978	Latygorevo	Latygorevo	Latygorevo,Латыгорево	57.21766	34.32939	P	PPL	RU		77				0		227	Europe/Moscow	2012-01-16
+451979	Kuzovkovo	Kuzovkovo		57.11382	34.49064	P	PPL	RU		77				0		217	Europe/Moscow	2011-07-09
+451980	Kuzhlevo	Kuzhlevo	Kuzhlevo,Кужлево	57.1258	34.98032	P	PPL	RU		77				0		166	Europe/Moscow	2012-01-16
+451981	Kurovo-Pokrovskoye	Kurovo-Pokrovskoye	Kurovo-Pokrovskoe,Kurovo-Pokrovskoye,Курово-Покровское	56.72959	34.73801	P	PPL	RU		77				0		187	Europe/Moscow	2012-01-16
+451982	Kunilovo	Kunilovo	Kunilovo,Кунилово	56.97116	34.46299	P	PPL	RU		77				0		221	Europe/Moscow	2012-01-16
+451983	Kuklino	Kuklino	Kuklino,Куклино	57.14064	34.72132	P	PPL	RU		77				0		196	Europe/Moscow	2012-01-16
+451984	Kryukovo	Kryukovo	Krjukovo,Kryukovo,Крюково	57.12474	34.94459	P	PPL	RU		77				0		162	Europe/Moscow	2012-01-16
+451985	Krasnyye Zori	Krasnyye Zori	Krasnye Zori,Krasnyye Zori,Красные Зори	56.80953	34.71243	P	PPL	RU		77				0		196	Europe/Moscow	2012-01-16
+451986	Krasnyye Ugly	Krasnyye Ugly	Krasnye Ugly,Krasnyye Ugly,Красные Углы	57.03956	34.00479	P	PPL	RU		77				0		250	Europe/Moscow	2012-01-16
+451987	Krasnoye	Krasnoye	Krasnoe,Krasnoye,Красное	57.05812	34.63403	P	PPL	RU		77				0		177	Europe/Moscow	2012-01-16
+451988	Kozhevnikovo	Kozhevnikovo	Kozhevnikovo,Кожевниково	56.69165	34.73552	P	PPL	RU		77				0		184	Europe/Moscow	2012-01-16
+451989	Kostromka	Kostromka	Kostromka,Костромка	56.80129	34.86782	P	PPL	RU		77				0		168	Europe/Moscow	2012-01-16
+451990	Kostkovo	Kostkovo	Kostkovo,Костково	57.05218	34.52327	P	PPL	RU		77				0		225	Europe/Moscow	2012-01-16
+451991	Kosteshino	Kosteshino	Kosteshino,Костешино	57.1883	34.77744	P	PPL	RU		77				0		189	Europe/Moscow	2012-01-16
+451992	Kosteshino	Kosteshino	Kosteshino,Костешино	57.0002	34.89879	P	PPL	RU		77				0		203	Europe/Moscow	2012-01-16
+451993	Korytnikovo	Korytnikovo	Korytnikovo,Корытниково	57.21411	34.51337	P	PPL	RU		77				0		219	Europe/Moscow	2012-01-16
+451994	Koryayevo	Koryayevo	Korjaevo,Koryayevo,Коряево	56.87163	34.76161	P	PPL	RU		77				0		190	Europe/Moscow	2012-01-16
+451995	Korovkino	Korovkino	Korovkino,Коровкино	56.73084	34.21513	P	PPL	RU		77				0		230	Europe/Moscow	2012-01-16
+451996	Korotkovo	Korotkovo	Korotkovo,Коротково	56.81755	34.62909	P	PPL	RU		77				0		215	Europe/Moscow	2012-01-16
+451997	Korostovka	Korostovka	Korostovka,Коростовка	57.23718	34.27242	H	STM	RU		77				0		220	Europe/Moscow	2012-01-16
+451998	Korobovo	Korobovo	Korobovo,Коробово	56.73401	34.00316	P	PPL	RU		77				0		227	Europe/Moscow	2012-01-16
+451999	Korobino	Korobino	Korobino,Коробино	56.76261	34.70769	P	PPL	RU		77				0		192	Europe/Moscow	2012-01-16
+452000	Kornevki	Kornevki	Kornevki,Корневки	56.69645	34.72474	P	PPL	RU		77				0		191	Europe/Moscow	2012-01-16
+452001	Kordon Chekanovo	Kordon Chekanovo	Kordon Chekanovo,Кордон Чеканово	57.23846	34.13795	S	PSTP	RU		77				0		280	Europe/Moscow	2012-01-16
+452002	Koptevo	Koptevo	Koptevo,Коптево	56.8164	34.91303	P	PPL	RU		77				0		164	Europe/Moscow	2012-01-16
+452003	Konyashino	Konyashino	Konjashino,Konyashino,Коняшино	56.68736	34.36431	P	PPL	RU		77				0		231	Europe/Moscow	2012-01-16
+452004	Konokovo	Konokovo	Konokovo,Коноково	57.2125	33.99625	P	PPL	RU		77				0		258	Europe/Moscow	2012-01-16
+452005	Kolochen’	Kolochen'	Kolochen',Kolochen’,Колочень	56.67758	34.08087	H	STM	RU		77				0		226	Europe/Moscow	2012-01-16
+452006	Kocherovo	Kocherovo	Kocherovo,Кочерово	57.0108	34.82136	P	PPL	RU		77				0		213	Europe/Moscow	2012-01-16
+452007	Kizhnevka	Kizhnevka	Kizhnevka,Кижневка	57.10921	34.44287	H	STM	RU		77				0		193	Europe/Moscow	2012-01-16
+452008	Kiselëvo	Kiselevo	Kiselevo,Kiseljovo,Kiselëvo,Киселёво	56.99065	34.14157	P	PPL	RU		77				0		260	Europe/Moscow	2012-01-16
+452009	Kichka	Kichka	Kichka,Кичка	57.27696	34.69128	H	STM	RU		77				0		156	Europe/Moscow	2012-01-16
+452010	Khvoshnya	Khvoshnya	Khvoshnja,Khvoshnya,Хвошня	57.03029	34.26886	P	PPL	RU		77				0		284	Europe/Moscow	2012-01-16
+452011	Khudyakovo	Khudyakovo	Khudjakovo,Khudyakovo,Худяково	57.15001	34.92542	P	PPL	RU		77	481984			0		164	Europe/Moscow	2016-04-01
+452012	Khrychevo	Khrychevo	Khrychevo,Хрычево	56.90329	34.37129	P	PPL	RU		77				0		216	Europe/Moscow	2012-01-16
+452013	Khrapyni	Khrapyni	Khrapyni,Храпыни	56.73195	34.43526	P	PPL	RU		77				0		269	Europe/Moscow	2012-01-16
+452014	Khoroshovo	Khoroshovo	Khoroshevo,Khoroshovo,Хорошово	56.71336	34.30431	P	PPL	RU		77				0		256	Europe/Moscow	2012-01-16
+452015	Khmelëvo	Khmelevo	Khmelevo,Khmeljovo,Khmelëvo,Хмелёво	57.17114	34.09293	P	PPL	RU		77				0		266	Europe/Moscow	2012-01-16
+452016	Khlyshchëvo	Khlyshchevo	Khlyshchevo,Khlyshchëvo,Khlyshhjovo,Хлыщёво	56.85744	34.99103	P	PPL	RU		77				0		159	Europe/Moscow	2012-01-16
+452017	Kharenskiy	Kharenskiy	Kharenskij,Kharenskiy,Харенский	57.2022	34.07976	H	STM	RU		77				0		242	Europe/Moscow	2012-01-16
+452018	Kazitsyno	Kazitsyno	Kazicyno,Kazitsyno,Казицыно	57.19009	34.65033	P	PPL	RU		77				0		161	Europe/Moscow	2012-01-16
+452019	Katushkino	Katushkino	Katushkino,Катушкино	57.01821	34.48964	P	PPL	RU		77				0		195	Europe/Moscow	2012-01-16
+452020	Kashayevo	Kashayevo	Kashaevo,Kashayevo,Кашаево	56.92636	34.90084	P	PPL	RU		77				0		195	Europe/Moscow	2012-01-16
+452021	Karmanovo	Karmanovo	Karmanovo,Карманово	57.20034	34.27192	P	PPL	RU		77				0		230	Europe/Moscow	2012-01-16
+452022	Karmanikha	Karmanikha	Karmanikha,Карманиха	56.81165	33.99694	P	PPL	RU		77				0		236	Europe/Moscow	2012-01-16
+452023	Karavaytsevo	Karavaytsevo	Karavajcevo,Karavaytsevo,Каравайцево	56.90345	34.28947	P	PPL	RU		77				0		241	Europe/Moscow	2012-01-16
+452024	Karasenka	Karasenka	Karasenka,Карасенка	57.21734	34.0524	H	STM	RU		77				0		249	Europe/Moscow	2012-01-16
+452025	Kamennyy	Kamennyy	Kamennyj,Kamennyy,Каменный	56.76851	34.54073	H	STM	RU		77				0		217	Europe/Moscow	2012-01-16
+452026	Kaftyrevo	Kaftyrevo	Kaftyrevo,Кафтырево	56.82204	34.46316	P	PPL	RU		77				0		246	Europe/Moscow	2012-01-16
+452027	Ivankovo	Ivankovo	Ivankovo,Иванково	57.22241	34.11991	P	PPL	RU		77				0		257	Europe/Moscow	2012-01-16
+452028	Ivankovo	Ivankovo	Ivankovo,Иванково	56.83342	34.50408	P	PPL	RU		77				0		246	Europe/Moscow	2012-01-16
+452029	Isakovo	Isakovo	Isakovo,Исаково	56.98654	34.78315	P	PPL	RU		77				0		209	Europe/Moscow	2012-01-16
+452030	Isakovka	Isakovka	Isakovka,Исаковка	56.88583	34.52917	H	STM	RU		77				0		199	Europe/Moscow	2012-01-16
+452031	Iovlevo	Iovlevo	Iovlevo,Иовлево	56.66784	34.74353	P	PPL	RU		77				0		181	Europe/Moscow	2012-01-16
+452032	Il’ka	Il'ka	Il'ka,Il’ka,Илька	56.8519	34.75055	H	STM	RU		77				0		181	Europe/Moscow	2012-01-16
+452033	Ileykino	Ileykino	Ilejkino,Ileykino,Ileykovo,Илейкино	56.67282	34.34844	P	PPL	RU		77				0		241	Europe/Moscow	2012-01-16
+452034	Greshnevo	Greshnevo	Greshnevo,Грешнево	56.72655	34.44093	P	PPL	RU		77				0		269	Europe/Moscow	2012-01-16
+452035	Grankoz	Grankoz	Grankoz,Гранкоз	56.97409	34.48282	P	PPL	RU		77				0		208	Europe/Moscow	2012-01-16
+452036	Goryanskiy	Goryanskiy	Gorjanskij,Goryanskiy,Горянский	56.85671	34.81305	H	STM	RU		77				0		171	Europe/Moscow	2012-01-16
+452037	Goryanki	Goryanki	Gorjanki,Goryanki,Горянки	56.86463	34.84168	P	PPL	RU		77				0		192	Europe/Moscow	2012-01-16
+452038	Gory	Gory	Gory,Горы	56.86973	34.65442	P	PPL	RU		77				0		231	Europe/Moscow	2012-01-16
+452039	Gornitsy	Gornitsy	Gornicy,Gornitsy,Горницы	57.20994	34.34421	P	PPL	RU		77				0		239	Europe/Moscow	2012-01-16
+452040	Goritsy	Goritsy	Goricy,Goritsy,Горицы	57.03701	34.4219	P	PPL	RU		77				0		233	Europe/Moscow	2012-01-16
+452042	Goritsy	Goritsy	Goricy,Goritsy,Горицы	56.72176	34.70081	P	PPL	RU		77				0		211	Europe/Moscow	2012-01-16
+452043	Golovishchev	Golovishchev	Golovishchev,Golovishhev,Головищев	56.74218	34.18136	H	STM	RU		77				0		221	Europe/Moscow	2012-01-16
+452044	Golobovo	Golobovo	Golobovo,Голобово	57.13127	34.70775	P	PPL	RU		77				0		191	Europe/Moscow	2012-01-16
+452045	Glinki	Glinki	Glinki,Глинки	57.08412	34.57946	P	PPL	RU		77				0		184	Europe/Moscow	2012-01-16
+452046	Glebovo	Glebovo	Glebovo,Глебово	57.26577	34.19836	P	PPL	RU		77				0		248	Europe/Moscow	2012-01-16
+452047	Glebovo	Glebovo	Glebovo,Глебово	57.22346	34.61319	P	PPL	RU		77				0		193	Europe/Moscow	2012-01-16
+452048	Glazuny	Glazuny	Glazuny,Глазуны	56.72763	34.48752	P	PPL	RU		77				0		276	Europe/Moscow	2012-01-16
+452049	Gasnya	Gasnya	Gasnja,Gasnya,Гасня	56.79337	34.01555	H	STM	RU		77				0		226	Europe/Moscow	2012-01-16
+452050	Gashlinka	Gashlinka	Gashlinka,Гашлинка	57.18512	34.66036	H	STM	RU		77				0		154	Europe/Moscow	2012-01-16
+452051	Gari	Gari	Gari,Гари	57.05669	34.83588	P	PPL	RU		77				0		208	Europe/Moscow	2012-01-16
+452052	Fomishikha	Fomishikha	Fomishikha,Фомишиха	56.82318	34.39256	P	PPL	RU		77				0		270	Europe/Moscow	2012-01-16
+452053	Urochishche Fomino	Urochishche Fomino	Urochishche Fomino,Urochishhe Fomino,Урочище Фомино	56.8029	34.3716	L	LCTY	RU		77				0		277	Europe/Moscow	2012-01-16
+452054	Fomino	Fomino	Fomino,Фомино	56.83785	34.60066	P	PPL	RU		77				0		227	Europe/Moscow	2012-01-16
+452055	Ferkun	Ferkun	Ferkun,Феркун	57.17238	34.23282	H	STM	RU		77				0		220	Europe/Moscow	2012-01-16
+452056	Fedorkovo	Fedorkovo	Fedorkovo,Федорково	56.90118	34.52507	P	PPL	RU		77				0		207	Europe/Moscow	2012-01-16
+452057	Dykhla	Dykhla	Dykhla,Дыхла	56.69599	34.0994	H	STM	RU		77				0		224	Europe/Moscow	2012-01-16
+452058	Dyatlovo	Dyatlovo	Djatlovo,Dyatlovo,Дятлово	56.99297	34.45199	P	PPL	RU		77				0		224	Europe/Moscow	2012-01-16
+452059	Dvortsy	Dvortsy	Dvorcy,Dvortsy,Дворцы	56.6648	34.40965	P	PPL	RU		77				0		230	Europe/Moscow	2012-01-16
+452060	Duplevo	Duplevo	Duplevo,Дуплево	57.31513	34.33211	P	PPL	RU		77				0		254	Europe/Moscow	2012-01-16
+452061	Dulovo	Dulovo	Dulovo,Дулово	56.79018	34.58083	P	PPL	RU		77				0		215	Europe/Moscow	2012-01-16
+452062	Dubrovka	Dubrovka	Dubrovka,Дубровка	57.29189	34.56041	P	PPL	RU		77				0		184	Europe/Moscow	2012-01-16
+452063	Dubrovka	Dubrovka	Dubrovka,Дубровка	56.99793	34.98397	P	PPL	RU		77				0		158	Europe/Moscow	2012-01-16
+452064	Dubki	Dubki	Dubki,Дубки	56.9521	34.76198	P	PPL	RU		77				0		217	Europe/Moscow	2012-01-16
+452065	Drozdovo	Drozdovo	Drozdovo,Дроздово	57.33047	34.3477	P	PPL	RU		77				0		260	Europe/Moscow	2012-01-16
+452066	Doronkino	Doronkino	Doronkino,Доронкино	57.07027	34.33155	P	PPL	RU		77				0		262	Europe/Moscow	2012-01-16
+452067	Dorofeyki	Dorofeyki	Dorofejki,Dorofeyki,Дорофейки	56.79886	34.89281	P	PPL	RU		77				0		163	Europe/Moscow	2012-01-16
+452068	Dorki	Dorki	Dorki,Дорки	56.91361	34.91639	P	PPL	RU		77				0		196	Europe/Moscow	2012-01-16
+452069	Dmitrovskoye	Dmitrovskoye	Dmitrovskoe,Dmitrovskoye,Дмитровское	56.80971	34.51329	P	PPL	RU		77				0		239	Europe/Moscow	2012-01-16
+452070	Dityatkino	Dityatkino	Ditjatkino,Dityatkino,Дитяткино	57.16967	34.85046	P	PPL	RU		77				0		185	Europe/Moscow	2012-01-16
+452071	Dalekushi	Dalekushi	Dalekushi,Далекуши	56.91919	34.44282	P	PPL	RU		77				0		221	Europe/Moscow	2012-01-16
+452072	Churikovo	Churikovo	Churikovo,Чуриково	57.0922	34.90569	P	PPL	RU		77				0		169	Europe/Moscow	2012-01-16
+452073	Churikovo	Churikovo	Churikovo,Чуриково	56.91273	34.93842	P	PPL	RU		77				0		207	Europe/Moscow	2012-01-16
+452074	Chuprovo	Chuprovo	Chuprovo,Чупрово	57.16758	34.60455	P	PPL	RU		77				0		174	Europe/Moscow	2012-01-16
+452075	Chudiny	Chudiny	Chudiny,Чудины	57.13249	34.53793	P	PPL	RU		77				0		225	Europe/Moscow	2012-01-16
+452076	Chudinovo	Chudinovo	Chudinovo,Чудиново	56.94317	34.26792	P	PPL	RU		77				0		251	Europe/Moscow	2012-01-16
+452077	Chistyaki	Chistyaki	Chistjaki,Chistyaki,Чистяки	57.30064	34.25013	P	PPL	RU		77				0		264	Europe/Moscow	2012-01-16
+452078	Chigarikha	Chigarikha	Chigarikha,Чигариха	56.80902	34.42747	P	PPL	RU		77				0		260	Europe/Moscow	2012-01-16
+452079	Chevakino	Chevakino	Chevakino,Чевакино	57.00951	34.72479	P	PPL	RU		77				0		182	Europe/Moscow	2012-01-16
+452080	Chernigovo	Chernigovo	Chernigovo,Чернигово	56.85304	34.60384	P	PPL	RU		77				0		220	Europe/Moscow	2012-01-16
+452081	Chelyadino	Chelyadino	Cheljadino,Chelyadino,Челядино	57.14052	34.64193	P	PPL	RU		77				0		195	Europe/Moscow	2012-01-16
+452082	Bykovets	Bykovets	Bykovec,Bykovets,Быковец	56.81374	34.93194	H	STM	RU		77				0		158	Europe/Moscow	2012-01-16
+452083	Burchikha	Burchikha	Burchikha,Бурчиха	56.81685	34.57251	P	PPL	RU		77				0		230	Europe/Moscow	2012-01-16
+452084	Bunyatino	Bunyatino	Bunjatino,Bunyatino,Бунятино	57.08881	34.72856	P	PPL	RU		77				0		175	Europe/Moscow	2012-01-16
+452085	Bulatnikovo	Bulatnikovo	Bulatnikovo,Булатниково	56.81082	34.9506	P	PPL	RU		77				0		155	Europe/Moscow	2012-01-16
+452086	Brylevo	Brylevo	Brylevo,Брылево	57.26103	34.46267	P	PPL	RU		77				0		216	Europe/Moscow	2012-01-16
+452087	Bronnitsa	Bronnitsa	Bronnica,Bronnitsa,Бронница	57.31541	34.45051	P	PPL	RU		77				0		230	Europe/Moscow	2012-01-16
+452088	Boyarskoye	Boyarskoye	Bojarskoe,Boyarskoye,Боярское	56.74418	34.9385	P	PPL	RU		77				0		161	Europe/Moscow	2012-01-16
+452089	Brodovo	Brodovo	Brodovo,Бродово	56.6753	34.83624	P	PPL	RU		77				0		177	Europe/Moscow	2012-01-16
+452090	Borodino	Borodino	Borodino,Бородино	57.08636	34.48764	P	PPL	RU		77				0		211	Europe/Moscow	2012-01-16
+452091	Borlino	Borlino	Borlino,Борлино	57.31975	34.67397	P	PPL	RU		77				0		192	Europe/Moscow	2012-01-16
+452092	Borkino	Borkino	Borkino,Боркино	56.72751	34.52897	P	PPL	RU		77				0		250	Europe/Moscow	2012-01-16
+452093	Boristsevo	Boristsevo	Boriscevo,Boristsevo,Борисцево	57.00479	34.91779	P	PPL	RU		77				0		179	Europe/Moscow	2012-01-16
+452094	Boristsevo	Boristsevo	Boriscevo,Boristsevo,Борисцево	56.75779	34.37044	P	PPL	RU		77				0		254	Europe/Moscow	2012-01-16
+452095	Borisova Gora	Borisova Gora	Borisova Gora,Борисова Гора	57.26882	34.74995	P	PPL	RU		77				0		203	Europe/Moscow	2012-01-16
+452096	Bol’nitsa	Bol'nitsa	Bol'nica,Bol'nitsa,Bol’nitsa,Больница	57.25225	34.22665	P	PPL	RU		77				0		233	Europe/Moscow	2012-01-16
+452097	Bogorodetskoye	Bogorodetskoye	Bogorodetskoe,Bogorodetskoye,Bogoroditskoye,Богородетское	56.84645	34.6329	P	PPL	RU		77				0		225	Europe/Moscow	2012-01-16
+452098	Bocherovo	Bocherovo	Bocherovo,Бочерово	56.78367	34.58549	P	PPL	RU		77				0		225	Europe/Moscow	2012-01-16
+452099	Urochishche Bobylikha	Urochishche Bobylikha		56.77379	34.78052	L	LCTY	RU		77				0		209	Europe/Moscow	2011-07-09
+452100	Bobrov-Gorodok	Bobrov-Gorodok	Bobrov-Gorodok,Бобров-Городок	57.19781	34.64608	P	PPL	RU		77				0		169	Europe/Moscow	2012-01-16
+452101	Bezymyannyy	Bezymyannyy	Bezymjannyj,Bezymyannyy,Безымянный	57.16471	34.17576	H	STM	RU		77				0		229	Europe/Moscow	2012-01-16
+452102	Bezuzik	Bezuzik	Bezuzik,Безузик	57.231	34.36791	H	STM	RU		77				0		215	Europe/Moscow	2012-01-16
+452103	Berëzki	Berezki	Berezki,Berjozki,Berëzki,Берёзки	57.0097	34.73564	P	PPL	RU		77				0		181	Europe/Moscow	2012-01-16
+452104	Berëzki	Berezki	Berezki,Berjozki,Berëzki,Берёзки	56.96046	34.85022	P	PPL	RU		77				0		200	Europe/Moscow	2012-01-16
+452105	Berëzino	Berezino	Berezino,Berjozino,Berëzino,Берёзино	57.31278	34.59127	P	PPL	RU		77				0		172	Europe/Moscow	2012-01-16
+452106	Belyy	Belyy	Belyj,Belyy,Белый	57.18483	34.31518	H	STM	RU		77				0		212	Europe/Moscow	2012-01-16
+452107	Belukha	Belukha	Belukha,Белуха	57.33039	34.8447	H	STM	RU		77				0		159	Europe/Moscow	2012-01-16
+452108	Ozero Beloye	Ozero Beloye		56.91326	34.61613	H	LK	RU		77				0		205	Europe/Moscow	2011-07-09
+452109	Bavykino	Bavykino	Bavykino,Бавыкино	57.22588	34.46818	P	PPL	RU		77				0		226	Europe/Moscow	2012-01-16
+452110	Barsuki	Barsuki	Barsuki,Барсуки	56.69802	34.88562	P	PPL	RU		77				0		177	Europe/Moscow	2012-01-16
+452111	Bakunino	Bakunino	Bakunino,Бакунино	57.00412	34.4826	P	PPL	RU		77				0		208	Europe/Moscow	2012-01-16
+452112	Babinskoye	Babinskoye	Babinskoe,Babinskoje,Babinskoye,Бабинское	56.7293	34.38777	P	PPL	RU		77				0		273	Europe/Moscow	2012-01-16
+452113	Babino	Babino	Babino,Бабино	57.18648	34.12676	P	PPL	RU		77				0		247	Europe/Moscow	2012-01-16
+452114	Babanovka	Babanovka	Babanovka,Бабановка	57.23885	34.87419	H	STM	RU		77				0		146	Europe/Moscow	2012-01-16
+452115	Avangard	Avangard	Avangard,Авангард	56.68261	34.2835	P	PPL	RU		77				0		252	Europe/Moscow	2012-01-16
+452116	Artyukhino	Artyukhino	Artjukhino,Artyukhino,Артюхино	57.29505	34.23952	P	PPL	RU		77				0		268	Europe/Moscow	2012-01-16
+452117	Antsyferovo	Antsyferovo	Ancyferovo,Antsyferovo,Анцыферово	56.82934	34.53169	P	PPL	RU		77				0		236	Europe/Moscow	2012-01-16
+452118	Antonkovo	Antonkovo	Antonkovo,Антонково	56.98796	34.50441	P	PPL	RU		77				0		197	Europe/Moscow	2012-01-16
+452119	Annino	Annino	Annino,Аннино	57.02678	34.72716	P	PPL	RU		77				0		188	Europe/Moscow	2012-01-16
+452120	Alekseykovo	Alekseykovo	Aleksejkovo,Alekseykovo,Алексейково	56.90597	34.77476	P	PPL	RU		77				0		218	Europe/Moscow	2012-01-16
+452121	Aleksandrovo	Aleksandrovo	Aleksandrovo,Александрово	57.23739	34.74866	P	PPL	RU		77				0		186	Europe/Moscow	2012-01-16
+452122	Aleksandrovka	Aleksandrovka	Aleksandrovka,Александровка	56.84244	34.57643	P	PPL	RU		77				0		232	Europe/Moscow	2012-01-16
+452123	Aksenovo	Aksenovo	Aksenovo,Аксеново	56.85744	34.76769	P	PPL	RU		77				0		183	Europe/Moscow	2012-01-16
+452124	Stantsiya Torzhok	Stantsiya Torzhok	Stantsiya Torzhok,Torzhok	57.04194	34.98194	S	RSTN	RU	RU	77				0		167	Europe/Moscow	2012-01-16
+452125	OstanovochnyyPunkt Sokol’niki	OstanovochnyyPunkt Sokol'niki		56.89677	34.03571	S	RSTP	RU		77				0		261	Europe/Moscow	2011-07-09
+452126	Stantsiya Skripkovo	Stantsiya Skripkovo	Razyezd Skripkovo,Raz”yezd Skripkovo,Skripkovo,Stantsiya Skripkovo	57.00409	34.87017	S	RSTN	RU		77				0		204	Europe/Moscow	2012-01-16
+452127	Stantsiya Rantsevo	Stantsiya Rantsevo		56.92977	34.03899	S	RSTN	RU		77				0		254	Europe/Moscow	2011-07-09
+452128	Stantsiya Pozhitovo	Stantsiya Pozhitovo		56.82542	34.95495	S	RSTN	RU		77				0		161	Europe/Moscow	2011-07-09
+452129	Stantsiya Vysokoye	Stantsiya Vysokoye		56.69463	34.90834	S	RSTN	RU		77				0		175	Europe/Moscow	2011-07-09
+452130	Stantsiya Kuvshinovo	Stantsiya Kuvshinovo	Kuvshinovo,Stantsiya Kuvshinovo	57.02361	34.18944	S	RSTN	RU	RU	77				0		225	Europe/Moscow	2012-01-16
+452131	Raz”yezd Golenishchevo	Raz"yezd Golenishchevo		56.9817	34.97066	S	RSD	RU		77				0		173	Europe/Moscow	2011-07-09
+452650	Oshakovo	Oshakovo	Oshakovo,Ошаково	57.32993	33.86286	P	PPL	RU		77				0		253	Europe/Moscow	2012-01-16
+452651	Ozero Bol’shoye Pestino	Ozero Bol'shoye Pestino		57.32889	33.13722	H	LK	RU		77				0		217	Europe/Moscow	2007-01-23
+452652	Chigarikha	Chigarikha	Chigarikha,Чигариха	57.3282	33.43449	P	PPL	RU		77				0		254	Europe/Moscow	2012-01-16
+452653	Ostrov Koshelev	Ostrov Koshelev		57.32059	33.09554	T	ISL	RU		77				0		226	Europe/Moscow	2011-04-18
+452655	Boloto Bol’shoy Mokh	Boloto Bol'shoy Mokh	Boloto Bol'shoj Mokh,Boloto Bol'shoy Mokh,Boloto Bol’shoy Mokh,Болото Большой Мох	57.32789	33.3228	H	SWMP	RU		77				0		219	Europe/Moscow	2012-01-16
+452656	Lom	Lom	Lom,Лом	57.31876	33.20496	P	PPL	RU		77				0		206	Europe/Moscow	2012-01-16
+452657	Ozero Maloye Pestino	Ozero Maloye Pestino	Ozero Maloe Pestino,Ozero Maloye Pestino,Озеро Малое Пестино	57.31962	33.17159	H	LK	RU		77				0		210	Europe/Moscow	2012-01-16
+452659	Ostrov Bol’shoy Kolodnyy	Ostrov Bol'shoy Kolodnyy		57.26472	33.03457	T	ISL	RU		77				0		231	Europe/Moscow	2011-04-18
+452660	Zapolek	Zapolek	Zapol'ki,Zapolek,Zapol’ki	57.31256	33.8336	P	PPL	RU		77				0		256	Europe/Moscow	2012-01-16
+452661	Ostrov Malyy Kolodnyy	Ostrov Malyy Kolodnyy	Ostrov Malyj Kolodnyj,Ostrov Malyy Kolodnyy,Остров Малый Колодный	57.30856	33.09208	T	ISL	RU		77				0		211	Europe/Moscow	2012-01-16
+452662	Ostretsovo	Ostretsovo	Ostrecovo,Ostretsovo,Острецово	57.2949	33.73209	P	PPL	RU		77				0		250	Europe/Moscow	2012-01-16
+452663	Khreten’	Khreten'	Khreten',Khreten’,Хретень	57.29239	33.05735	P	PPL	RU		77				0		209	Europe/Moscow	2012-01-16
+452664	Pervoye Maya	Pervoye Maya	Pervoe Maja,Pervoye Maya,Первое Мая	57.28855	33.35737	P	PPL	RU		77				0		219	Europe/Moscow	2012-01-16
+452665	Ozero Beloye	Ozero Beloye		57.28722	33.0475	H	LK	RU		77				0		214	Europe/Moscow	2007-01-23
+452666	Ozero Boyarskoye	Ozero Boyarskoye		57.28703	33.20156	H	LK	RU		77				0		213	Europe/Moscow	2011-04-18
+452667	Golodusha	Golodusha	Golodusha,Голодуша	57.28354	33.32041	H	STM	RU		77				0		207	Europe/Moscow	2012-01-16
+452668	Osnitskaya	Osnitskaya	Osnitskaja,Osnitskaya,Оснитская	57.28396	33.32131	H	STM	RU		77				0		206	Europe/Moscow	2012-01-16
+452669	Grinino	Grinino	Grinino,Гринино	57.28418	33.32507	P	PPL	RU		77				0		212	Europe/Moscow	2012-01-16
+452671	Berëzka	Berezka	Berezka,Berjozka,Berëzka,Берёзка	57.27847	33.62466	P	PPL	RU		77				0		247	Europe/Moscow	2012-01-16
+452672	Boloto Semënovskoye	Boloto Semenovskoye	Boloto Semenovskoe,Boloto Semenovskoye,Boloto Semënovskoye,Болото Семеновское	57.28543	33.47956	H	SWMP	RU		77				0		238	Europe/Moscow	2012-01-16
+452673	Urochishche Zagorastovo	Urochishche Zagorastovo		57.2741	33.87357	L	AREA	RU		77				0		305	Europe/Moscow	2011-07-09
+452674	Ozero Shchuch’ye	Ozero Shchuch'ye	Ozero Shchuch'ye,Ozero Shchuch’ye,Ozero Shhuch'e,Озеро Щучье	57.26972	33.055	H	LK	RU		77				0		223	Europe/Moscow	2012-01-16
+452675	Ostrov Khachin	Ostrov Khachin		57.2663	33.03744	T	ISL	RU		77				0		229	Europe/Moscow	2011-04-18
+452676	Mys Tolstik	Mys Tolstik		57.26823	33.11352	T	PT	RU		77				0		207	Europe/Moscow	2011-04-18
+452677	Ostrov Tishchenko	Ostrov Tishchenko		57.26444	33.06	T	ISL	RU		77				0		223	Europe/Moscow	2007-01-23
+452678	Opash	Opash	Opash,Опаш	57.26009	33.67352	H	STM	RU		77				0		217	Europe/Moscow	2012-01-16
+452679	Chernivets	Chernivets	Chernivec,Chernivets,Чернивец	57.25787	33.70059	H	STM	RU		77				0		226	Europe/Moscow	2012-01-16
+452680	Chernivets	Chernivets	Chernivec,Chernivets,Чернивец	57.25884	33.82524	P	PPL	RU		77				0		269	Europe/Moscow	2012-01-16
+452681	Karmanovo	Karmanovo	Karmanovo,Карманово	57.25637	33.9139	P	PPL	RU		77				0		311	Europe/Moscow	2012-01-16
+452682	Boloto Anushinskiy Mokh	Boloto Anushinskiy Mokh	Boloto Anushinskij Mokh,Boloto Anushinskiy Mokh,Болото Анушинский Мох	57.25564	33.42464	H	SWMP	RU		77				0		240	Europe/Moscow	2012-01-16
+452683	Dubënka	Dubenka	Dubenka,Dubënka,Дубенка	57.25547	33.25519	P	PPL	RU		77				0		230	Europe/Moscow	2012-01-16
+452684	Tverdyakino	Tverdyakino		57.25388	33.12127	P	PPL	RU		77				0		210	Europe/Moscow	2011-04-18
+452685	Chërnyy Dor	Chernyy Dor	Chernyj Dor,Chernyy Dor,Chjornyj Dor,Chërnyy Dor,Tsjernyj Dor,Черный Дор,Чёрный Дор	57.24876	33.32973	P	PPL	RU		77				0		222	Europe/Moscow	2012-01-16
+452686	Ozero Beloye	Ozero Beloye		57.24648	33.05129	H	LK	RU		77				0		207	Europe/Moscow	2011-04-18
+452687	Ozero Zaletskoye	Ozero Zaletskoye		57.24528	33.15639	H	LK	RU		77				0		203	Europe/Moscow	2007-01-23
+452688	Ozero Glubokoye	Ozero Glubokoye		57.2429	33.13562	H	LK	RU		77				0		205	Europe/Moscow	2011-04-18
+452689	Glubochitsa	Glubochitsa	Glubochica,Glubochitsa,Глубочица	57.23972	33.15002	P	PPL	RU		77				0		212	Europe/Moscow	2012-01-16
+452690	Sloboda	Sloboda	Sloboda,Слобода	57.24027	33.54289	P	PPL	RU		77				0		235	Europe/Moscow	2012-01-16
+452691	Ovintsevo	Ovintsevo	Ovincevo,Ovintsevo,Овинцево	57.238	33.97626	P	PPL	RU		77				0		294	Europe/Moscow	2012-01-16
+452692	Svetlitsa	Svetlitsa	Svetlica,Svetlitsa,Светлица	57.23779	33.0692	P	PPL	RU		77				500		218	Europe/Moscow	2015-11-07
+452693	Stolbnoy	Stolbnoy	Stolbnoj,Stolbnoy,Столбной	57.23525	33.06151	P	PPL	RU		77				0		219	Europe/Moscow	2012-01-16
+452694	Ozero Dolgoye	Ozero Dolgoye		57.23495	33.19304	H	LK	RU		77				0		227	Europe/Moscow	2011-04-18
+452695	Lyapino	Lyapino	Ljapino,Lyapino,Ляпино	57.23138	33.07662	P	PPL	RU		77				0		209	Europe/Moscow	2012-01-16
+452696	Peski	Peski	Peski,Пески	57.22915	33.0723	P	PPL	RU		77				0		208	Europe/Moscow	2012-01-16
+452697	Fed’kovets	Fed'kovets	Fed'kovec,Fed'kovets,Fed’kovets,Федьковец	57.22797	33.59699	H	STM	RU		77				0		223	Europe/Moscow	2012-01-16
+452698	Urochishche Slyuda	Urochishche Slyuda	Urochishche Slyuda,Urochishhe Sljuda,Урочище Слюда	57.22473	33.82751	L	AREA	RU		77				0		307	Europe/Moscow	2012-01-16
+452700	Konëvo	Konevo	Konevo,Konëvo,Конево	57.20705	33.06031	P	PPL	RU		77				0		203	Europe/Moscow	2012-01-16
+452701	Zales’ye	Zales'ye		57.21536	33.92996	P	PPL	RU		77				0		291	Europe/Moscow	2011-07-09
+452702	Boloto Studenets	Boloto Studenets	Boloto Studenec,Boloto Studenets,Болото Студенец	57.2179	33.46932	H	SWMP	RU		77				0		235	Europe/Moscow	2012-01-16
+452703	Ozero Ryasno	Ozero Ryasno	Ozero Rjasno,Ozero Ryasno,Озеро Рясно	57.21262	33.25789	H	LK	RU		77				0		217	Europe/Moscow	2012-01-16
+452704	Zarech’ye	Zarech'ye		57.20119	33.01062	P	PPL	RU		77				0		213	Europe/Moscow	2011-04-18
+452705	Ozero Krugloye	Ozero Krugloye		57.20129	33.28611	H	LK	RU		77				0		215	Europe/Moscow	2011-07-09
+452706	Ozero Koregoshch	Ozero Koregoshch	Ozero Koregoshch,Ozero Koregoshh,Озеро Корегощ	57.19706	32.99408	H	LK	RU		77				0		202	Europe/Moscow	2012-01-16
+452707	Lesouchastok Gorlanovka	Lesouchastok Gorlanovka		57.1881	33.68803	S	CMPL	RU		77				0		230	Europe/Moscow	2011-07-09
+452708	Ostanovochnyy Punkt Tsna	Ostanovochnyy Punkt Tsna	Ostanovochnyy Punkt Tsna,Tsna	57.18621	33.71643	S	RSTP	RU		77				0		242	Europe/Moscow	2012-01-16
+452709	Pogoreloye	Pogoreloye	Pogoreloe,Pogoreloye,Погорелое	57.18732	33.16501	P	PPL	RU		77				0		232	Europe/Moscow	2012-01-16
+452710	Unitsy	Unitsy		57.18389	33.15306	P	PPL	RU		77				0		216	Europe/Moscow	2007-01-23
+452711	Urochishche Ol’movo	Urochishche Ol'movo	Urochishche Ol'movo,Urochishche Ol’movo,Urochishhe Ol'movo,Урочище Ольмово	57.17947	33.57479	L	AREA	RU		77				0		254	Europe/Moscow	2012-01-16
+452712	Belemezh’ye	Belemezh'ye	Belemezh'e,Belemezh'ye,Belemezh’ye,Belemezje,Белемежье	57.17958	33.83604	P	PPL	RU		77				0		277	Europe/Moscow	2012-01-16
+452713	Ozero Sermenok	Ozero Sermenok	Ozero Sermenok,Озеро Серменок	57.17963	33.00581	H	LK	RU		77				0		203	Europe/Moscow	2012-01-16
+452714	Ostrov Fomichëv	Ostrov Fomichev	Ostrov Fomichev,Ostrov Fomichjov,Ostrov Fomichëv,Остров Фомичёв	57.17352	33.09575	T	ISL	RU		77				0		207	Europe/Moscow	2012-01-16
+452715	Urochishche Alikhova Izba	Urochishche Alikhova Izba		57.17086	33.38544	L	LCTY	RU		77				0		241	Europe/Moscow	2011-07-09
+452716	Raz”yezd 104 km	Raz"yezd 104 km	Razyezd 104 km,Razuezd 104 km,Raz”yezd 104 km,Разъезд 104 км	57.16853	33.21524	S	RSD	RU		77				0		205	Europe/Moscow	2012-01-16
+452717	Zorino	Zorino	Zarino,Zorino	57.16843	33.22088	P	PPL	RU		77				0		213	Europe/Moscow	2012-01-16
+452718	Pokrovskoye	Pokrovskoye	Podlozh'ye,Podlozh’ye,Pokrovskoe,Pokrovskoye,Покровское	57.16869	33.18019	P	PPL	RU		77				0		214	Europe/Moscow	2012-01-16
+452719	Ostrov Voronezhskiy	Ostrov Voronezhskiy		57.16789	33.10441	T	ISL	RU		77				0		206	Europe/Moscow	2011-04-18
+452720	Urochishche Ramenskiy Mokh	Urochishche Ramenskiy Mokh	Urochishche Ramenskiy Mokh,Urochishhe Ramenskij Mokh,Урочище Раменский Мох	57.1637	33.32214	L	AREA	RU		77				0		222	Europe/Moscow	2012-01-16
+452721	Urochishche Sidorova Niva	Urochishche Sidorova Niva	Urochishche Sidorova Niva,Urochishhe Sidorova Niva,Урочище Сидорова Нива	57.15807	33.6922	L	AREA	RU		77				0		268	Europe/Moscow	2012-01-16
+452722	Feshkovets	Feshkovets	Feshkovec,Feshkovets,Фешковец	57.15418	33.80274	H	STM	RU		77				0		241	Europe/Moscow	2012-01-16
+452723	Silino	Silino	Silino,Силино	57.13865	33.99596	P	PPL	RU		77				0		275	Europe/Moscow	2012-01-16
+452724	Bol’shoye Ronskoye	Bol'shoye Ronskoye	Bol'shoe Ronskoe,Bol'shoye Ronskoye,Bol’shoye Ronskoye,Большое Ронское	57.13447	32.9965	P	PPL	RU		77				0		216	Europe/Moscow	2012-01-16
+452725	Nikol’skoye	Nikol'skoye	Nikol'skoe,Nikol'skoye,Nikol’skoye,Никольское	57.13606	33.02768	P	PPL	RU		77				0		232	Europe/Moscow	2012-01-16
+452726	Bordovskaya	Bordovskaya	Bordovskaja,Bordovskaya,Бордовская	57.1351	33.94377	P	PPL	RU		77				0		263	Europe/Moscow	2012-01-16
+452727	Zhulevo	Zhulevo		57.13415	33.03403	P	PPL	RU		77				0		239	Europe/Moscow	2011-04-18
+452728	Boloto Kukarevskiy Mokh	Boloto Kukarevskiy Mokh	Boloto Kukarevskij Mokh,Boloto Kukarevskiy Mokh,Болото Кукаревский Мох	57.13974	33.42722	H	SWMP	RU		77				0		233	Europe/Moscow	2012-01-16
+452729	Neskuchnoye	Neskuchnoye	Neskuchnoe,Neskuchnoye,Нескучное	57.13209	33.00557	P	PPL	RU		77				0		231	Europe/Moscow	2012-01-16
+452730	Pustoshka	Pustoshka	Pustoshka,Пустошка	57.131	33.79507	P	PPL	RU		77				0		263	Europe/Moscow	2012-01-16
+452731	Torfyanyy Uchastok Pervyy	Torfyanyy Uchastok Pervyy		57.12944	33.0725	P	PPL	RU		77				0		210	Europe/Moscow	1997-12-10
+452732	Dolgoye	Dolgoye	Dolgoe,Dolgoje,Dolgoye,Vyselki Dolgoye,Долгое	57.13043	33.40734	P	PPL	RU		77				0		249	Europe/Moscow	2012-01-16
+452733	Zales’ye	Zales'ye	Zales'ye,Zales’ye,Zasel'ye,Zasel’ye	57.12505	33.20286	P	PPL	RU		77				0		213	Europe/Moscow	2012-01-16
+452734	Kordon Podsek	Kordon Podsek	Kordon Podsek,Кордон Подсек	57.11763	33.57017	S	PSTP	RU		77				0		258	Europe/Moscow	2012-06-05
+452735	Gorbovka	Gorbovka	Gorbovka,Горбовка	57.11289	33.19244	P	PPL	RU		77				0		207	Europe/Moscow	2012-01-16
+452736	Boloto Kamenskiy Mokh	Boloto Kamenskiy Mokh	Boloto Kamenskij Mokh,Boloto Kamenskiy Mokh,Болото Каменский Мох	57.10977	33.33788	H	SWMP	RU		77				0		225	Europe/Moscow	2012-01-16
+452737	Sopkovo	Sopkovo	Sapkovo,Sopkovo,Сопково	57.11027	33.86595	P	PPL	RU		77				0		268	Europe/Moscow	2012-01-16
+452738	Kalishche	Kalishche	Kalishche,Kalishhe,Калище	57.10895	33.21309	P	PPL	RU		77				0		211	Europe/Moscow	2012-01-16
+452739	Boloto Kletinskiy Mokh	Boloto Kletinskiy Mokh	Boloto Kletinskij Mokh,Boloto Kletinskiy Mokh,Болото Клетинский Мох	57.11154	33.3945	H	SWMP	RU		77				0		226	Europe/Moscow	2012-01-16
+452740	Ryabinino	Ryabinino	Rjabinino,Ryabinino,Рябинино	57.10377	33.90193	P	PPLQ	RU		77				0		270	Europe/Moscow	2012-01-16
+452741	Kletino	Kletino	Kletino,Клетино	57.10337	33.44257	P	PPL	RU		77				150		230	Europe/Moscow	2013-08-05
+452744	Rogozha	Rogozha	Rogozha,Рогожа	57.09795	33.25918	P	PPL	RU		77				0		212	Europe/Moscow	2012-01-16
+452745	Sigovka	Sigovka	Sigovka,Сиговка	57.09592	33.2079	P	PPL	RU		77				0		214	Europe/Moscow	2012-01-16
+452747	Zabolot’ye	Zabolot'ye		57.09611	33.30524	P	PPL	RU		77				0		221	Europe/Moscow	2011-07-09
+452748	Smeshovo	Smeshovo	Smeshovo,Смешово	57.08868	33.53084	P	PPL	RU		77				0		247	Europe/Moscow	2012-01-16
+452749	Silino	Silino	Silino,Силино	57.08615	33.80756	P	PPL	RU		77				0		249	Europe/Moscow	2012-01-16
+452750	Posilovo	Posilovo	Posilovo,Посилово	57.08504	33.96324	P	PPL	RU		77				0		279	Europe/Moscow	2012-01-16
+452751	Ozero Bol’shoye	Ozero Bol'shoye		57.08369	33.0998	H	LK	RU		77				0		220	Europe/Moscow	2011-04-18
+452752	Ostsy	Ostsy	Oscy,Ostsy,Осцы	57.08309	33.27262	P	PPL	RU		77				0		214	Europe/Moscow	2012-01-16
+452753	Raz”yezd 122 km	Raz"yezd 122 km	Razyezd 122 km,Razuezd 122 km,Raz”yezd 122 km,Разъезд 122 км	57.08222	33.02333	S	RSD	RU		77				0		239	Europe/Moscow	2012-01-16
+452754	Mogilevochka	Mogilevochka	Mogilevochka,Могилевочка	57.07949	33.77278	H	STM	RU		77				0		245	Europe/Moscow	2012-01-16
+452755	Petrikovo	Petrikovo	Petrikovo,Петриково	57.07769	33.11571	P	PPL	RU		77				0		225	Europe/Moscow	2012-01-16
+452756	Ozero Dolosets	Ozero Dolosets		57.07566	33.02145	H	LK	RU		77				0		227	Europe/Moscow	2011-04-18
+452757	Ivanova Gora	Ivanova Gora	Ivanova Gora,Иванова Гора	57.06655	33.05586	P	PPL	RU		77				0		232	Europe/Moscow	2012-01-16
+452760	Ugol’nik	Ugol'nik		57.05315	33.39418	H	STM	RU		77				0		215	Europe/Moscow	2011-07-09
+452761	Volodarskoye	Volodarskoye		57.05092	33.07706	P	PPL	RU		77				0		232	Europe/Moscow	2011-04-18
+452762	Dudkino	Dudkino	Dudkino,Дудкино	57.04881	33.62951	P	PPL	RU		77				0		250	Europe/Moscow	2012-01-16
+452763	Boloto Polovinnik	Boloto Polovinnik	Boloto Polovinnik,Болото Половинник	57.01864	33.79392	H	SWMP	RU		77				0		261	Europe/Moscow	2012-01-16
+452764	Kraklovo	Kraklovo	Kraklovo,Краклово	57.03989	33.10454	P	PPL	RU		77				0		223	Europe/Moscow	2012-01-16
+452765	Taraskovskoye Vodokhranilishche	Taraskovskoye Vodokhranilishche		57.0227	33.97082	H	RSV	RU		77				0		246	Europe/Moscow	2011-07-09
+452766	Urochishche Barsuki	Urochishche Barsuki		57.02219	33.34796	L	AREA	RU		77				0		219	Europe/Moscow	2011-07-09
+452767	Boloto Pakhomovo	Boloto Pakhomovo	Boloto Pakhomovo,Болото Пахомово	57.02274	33.90737	H	SWMP	RU		77				0		252	Europe/Moscow	2012-01-16
+452768	Urochishche Spiridovo	Urochishche Spiridovo	Urochishche Spiridovo,Urochishhe Spiridovo,Урочище Спиридово	57.00827	33.03661	L	AREA	RU		77				0		257	Europe/Moscow	2012-01-16
+452769	Leonovskoye	Leonovskoye	Leonovskoe,Leonovskoye,Леоновское	57.0027	33.24302	P	PPLQ	RU		77				0		232	Europe/Moscow	2012-01-16
+452770	Ozero Krugloye	Ozero Krugloye		56.99872	33.34636	H	LK	RU		77				0		211	Europe/Moscow	2011-07-09
+452771	Anan’ino	Anan'ino	Anan'ino,Ananino,Anan’ino,Ананьино	56.99878	33.65667	P	PPL	RU		77				0		227	Europe/Moscow	2012-01-16
+452772	Perevo	Perevo	Perevo,Перево	56.99364	33.77844	P	PPL	RU		77				0		274	Europe/Moscow	2012-01-16
+452773	Boloto Pakhomovo	Boloto Pakhomovo	Boloto Pakhomovo,Болото Пахомово	56.99194	33.97194	H	SWMP	RU		77				0		274	Europe/Moscow	2019-05-07
+452774	Boloto Chistik	Boloto Chistik	Boloto Chistik,Болото Чистик	56.99259	33.39353	H	SWMP	RU		77				0		212	Europe/Moscow	2012-01-16
+452775	Ozero Dolgoye	Ozero Dolgoye		56.98913	33.34864	H	LK	RU		77				0		211	Europe/Moscow	2011-07-09
+452776	Urevy	Urevy		56.98806	33.31462	P	PPL	RU		77				0		207	Europe/Moscow	2011-07-09
+452777	Gladkoye	Gladkoye	Gladkoe,Gladkoye,Гладкое	56.98862	33.2326	P	PPL	RU		77				0		232	Europe/Moscow	2012-01-16
+452778	Kamenka	Kamenka	Kamenka,Каменка	56.98372	33.49552	P	PPL	RU		77				0		226	Europe/Moscow	2012-01-16
+452779	Urochishche Ol’khovo	Urochishche Ol'khovo	Urochishche Ol'khovo,Urochishche Ol’khovo,Urochishhe Ol'khovo,Урочище Ольхово	56.98137	33.06644	L	LCTY	RU		77				0		226	Europe/Moscow	2012-01-16
+452780	Verkhneye Golenkovo	Verkhneye Golenkovo		56.97998	33.52423	P	PPL	RU		77				0		222	Europe/Moscow	2011-07-09
+452781	Verkhniye Nivy	Verkhniye Nivy		56.97744	33.6826	P	PPL	RU		77				0		244	Europe/Moscow	2011-07-09
+452782	Nelegino	Nelegino	Nelegino,Нелегино	56.97569	33.29316	P	PPL	RU		77				0		220	Europe/Moscow	2012-01-16
+452783	Pogost-Golenkovo	Pogost-Golenkovo	Pogost-Golenkovo,Погост-Голенково	56.96857	33.48711	P	PPL	RU		77				0		216	Europe/Moscow	2012-01-16
+452784	Kordon Gol’tinets	Kordon Gol'tinets	Kordon Gol'tinec,Kordon Gol'tinets,Kordon Gol’tinets,Кордон Гольтинец	56.95808	33.59058	P	PPL	RU		77				0		232	Europe/Moscow	2012-01-16
+452785	Urochishche Sofronovo	Urochishche Sofronovo	Urochishche Sofronovo,Urochishhe Sofronovo,Урочище Софроново	56.95102	33.45483	L	LCTY	RU		77				0		222	Europe/Moscow	2012-01-16
+452786	Novoaleksandrovskoye	Novoaleksandrovskoye	Novoaleksandrovskoe,Novoaleksandrovskoye,Новоалександровское	56.95013	33.0876	P	PPL	RU		77				0		218	Europe/Moscow	2012-01-16
+452787	Boloto Rantsevskoye	Boloto Rantsevskoye	Boloto Rancevskoe,Boloto Rantsevskoye,Болото Ранцевское	56.93032	33.99585	H	SWMP	RU		77				0		264	Europe/Moscow	2012-01-16
+452788	Pokrovka	Pokrovka	Pokrovka,Покровка	56.93306	33.57962	P	PPL	RU		77				0		256	Europe/Moscow	2012-01-16
+452789	Filippovo	Filippovo	Filippovo,Филиппово	56.93112	33.53452	P	PPL	RU		77				0		241	Europe/Moscow	2012-01-16
+452790	Devich’ye	Devich'ye	Devich'e,Devich'ye,Devich’ye,Девичье	56.93039	33.03906	P	PPL	RU		77				0		212	Europe/Moscow	2012-01-16
+452791	Koshelevo	Koshelevo	Koshelevo,Кошелево	56.93169	33.18503	P	PPL	RU		77				0		211	Europe/Moscow	2012-01-16
+452792	Boloto Mshana	Boloto Mshana	Boloto Mshana,Болото Мшана	56.9282	33.86767	H	SWMP	RU		77				0		248	Europe/Moscow	2012-01-16
+452793	Boloto Mshana	Boloto Mshana	Boloto Mshana,Болото Мшана	56.92694	33.88972	H	SWMP	RU		77				0		253	Europe/Moscow	2012-01-16
+452794	Voskhod	Voskhod		56.92412	33.71489	P	PPL	RU		77				0		244	Europe/Moscow	2011-07-09
+452795	Ostrov Belyy Plav	Ostrov Belyy Plav		56.9272	33.16088	T	ISL	RU		77				0		219	Europe/Moscow	2011-07-09
+452796	Bol’shakovo	Bol'shakovo	Bol'shakovo,Bol’shakovo,Большаково	56.91822	33.76116	P	PPL	RU		77				0		262	Europe/Moscow	2012-01-16
+452797	Apokin’	Apokin'	Apokin,Apokin',Apokin’,Апокинь	56.91547	33.27441	P	PPL	RU		77				0		230	Europe/Moscow	2012-01-16
+452798	Alëshino	Aleshino	Aleshino,Aljoshino,Aljosjino,Alëshino,Алёшино	56.91533	33.4916	P	PPL	RU		77				0		232	Europe/Moscow	2012-01-16
+452799	Peskachevo	Peskachevo	Peskachevo,Пескачево	56.90333	33.51088	P	PPL	RU		77				0		241	Europe/Moscow	2012-01-16
+452800	Khilovets	Khilovets	Khilovec,Khilovets,Хиловец	56.90076	33.42835	P	PPL	RU		77				0		204	Europe/Moscow	2012-01-16
+452801	Baranova Gora	Baranova Gora	Baranova Gora,Баранова Гора	56.89815	33.2621	P	PPL	RU		77				0		216	Europe/Moscow	2012-01-16
+452802	Mshana	Mshana	Mshana,Мшана	56.8934	33.86878	H	STM	RU		77				0		242	Europe/Moscow	2012-01-16
+452803	Kuz’minskoye	Kuz'minskoye	Kuz'minskoe,Kuz'minskoye,Kuz’minskoye,Кузьминское	56.89135	33.48656	P	PPL	RU		77				0		233	Europe/Moscow	2012-01-16
+452804	Brylevo	Brylevo	Brylevo,Брылево	56.89065	33.93923	P	PPL	RU		77				0		262	Europe/Moscow	2012-01-16
+452805	Berniki	Berniki	Berniki,Берники	56.8827	33.43825	P	PPL	RU		77				0		205	Europe/Moscow	2012-01-16
+452806	Ostanovochnyy Punkt Novoselki	Ostanovochnyy Punkt Novoselki		56.87835	33.86959	S	RSTP	RU		77				0		250	Europe/Moscow	2011-07-09
+452807	Novoselki	Novoselki	Novoselki,Новоселки	56.87806	33.86528	S	BLDG	RU		77				0		257	Europe/Moscow	2012-01-16
+452808	Malaya Dubenka	Malaya Dubenka	Malaja Dubenka,Malaya Dubenka,Малая Дубенка	56.87708	33.24221	H	STM	RU		77				0		204	Europe/Moscow	2012-01-16
+452809	Shalakhino	Shalakhino	Shalakhino,Шалахино	56.86696	33.50139	P	PPL	RU		77				0		230	Europe/Moscow	2012-01-16
+452810	Skovorovo	Skovorovo	Skovorovo,Сковорово	56.86257	33.30134	P	PPL	RU		77				0		236	Europe/Moscow	2012-01-16
+452811	Stantsiya Skakulino	Stantsiya Skakulino		56.85993	33.34349	S	RSTN	RU		77				0		213	Europe/Moscow	2011-07-09
+452812	Staraya	Staraya	Staraja,Staraya,Старая	56.85667	33.50913	P	PPL	RU		77				0		239	Europe/Moscow	2012-01-16
+452813	Stantsiya Selizharovo	Stantsiya Selizharovo		56.85822	33.46333	S	RSTN	RU		77				0		209	Europe/Moscow	2011-07-09
+452814	Kutolovo	Kutolovo	Kutolovo,Кутолово	56.85715	33.54968	P	PPL	RU		77				0		252	Europe/Moscow	2012-01-16
+452815	Rybolovo	Rybolovo	Rybolovo,Рыболово	56.85095	33.2869	P	PPL	RU		77				0		236	Europe/Moscow	2012-01-16
+452816	Stantsiya Shuvayevo	Stantsiya Shuvayevo		56.84808	33.05011	S	RSTN	RU		77				0		222	Europe/Moscow	2011-07-09
+452817	Tarasovo	Tarasovo		56.84641	33.03616	P	PPL	RU		77				0		220	Europe/Moscow	2011-07-09
+452818	Urochishche Vanevskiy Mokh	Urochishche Vanevskiy Mokh		56.84635	33.79853	L	LCTY	RU		77				0		284	Europe/Moscow	2011-07-09
+452819	Dubenka	Dubenka	Dubenka,Дубенка	56.84743	33.15542	P	PPL	RU		77				0		234	Europe/Moscow	2012-01-16
+452820	Dubovitsy	Dubovitsy	Dubovicy,Dubovitsy,Дубовицы	56.84139	33.93837	P	PPL	RU		77				0		232	Europe/Moscow	2012-01-16
+452821	Manukhino	Manukhino	Manukhino,Манухино	56.84109	33.55732	P	PPL	RU		77				0		240	Europe/Moscow	2012-01-16
+452822	Frolovo	Frolovo	Frolovo,Фролово	56.83901	33.2379	P	PPL	RU		77				0		221	Europe/Moscow	2012-01-16
+452823	Petelino	Petelino	Petelino,Петелино	56.84065	33.6435	P	PPL	RU		77				0		263	Europe/Moscow	2012-01-16
+452824	Polonovka	Polonovka	Polonovka,Полоновка	56.84038	33.39259	H	STM	RU		77				0		202	Europe/Moscow	2012-01-16
+452825	Podsoson’ye	Podsoson'ye	Podsoson'e,Podsoson'ye,Podsoson’ye,Подсосонье	56.83075	33.53778	P	PPL	RU		77				0		233	Europe/Moscow	2012-01-16
+452826	Kocha	Kocha	Kocha,Коча	56.82789	33.43853	H	STM	RU		77				0		205	Europe/Moscow	2012-01-16
+452827	Shamrino	Shamrino	Shamrino,Шамрино	56.82065	33.2393	P	PPL	RU		77				0		234	Europe/Moscow	2012-01-16
+452828	Chërnyy	Chernyy	Chernyy,Chjornyj,Chërnyy,Чёрный	56.81387	33.97861	H	STM	RU		77				0		228	Europe/Moscow	2012-01-16
+452829	Kudryavtsevo	Kudryavtsevo	Kudrjavcevo,Kudryavtsevo,Кудрявцево	56.81239	33.66206	P	PPL	RU		77				0		257	Europe/Moscow	2012-01-16
+452830	Ladnoye	Ladnoye	Ladnoe,Ladnoye,Ладное	56.81009	33.54139	P	PPL	RU		77				0		217	Europe/Moscow	2012-01-16
+452831	Glukharevo	Glukharevo	Glukharevo,Глухарево	56.80987	33.35255	P	PPL	RU		77				0		221	Europe/Moscow	2012-01-16
+452832	Kekeshevo	Kekeshevo	Kekeshevo,Кекешево	56.80795	33.36976	P	PPL	RU		77				0		222	Europe/Moscow	2012-01-16
+452833	Punyatino	Punyatino	Punjatino,Punyatino,Пунятино	56.80896	33.31389	P	PPL	RU		77				0		229	Europe/Moscow	2012-01-16
+452834	Ivankovo	Ivankovo	Ivankovo,Иванково	56.79365	33.71884	P	PPL	RU		77				0		232	Europe/Moscow	2012-01-16
+452835	Makarovo	Makarovo	Makarovo,Макарово	56.78778	33.80726	P	PPL	RU		77				0		219	Europe/Moscow	2012-01-16
+452836	Malaya Lapushka	Malaya Lapushka	Malaja Lapushka,Malaya Lapushka,Малая Лапушка	56.78156	33.3528	P	PPL	RU		77				0		220	Europe/Moscow	2012-01-16
+452837	Urochishche Podgriva	Urochishche Podgriva	Urochishche Podgriva,Urochishhe Podgriva,Урочище Подгрива	56.77605	33.0718	L	LCTY	RU		77				0		255	Europe/Moscow	2012-01-16
+452838	Dubravino	Dubravino	Dubravino,Дубравино	56.77121	33.24285	P	PPL	RU		77				0		248	Europe/Moscow	2012-01-16
+452839	Tatarinovo	Tatarinovo		56.77121	33.79159	P	PPL	RU		77				0		240	Europe/Moscow	2011-07-09
+452840	Kostrina	Kostrina	Kostrina,Кострина	56.76355	33.4092	H	STM	RU		77				0		208	Europe/Moscow	2012-01-16
+452841	Trostino	Trostino		56.76027	33.66082	P	PPL	RU		77				0		200	Europe/Moscow	2011-07-09
+452842	Voronovo	Voronovo		56.75829	33.34567	P	PPL	RU		77				0		237	Europe/Moscow	2011-07-09
+452843	Vypryagovo	Vypryagovo		56.75712	33.85942	P	PPL	RU		77				0		240	Europe/Moscow	2011-07-09
+452844	Deryushino	Deryushino	Derjushino,Deryushino,Дерюшино	56.75748	33.56274	P	PPL	RU		77				0		251	Europe/Moscow	2012-01-16
+452845	Zarya	Zarya		56.75259	33.72496	P	PPL	RU		77				0		207	Europe/Moscow	2011-07-09
+452846	Dubki	Dubki	Dubki,Дубки	56.75263	33.52804	P	PPL	RU		77				0		240	Europe/Moscow	2012-01-16
+452847	Kurichino	Kurichino	Kurichino,Куричино	56.75234	33.28349	P	PPL	RU		77				0		264	Europe/Moscow	2012-01-16
+452848	Bobronnikovo	Bobronnikovo	Bobronnikovo,Бобронниково	56.74474	33.7176	P	PPL	RU		77				0		213	Europe/Moscow	2012-01-16
+452849	Klin	Klin	Klin,Клин	56.74003	33.55159	P	PPL	RU		77				0		254	Europe/Moscow	2012-01-16
+452850	Loshakovo	Loshakovo	Loshakovo,Лошаково	56.74031	33.67184	P	PPL	RU		77				0		235	Europe/Moscow	2012-01-16
+452851	Klin	Klin	Klin,Клин	56.74	33.55528	S	BLDG	RU		77				0		255	Europe/Moscow	2012-01-16
+452852	Blinniki	Blinniki	Blinniki,Блинники	56.73742	33.54022	P	PPLQ	RU		77				0		252	Europe/Moscow	2012-01-16
+452853	Bol’shoye Kon’shino	Bol'shoye Kon'shino	Bol'shoe Kon'shino,Bol'shoye Kon'shino,Bol’shoye Kon’shino,Большое Коньшино	56.73174	33.74341	P	PPL	RU		77				0		217	Europe/Moscow	2012-01-16
+452854	Maloye Ivakhnovo	Maloye Ivakhnovo	Maloe Ivakhnovo,Maloye Ivakhnovo,Малое Ивахново	56.72935	33.46704	P	PPL	RU		77				0		226	Europe/Moscow	2012-01-16
+452855	Vasil’yevo	Vasil'yevo		56.72986	33.84925	P	PPL	RU		77				0		226	Europe/Moscow	2011-07-09
+452856	Krivoshchekovo	Krivoshchekovo	Krivoshchekovo,Krivoshhekovo,Кривощеково	56.72705	33.83349	P	PPL	RU		77				0		217	Europe/Moscow	2012-01-16
+452857	Boloto Ryabtsevo	Boloto Ryabtsevo	Boloto Rjabcevo,Boloto Ryabtsevo,Болото Рябцево	56.72056	33.63139	H	SWMP	RU		77				0		244	Europe/Moscow	2012-01-16
+452858	Davydkovo	Davydkovo	Davydkovo,Давыдково	56.71507	33.0095	P	PPL	RU		77				0		293	Europe/Moscow	2012-01-16
+452859	Lytkino	Lytkino	Lytkino,Лыткино	56.7133	33.26223	P	PPL	RU		77				0		246	Europe/Moscow	2012-01-16
+452860	Sheludenevo	Sheludenevo	Sheludenevo,Шелуденево	56.70996	33.33102	P	PPL	RU		77				0		257	Europe/Moscow	2012-01-16
+452861	Chernichkino	Chernichkino	Chernichkino,Черничкино	56.70708	33.40007	P	PPL	RU		77				0		228	Europe/Moscow	2012-01-16
+452862	Shchuryayevka	Shchuryayevka	Shchuryayevka,Shhurjaevka,Щуряевка	56.69937	33.89997	P	PPL	RU		77				0		241	Europe/Moscow	2012-01-16
+452863	Secha	Secha	Secha,Сеча	56.69056	33.53472	S	BLDG	RU		77				0		252	Europe/Moscow	2012-01-16
+452864	Kudrinka	Kudrinka	Kudrinka,Кудринка	56.68417	33.34135	H	STM	RU		77				0		214	Europe/Moscow	2012-01-16
+452865	Yel’tsy	Yel'tsy		56.66298	33.84811	P	PPL	RU		77				0		222	Europe/Moscow	2011-07-09
+452866	Timkovo	Timkovo	Timkovo,Тимково	57.99481	34.25371	P	PPL	RU		77				0		168	Europe/Moscow	2020-03-07
+452867	Vorotkovo	Vorotkovo		57.99415	34.83897	P	PPLQ	RU		77				0		209	Europe/Moscow	1997-11-26
+452868	Zaozër’ye	Zaozer'ye	Zaozer'ye,Zaozjor'e,Zaozër’ye,Заозёрье	57.99081	34.26022	P	PPL	RU		77				0		162	Europe/Moscow	2020-03-07
+452869	Ochep	Ochep	Ochep,Очеп	57.99056	34.94694	P	PPL	RU		77				0		161	Europe/Moscow	2012-01-16
+452870	Ozero Gorneshno	Ozero Gorneshno	Ozero Gorneshno,Озеро Горнешно	57.98778	34.02083	H	LK	RU		77				0		165	Europe/Moscow	2020-03-07
+452871	Korkhovo	Korkhovo	Korkhovo,Корхово	57.98722	34.24594	P	PPL	RU		77				0		163	Europe/Moscow	2012-01-16
+452872	Khmel’niki	Khmel'niki	Khmel'niki,Khmel’niki,Хмельники	57.98468	34.49099	P	PPL	RU		77				0		146	Europe/Moscow	2020-01-08
+452873	Aksovo	Aksovo	Aksovo,Аксово	57.98447	34.82897	P	PPLQ	RU		77				0		207	Europe/Moscow	2012-01-16
+452874	Urochishche Vladimirovskaya Dacha	Urochishche Vladimirovskaya Dacha	Urochishche Vladimirovskaya Dacha,Urochishhe Vladimirovskaja Dacha,Урочище Владимировская Дача	57.98922	34.08209	L	AREA	RU		77				0		170	Europe/Moscow	2019-09-04
+452875	Amosovo	Amosovo	Amosovo,Амосово	57.98092	34.33771	P	PPL	RU		77				0		164	Europe/Moscow	2012-01-16
+452876	Olëshevo	Oleshevo	Oleshevo,Oljoshevo,Olëshevo,Олёшево	57.97664	34.21629	P	PPL	RU		77				0		165	Europe/Moscow	2012-01-16
+452877	Ganevo	Ganevo	Ganevo,Gonevo,Ганево,Гонево	57.9764	34.309	P	PPL	RU		77				0		134	Europe/Moscow	2020-01-08
+452878	Gorka	Gorka	Gorka,Горка	57.97435	34.2392	P	PPL	RU		77				0		143	Europe/Moscow	2019-09-04
+452879	Apanichino	Apanichino	Apanichino,Apanitsjino,Апаничино	57.9741	34.48601	P	PPL	RU		77				0		134	Europe/Moscow	2020-01-08
+452880	Sitnikovo	Sitnikovo	Sitnikovo,Ситниково	57.97526	34.83134	P	PPLQ	RU		77				0		193	Europe/Moscow	2012-01-16
+452881	Gogolevo	Gogolevo	Gogolevo,Гоголево	57.97364	34.24391	P	PPL	RU		77				0		162	Europe/Moscow	2019-09-04
+452882	Mikhalevo	Mikhalevo	Mikhalevo,Михалево	57.97063	34.79743	P	PPLQ	RU		77				0		199	Europe/Moscow	2012-01-16
+452883	Moshnaya Gora	Moshnaya Gora	Moshnaja Gora,Moshnaya Gora,Мошная Гора	57.96944	34.99778	P	PPL	RU		77				0		169	Europe/Moscow	2012-01-16
+452884	Ozero Plotichno	Ozero Plotichno	Ozero Plotichno,Озеро Плотично	57.9681	34.02775	H	LK	RU		77				0		166	Europe/Moscow	2019-09-04
+452885	Ostrov Risno	Ostrov Risno	Ostrov Risno,Остров Рисно	57.96476	34.19902	T	ISL	RU		77				0		139	Europe/Moscow	2019-09-04
+452886	Kolomenka	Kolomenka	Kolomenka,Коломенка	57.96635	34.17113	H	STM	RU		77				0		156	Europe/Moscow	2019-09-04
+452887	Ozero Deminets	Ozero Deminets		57.96759	34.904	H	LK	RU		77				0		171	Europe/Moscow	2000-07-15
+452888	Beli	Beli	Beli,Бели	57.9652	34.4884	P	PPL	RU		77				0		134	Europe/Moscow	2020-01-08
+452889	Ozero Khotilovo	Ozero Khotilovo	Ozero Khotilovo,Озеро Хотилово	57.9656	34.36163	H	LK	RU		77				0		164	Europe/Moscow	2020-01-08
+452890	Korostelevo	Korostelevo	Korostelevo,Коростелево	57.96457	34.82164	P	PPLQ	RU		77				0		199	Europe/Moscow	2012-01-16
+452891	Porozhki	Porozhki	Porozhki,Порожки	57.96278	34.97028	P	PPL	RU		77				0		163	Europe/Moscow	2012-01-16
+452892	Yamnik	Yamnik	Jamnik,Yamnik,Ямник	57.9616	34.25573	P	PPL	RU		77				0		166	Europe/Moscow	2020-01-08
+452893	Borok	Borok	Borok,Борок	57.96183	34.4828	P	PPL	RU		77				0		162	Europe/Moscow	2020-01-08
+452894	Boloto Ramenskoye	Boloto Ramenskoye	Boloto Ramenskoe,Boloto Ramenskoye,Болото Раменское	57.95599	34.3834	H	SWMP	RU		77				0		165	Europe/Moscow	2012-01-16
+452895	Shibolino	Shibolino	Shibolino,Шиболино	57.96052	34.76711	P	PPLQ	RU		77				0		177	Europe/Moscow	2012-01-16
+452896	Ozero Svyatoye	Ozero Svyatoye	Ozero Svajatoe,Ozero Svyatoye,Озеро Сваятое	57.95889	34.04111	H	LK	RU		77				0		165	Europe/Moscow	2020-03-07
+452897	Ozero Pletno	Ozero Pletno	Ozero Pletno,Озеро Плетно	57.95637	34.70593	H	LK	RU		77				0		167	Europe/Moscow	2012-01-16
+452898	Ostrov Vyal’ye	Ostrov Vyal'ye	Ostrov Vjal'e,Ostrov Vyal'ye,Ostrov Vyal’ye,Остров Вялье	57.95607	34.21526	T	ISL	RU		77				0		139	Europe/Moscow	2019-09-04
+452899	Malaya Zvanitsa	Malaya Zvanitsa	Malaja Zvanica,Malaya Zvanitsa,Малая Званица	57.95552	34.57737	P	PPL	RU		77				0		164	Europe/Moscow	2012-01-16
+452900	Ozero Ostrechënok	Ozero Ostrechenok	Ozero Ostrechenok,Ozero Ostrechjonok,Ozero Ostrechënok,Озеро Остречёнок	57.95457	34.04669	H	LK	RU		77				0		151	Europe/Moscow	2020-03-07
+452901	Ozero Vyskodno	Ozero Vyskodno	Ozero Vyskodno,Озеро Выскодно	57.9523	34.43737	H	LK	RU		77				0		162	Europe/Moscow	2020-01-08
+452902	Zvanka	Zvanka		57.94852	34.56406	H	STM	RU		77				0		150	Europe/Moscow	1997-11-26
+452903	Mitronino	Mitronino	Mitronino,Митронино	57.94983	34.90234	P	PPL	RU		77				0		172	Europe/Moscow	2012-01-16
+452904	Ozero Boruy	Ozero Boruy	Ozero Boruj,Ozero Boruy,Озеро Боруй	57.945	34.01583	H	LK	RU		77				0		168	Europe/Moscow	2020-03-07
+452905	Zakharovo	Zakharovo		57.9446	34.56245	P	PPL	RU		77				0		159	Europe/Moscow	1997-11-26
+452906	Ozero Gorneshno	Ozero Gorneshno		57.94333	34.53944	H	LK	RU		77				0		168	Europe/Moscow	2000-07-15
+452907	Koryakino	Koryakino	Korjakino,Koryakino,Корякино	57.94272	34.9061	P	PPL	RU		77				0		171	Europe/Moscow	2012-01-16
+452908	Gogolino	Gogolino	Gogolino,Гоголино	57.94084	34.50993	P	PPL	RU		77				0		157	Europe/Moscow	2012-01-16
+452909	Grigorevo	Grigorevo	Grigorevo,Григорево	57.93944	34.95528	P	PPL	RU		77				0		168	Europe/Moscow	2012-01-16
+452910	Ozero Pesochnoye	Ozero Pesochnoye	Ozero Pesochnoe,Ozero Pesochnoye,Озеро Песочное	57.93848	34.41135	H	LK	RU		77				0		160	Europe/Moscow	2012-01-16
+452911	Ozero Luka	Ozero Luka	Ozero Luka,Озеро Лука	57.93803	34.5693	H	LK	RU		77				0		150	Europe/Moscow	2012-01-16
+452912	Stantsiya Kaftino	Stantsiya Kaftino	Kaftino,Stancija Kaftino,Stantsiya Kaftino,Кафтино,Станция Кафтино	57.93581	34.3052	S	RSTN	RU		77				0		164	Europe/Moscow	2020-01-08
+452913	Ivan’kovo	Ivan'kovo	Ivan'kovo,Ivan’kovo,Иваньково	57.93583	34.96889	P	PPL	RU		77				0		169	Europe/Moscow	2012-01-16
+452914	Ozero Gribno	Ozero Gribno		57.93398	34.7669	H	LK	RU		77				0		164	Europe/Moscow	2000-07-15
+452915	Dremukha	Dremukha	Dremukha,Дремуха	57.92415	34.65975	P	PPL	RU		77				0		183	Europe/Moscow	2012-01-16
+452916	Berezhok	Berezhok	Berezhok,Berezjok,Novyy Berezhok,Бережок	57.92389	34.99472	P	PPL	RU		77				0		160	Europe/Moscow	2012-01-16
+452917	Ostanovochnyy Punkt Brusnichnoye	Ostanovochnyy Punkt Brusnichnoye	Brusnichnoe,Brusnichnoye,Ostanovochnyj Punkt Brusnichnoe,Ostanovochnyy Punkt Brusnichnoye,Брусничное,Остановочный Пункт Брусничное	57.92388	34.3919	S	RSTP	RU		77				0		163	Europe/Moscow	2020-01-08
+452918	Stantsiya Kulikovo	Stantsiya Kulikovo	Kulikovo,Stancija Kulikovo,Stantsiya Kulikovo,Куликово,Станция Куликово	57.92378	34.42479	S	RSTN	RU		77				0		178	Europe/Moscow	2020-01-08
+452919	Ostanovochnyy Punkt Krasnaya Budka	Ostanovochnyy Punkt Krasnaya Budka		57.92267	34.56717	S	RSTP	RU		77				0		159	Europe/Moscow	1997-11-26
+452920	Bel’tenevo	Bel'tenevo	Bel'tenevo,Beltenevo,Bel’tenevo,Бельтенево	57.9208	34.49239	P	PPL	RU		77				0		158	Europe/Moscow	2012-01-16
+452921	Boloto Sladkoye	Boloto Sladkoye	Boloto Sladkoe,Boloto Sladkoye,Болото Сладкое	57.92578	34.12814	H	SWMP	RU		77				0		163	Europe/Moscow	2020-03-07
+452922	Stantsiya Msta	Stantsiya Msta	Msta,Stantsiya Msta	57.91835	34.52381	S	RSTN	RU		77				0		156	Europe/Moscow	2012-01-16
+452923	Krasnyy May	Krasnyy May	Krasnyj Maj,Krasnyy May,Красный Май	57.9184	34.77878	P	PPL	RU		77				0		166	Europe/Moscow	2012-01-16
+452924	Ozero Sopino	Ozero Sopino	Ozero Sopino,Озеро Сопино	57.91736	34.22128	H	LK	RU		77				0		160	Europe/Moscow	2012-01-16
+452925	Mishutino	Mishutino	Mishutino,Мишутино	57.91701	34.09873	P	PPLX	RU		77				0		184	Europe/Moscow	2012-01-16
+452926	Ozero S’yucha	Ozero S'yucha	Ozero S'jucha,Ozero S'yucha,Ozero S’yucha,Озеро Сьюча	57.91417	34.93333	H	LK	RU		77				0		154	Europe/Moscow	2012-01-16
+452927	Ganino	Ganino	Ganino,Ганино	57.9145	34.6048	P	PPL	RU		77				0		162	Europe/Moscow	2012-01-16
+452928	Platishchenka	Platishchenka	Platishchenka,Platishhenka,Платищенка	57.90886	34.21184	P	PPL	RU		77				0		163	Europe/Moscow	2012-01-16
+452929	Bologoye	Bologoye	Bologoe,Bologoje,Bologoye,Бологое	57.91193	34.05726	P	PPLX	RU		77				0		168	Europe/Moscow	2019-09-04
+452930	Gaynovo	Gaynovo	Gajnovo,Gaynovo,Гайново	57.90861	34.93139	P	PPL	RU		77				0		159	Europe/Moscow	2012-01-16
+452931	Arkhangel’skoye	Arkhangel'skoye	Arkhangel'skoe,Arkhangel'skoye,Arkhangelskoje,Arkhangel’skoye,Архангельское	57.90784	34.80498	P	PPL	RU		77				0		181	Europe/Moscow	2012-01-16
+452932	Samsonovo	Samsonovo	Samsonovo,Самсоново	57.90801	34.86397	P	PPL	RU		77				0		170	Europe/Moscow	2012-01-16
+452933	Boykovo	Boykovo	Bojkovo,Boykovo,Бойково	57.9045	34.72453	P	PPL	RU		77				0		171	Europe/Moscow	2012-01-16
+452934	Ozero Shvil’no	Ozero Shvil'no	Ozero Shvil'no,Ozero Shvil’no,Озеро Швильно	57.90261	34.38413	H	LK	RU		77				0		159	Europe/Moscow	2012-01-16
+452935	Torfyanoye	Torfyanoye		57.90204	34.88276	P	PPL	RU		77				0		166	Europe/Moscow	1997-11-26
+452936	Kamenka	Kamenka	Kamenka,Каменка	57.90194	34.95806	P	PPL	RU		77				0		157	Europe/Moscow	2012-01-16
+452937	Borki Vtoryye	Borki Vtoryye	Borki Vtorye,Borki Vtoryye,Борки Вторые	57.89323	34.14099	P	PPLX	RU		77				0		165	Europe/Moscow	2020-03-07
+452938	Gorodishche	Gorodishche	Gorodishche,Gorodishhe,Городище	57.9028	34.53358	P	PPL	RU		77				0		158	Europe/Moscow	2012-01-16
+452939	Mitroshino	Mitroshino	Mitroshino,Митрошино	57.89944	34.97417	P	PPL	RU		77				0		159	Europe/Moscow	2012-01-16
+452940	Dem”yanka	Dem"yanka	Demyanka,Demujanka,Dem”yanka,Демъянка	57.9145	34.92625	H	STM	RU		77				0		156	Europe/Moscow	2012-01-16
+452941	Stantsiya Panyshino	Stantsiya Panyshino	Panyshino,Stantsiya Panyshino	57.89838	34.89069	S	RSTN	RU		77				0		163	Europe/Moscow	2012-01-16
+452942	Borki Pervyye	Borki Pervyye	Borki Pervye,Borki Pervyye,Борки Первые	57.88957	34.13064	P	PPLX	RU		77				0		173	Europe/Moscow	2020-03-07
+452943	Khlarevo	Khlarevo	Khlarevo,Хларево	57.88705	34.84924	P	PPL	RU		77				0		172	Europe/Moscow	2012-01-16
+452944	Verbushkino	Verbushkino	Verbushkino,Вербушкино	57.88922	34.14726	P	PPLX	RU		77				0		167	Europe/Moscow	2019-09-04
+452945	Neftyanka	Neftyanka	Neftjanka,Neftyanka,Нефтянка	57.88251	34.04311	H	STMC	RU		77				0		150	Europe/Moscow	2019-09-04
+452946	Stantsiya Medvedevo	Stantsiya Medvedevo	Medvedevo,Stancija Medvedevo,Stantsiya Medvedevo,Станция Медведево	57.88261	34.10935	S	RSTN	RU		77				0		187	Europe/Moscow	2020-03-07
+452947	Krasnosel’ye	Krasnosel'ye	Krasnosel'e,Krasnosel'ye,Krasnosel’ye,Красноселье	57.88311	34.58226	P	PPL	RU		77				0		156	Europe/Moscow	2012-01-16
+452948	Fedosikhino	Fedosikhino	Fedosikhino,Федосихино	57.88485	34.14192	P	PPLX	RU		77				0		167	Europe/Moscow	2019-09-04
+452949	Udomlya	Udomlya	Udomlja,Udomlya,Удомля	57.87944	34.9925	P	PPL	RU		77				32373		173	Europe/Moscow	2014-06-26
+452950	Ozero Vshivoye	Ozero Vshivoye	Ozero Vshivoe,Ozero Vshivoye,Озеро Вшивое	57.87678	34.44389	H	LK	RU		77				0		164	Europe/Moscow	2020-01-08
+452951	Mlevka	Mlevka	Mlevka,Млевка	57.87827	34.55943	H	STM	RU		77				0		147	Europe/Moscow	2012-01-16
+452952	Shebanovo	Shebanovo	Shebanovo,Шебаново	57.87774	34.59462	P	PPL	RU		77				0		164	Europe/Moscow	2012-01-16
+452953	Ozero Glukhoye	Ozero Glukhoye		57.87745	34.88525	H	LK	RU		77				0		164	Europe/Moscow	2000-07-15
+452954	Zamost’ye	Zamost'ye	Zamost'e,Zamost'ye,Zamost’ye,Замостье	57.87962	34.02643	P	PPLX	RU		77				0		158	Europe/Moscow	2019-09-04
+452955	Ozero Duple	Ozero Duple	Ozero Duple,Озеро Дупле	57.87312	34.39342	H	LK	RU		77				0		157	Europe/Moscow	2020-01-08
+452956	Lobynka	Lobynka	Lobynka,Лобынка	57.8727	34.2678	H	STM	RU		77				0		139	Europe/Moscow	2020-01-08
+452957	Shebanova-Gorka	Shebanova-Gorka	Shebanova-Gorka,Шебанова-Горка	57.86951	34.62204	P	PPL	RU		77				0		173	Europe/Moscow	2012-01-16
+452958	Gorodki	Gorodki	Gorodki,Городки	57.86861	34.95556	P	PPL	RU		77				0		169	Europe/Moscow	2012-01-16
+452959	Novaya Gorka	Novaya Gorka	Novaja Gorka,Novaya Gorka,Новая Горка	57.86621	34.12227	P	PPLX	RU		77				0		164	Europe/Moscow	2019-09-04
+452960	Leninskiy	Leninskiy	Leninskij,Leninskiy,Ленинский	57.87081	34.06099	P	PPLX	RU		77				0		150	Europe/Moscow	2019-09-04
+452961	Skrobovo	Skrobovo	Skrobovo,Скробово	57.86452	34.20668	P	PPL	RU		77				0		170	Europe/Moscow	2012-01-16
+452962	Ozero Zhabnitskoye	Ozero Zhabnitskoye	Ozero Zhabnickoe,Ozero Zhabnitskoye,Озеро Жабницкое	57.86068	34.24475	H	LK	RU		77				0		156	Europe/Moscow	2020-03-07
+452963	Oboltino	Oboltino	Oboltino,Оболтино	57.86211	34.77865	P	PPL	RU		77				0		160	Europe/Moscow	2012-01-16
+452964	Aleksandrovo	Aleksandrovo	Aleksandrovo,Александрово	57.86255	34.63219	P	PPLQ	RU		77				0		173	Europe/Moscow	2012-01-16
+452965	Dudino	Dudino	Dudino,Дудино	57.8604	34.24988	P	PPL	RU		77				0		150	Europe/Moscow	2020-01-08
+452966	Puyga	Puyga	Pujga,Puyga,Пуйга	57.85857	34.5493	H	STM	RU		77				0		147	Europe/Moscow	2012-01-16
+452967	Fefelovo	Fefelovo	Fefelovo,Фефелово	57.85856	34.40871	P	PPL	RU		77				0		161	Europe/Moscow	2012-01-16
+452968	Gusinka	Gusinka	Gusinka,Гусинка	57.85645	34.78593	H	STM	RU		77				0		156	Europe/Moscow	2012-01-16
+452969	Dubki	Dubki	Dubki,Дубки	57.85587	34.55116	P	PPLQ	RU		77				0		150	Europe/Moscow	2012-01-16
+452970	Bologoye Vtoroye	Bologoye Vtoroye	Bologoe Vtoroe,Bologoye Vtoroye,Бологое Второе	57.85642	34.11235	P	PPLX	RU		77				0		164	Europe/Moscow	2019-09-04
+452971	Ozero Ozerevki	Ozero Ozerevki	Ozero Ozerevki,Озеро Озеревки	57.85389	34.05235	H	LK	RU		77				0		171	Europe/Moscow	2012-01-16
+452972	Anisimovo	Anisimovo	Anisimovo,Анисимово	57.85105	34.7808	P	PPL	RU		77				0		164	Europe/Moscow	2012-01-16
+452973	Khor’kovka	Khor'kovka	Khor'kovka,Khor’kovka,Хорьковка	57.85106	34.72312	H	STM	RU		77				0		164	Europe/Moscow	2012-01-16
+452974	Bratanovo	Bratanovo	Bratanovo,Братаново	57.84833	34.98917	P	PPL	RU		77				0		161	Europe/Moscow	2012-01-16
+452975	Ozero Chërnoye	Ozero Chernoye	Ozero Chernoye,Ozero Chjornoe,Ozero Chërnoye,Озеро Чёрное	57.84605	34.26247	H	LK	RU		77				0		160	Europe/Moscow	2020-01-08
+452976	Repno	Repno	Repno,Репно	57.84648	34.66615	P	PPLQ	RU		77				0		177	Europe/Moscow	2012-01-16
+452977	Ozero Beloye	Ozero Beloye		57.84586	34.2257	H	LK	RU		77				0		166	Europe/Moscow	2000-07-15
+452978	Ozero Kotemlya	Ozero Kotemlya		57.84417	34.98306	H	LK	RU		77				0		158	Europe/Moscow	2000-07-15
+452979	Ozero Zhelib’ye	Ozero Zhelib'ye	Ozero Zhelib'e,Ozero Zhelib'ye,Ozero Zhelib’ye,Озеро Желибье	57.84255	34.46709	H	LK	RU		77				0		160	Europe/Moscow	2020-01-08
+452980	Zaozër’ye	Zaozer'ye	Zaozer'ye,Zaozjor'e,Zaozër’ye,Заозёрье	57.83774	34.1144	P	PPLX	RU		77				0		173	Europe/Moscow	2019-09-04
+452981	Ostrov	Ostrov	Ostrov,Остров	57.8325	34.995	P	PPL	RU		77				0		160	Europe/Moscow	2012-01-16
+452982	Ozero Zheleznoye	Ozero Zheleznoye		57.83153	34.77413	H	LK	RU		77				0		158	Europe/Moscow	2000-07-15
+452983	Pochep	Pochep	Pochep,Почеп	57.83109	34.52313	P	PPL	RU		77				0		158	Europe/Moscow	2012-01-16
+452984	Pal’tsevo	Pal'tsevo	Pal'cevo,Pal'tsevo,Pal’tsevo,Пальцево	57.82867	34.83595	P	PPL	RU		77				0		159	Europe/Moscow	2012-01-16
+452985	Ozero Pal’tsevo	Ozero Pal'tsevo	Ozero Pal'cevo,Ozero Pal'tsevo,Ozero Pal’tsevo,Озеро Пальцево	57.82785	34.84389	H	LK	RU		77				0		152	Europe/Moscow	2012-01-16
+452986	Dolgoye	Dolgoye	Dolgoe,Dolgoye,Долгое	57.82518	34.11162	P	PPL	RU		77				0		179	Europe/Moscow	2020-01-08
+452987	Bologoye	Bologoye	Bologoe,Bologoye,Бологое	57.81312	34.05306	P	PPL	RU		77				0		175	Europe/Moscow	2020-01-08
+452988	Ostanovochnyy Punkt Petersonovka	Ostanovochnyy Punkt Petersonovka		57.82422	34.20163	S	RSTP	RU		77				0		173	Europe/Moscow	1997-11-26
+452989	Ozero Osovets	Ozero Osovets	Ozero Osovec,Ozero Osovets,Озеро Осовец	57.82302	33.99974	H	LK	RU		77				0		172	Europe/Moscow	2020-01-08
+452990	Bryakovo	Bryakovo	Brjakovo,Bryakovo,Бряково	57.82179	34.84928	P	PPL	RU		77				0		161	Europe/Moscow	2012-01-16
+452991	Galicheno	Galicheno	Galicheno,Галичено	57.82048	34.87751	P	PPL	RU		77				0		158	Europe/Moscow	2012-01-16
+452992	Lyshniki	Lyshniki	Lyshniki,Лышники	57.81707	34.80853	P	PPLQ	RU		77				0		165	Europe/Moscow	2012-01-16
+452993	Ozero Karasino	Ozero Karasino		57.81639	34.46867	H	LK	RU		77				0		154	Europe/Moscow	2000-07-15
+452994	Garusovo	Garusovo	Garusovo,Гарусово	57.81489	34.51095	P	PPL	RU		77				0		156	Europe/Moscow	2012-01-16
+452995	Ozero Sosnishchi	Ozero Sosnishchi	Ozero Sosnishchi,Ozero Sosnishhi,Озеро Соснищи	57.81426	34.78252	H	LK	RU		77				0		160	Europe/Moscow	2012-01-16
+452996	Ozero Vidimlya	Ozero Vidimlya	Ozero Vidimlja,Ozero Vidimlya,Озеро Видимля	57.81114	34.09033	H	LK	RU		77				0		175	Europe/Moscow	2020-03-07
+452997	Ozero Glubochikha	Ozero Glubochikha	Ozero Glubochikha,Озеро Глубочиха	57.81107	34.05963	H	LK	RU		77				0		188	Europe/Moscow	2020-01-08
+452998	Manuylovo	Manuylovo	Manujlovo,Manuylovo,Мануйлово	57.81027	34.57037	P	PPL	RU		77				0		163	Europe/Moscow	2012-01-16
+452999	Findiryayevo	Findiryayevo	Findirjaevo,Findiryayevo,Финдиряево	57.80765	34.40024	P	PPL	RU		77				0		162	Europe/Moscow	2012-01-16
+453000	Bochanovka	Bochanovka	Bochanovka,Бочановка	57.8068	34.23423	P	PPL	RU		77				0		173	Europe/Moscow	2012-01-16
+453001	Puyga	Puyga	Pujga,Puyga,Пуйга	57.80627	34.59924	P	PPL	RU		77				0		160	Europe/Moscow	2012-01-16
+453002	Ozero Kolpinets	Ozero Kolpinets		57.80515	34.79984	H	LK	RU		77				0		158	Europe/Moscow	2000-07-15
+453003	Dunay	Dunay	Dunaj,Dunay,Дунай	57.80422	34.52809	P	PPLQ	RU		77				0		156	Europe/Moscow	2012-01-16
+453004	Ozero Glukhoye	Ozero Glukhoye		57.8012	34.78505	H	LK	RU		77				0		159	Europe/Moscow	2000-07-15
+453005	Pogorelets	Pogorelets	Pogorelec,Pogorelets,Погорелец	57.8016	34.89204	P	PPL	RU		77				0		159	Europe/Moscow	2012-01-16
+453006	Ozero Slavinskoye	Ozero Slavinskoye	Ozero Slavinskoe,Ozero Slavinskoye,Озеро Славинское	57.80056	34.00611	H	LK	RU		77				0		185	Europe/Moscow	2019-05-07
+453007	Mazhitsa	Mazhitsa	Mazhica,Mazhitsa,Мажица	57.80829	34.8992	H	STM	RU		77				0		151	Europe/Moscow	2012-01-16
+453008	Kamennik	Kamennik	Kamennik,Каменник	57.80282	34.17552	H	STMI	RU		77				0		154	Europe/Moscow	2020-01-08
+453009	Fedovo	Fedovo	Fedovo,Федово	57.79481	34.37048	P	PPL	RU		77				0		166	Europe/Moscow	2012-01-16
+453010	Podshevelikha	Podshevelikha	Podshevelikha,Подшевелиха	57.79498	34.35348	P	PPL	RU		77				0		164	Europe/Moscow	2012-01-16
+453011	Boldyrevo	Boldyrevo	Boldyrevo,Болдырево	57.79386	34.57799	P	PPL	RU		77				0		159	Europe/Moscow	2012-01-16
+453012	Boloto Gladkoye	Boloto Gladkoye	Boloto Gladkoe,Boloto Gladkoye,Болото Гладкое	57.78843	34.76822	H	SWMP	RU		77				0		164	Europe/Moscow	2012-01-16
+453013	Raz”yezd 14 km	Raz"yezd 14 km	Razyezd 14 km,Razuezd 14 km,Raz”yezd 14 km,Разъезд 14 км	57.78958	34.06755	S	RSD	RU		77				0		181	Europe/Moscow	2012-01-16
+453014	Kolpinets	Kolpinets	Kolpinec,Kolpinets,Колпинец	57.7886	34.89124	P	PPL	RU		77				0		158	Europe/Moscow	2012-01-16
+453015	Ozero Rogozino	Ozero Rogozino	Ozero Rogozino,Озеро Рогозино	57.78778	34.99639	H	LK	RU		77				0		148	Europe/Moscow	2012-01-16
+453016	Volodnya	Volodnya		57.78686	34.49343	H	STM	RU		77				0		151	Europe/Moscow	1997-11-26
+453017	Baldikha	Baldikha	Baldikha,Балдиха	57.78527	34.89525	H	STM	RU		77				0		152	Europe/Moscow	2012-01-16
+453018	Ozero Konskoye	Ozero Konskoye	Ozero Konskoe,Ozero Konskoye,Озеро Конское	57.78518	34.086	H	LK	RU		77				0		176	Europe/Moscow	2020-03-07
+453019	Ozero Sestrino	Ozero Sestrino	Ozero Sestrino,Озеро Сестрино	57.78525	34.89795	H	LK	RU		77				0		152	Europe/Moscow	2012-01-16
+453020	Ozero Moshniki	Ozero Moshniki	Ozero Moshniki,Озеро Мошники	57.78239	34.44095	H	LK	RU		77				0		157	Europe/Moscow	2012-01-16
+453021	Dubniki	Dubniki	Dubniki,Дубники	57.78139	34.98389	P	PPL	RU		77				0		160	Europe/Moscow	2012-01-16
+453022	Martus	Martus	Martus,Мартус	57.77859	34.49251	P	PPLQ	RU		77				0		157	Europe/Moscow	2012-01-16
+453023	Borovno	Borovno	Borovno,Боровно	57.77703	34.39622	P	PPL	RU		77				0		169	Europe/Moscow	2012-01-16
+453024	Veli	Veli		57.77405	34.48913	P	PPL	RU		77				0		159	Europe/Moscow	1997-11-26
+453025	Lyadiny	Lyadiny	Ljadiny,Lyadiny,Лядины	57.77342	34.48613	P	PPL	RU		77				0		164	Europe/Moscow	2012-01-16
+453026	Motyli	Motyli	Motyli,Мотыли	57.77284	34.88682	P	PPL	RU		77				0		161	Europe/Moscow	2012-01-16
+453027	Ozero Borovenskoye	Ozero Borovenskoye		57.77397	34.41508	H	LK	RU		77				0		156	Europe/Moscow	2000-07-15
+453028	Ivanovskoye	Ivanovskoye	Ivanovskoe,Ivanovskoye,Ивановское	57.77111	34.91167	P	PPL	RU		77				0		166	Europe/Moscow	2012-01-16
+453029	Khvoshno	Khvoshno	Khvoshno,Хвошно	57.76714	34.72867	P	PPL	RU		77				0		165	Europe/Moscow	2012-01-16
+453030	Ozero Pisoshnya	Ozero Pisoshnya	Ozero Pisoshnja,Ozero Pisoshnya,Озеро Писошня	57.7653	34.74648	H	LK	RU		77				0		159	Europe/Moscow	2012-01-16
+453031	Blokpost 124-y km	Blokpost 124-y km	Blokpost 124-y km,Блокпост 124-ы км	57.76448	34.29327	S	RSGNL	RU		77				0		173	Europe/Moscow	2012-01-16
+453032	Gora Krutets	Gora Krutets	Gora Krutec,Gora Krutets,Гора Крутец	57.76589	34.08601	T	HLL	RU		77				0		210	Europe/Moscow	2012-01-16
+453033	Ozero Khvoshno	Ozero Khvoshno		57.76484	34.71828	H	LK	RU		77				0		156	Europe/Moscow	2000-07-15
+453034	Rechka	Rechka	Rechka,Речка	57.76141	34.69803	P	PPL	RU		77				0		163	Europe/Moscow	2012-01-16
+453035	Ozero Volchino	Ozero Volchino		57.7628	34.90392	H	LK	RU		77				0		154	Europe/Moscow	2000-07-15
+453036	Ozero Soroka	Ozero Soroka	Ozero Soroka,Озеро Сорока	57.75968	34.76061	H	LK	RU		77				0		159	Europe/Moscow	2012-01-16
+453037	Ozero Somino	Ozero Somino	Ozero Somino,Озеро Сомино	57.76	34.80335	H	LK	RU		77				0		161	Europe/Moscow	2012-01-16
+453038	Salpa	Salpa	Salpa,Салпа	57.75828	34.48959	P	PPL	RU		77				0		163	Europe/Moscow	2012-01-16
+453039	Udino	Udino		57.75876	34.89198	P	PPL	RU		77				0		158	Europe/Moscow	1997-11-26
+453040	Berëzka	Berezka	Berezka,Berjozka,Berëzka,Берёзка	57.75523	34.38193	P	PPL	RU		77				0		172	Europe/Moscow	2012-01-16
+453041	Ozero Chërnoye	Ozero Chernoye		57.75607	34.2549	H	LK	RU		77				0		166	Europe/Moscow	2000-07-15
+453042	Serebryaniki	Serebryaniki	Serebrjaniki,Serebryaniki,Серебряники	57.75157	34.49504	P	PPL	RU		77				0		167	Europe/Moscow	2012-01-16
+453043	Ozero Voloshno	Ozero Voloshno		57.74941	34.79652	H	LK	RU		77				0		159	Europe/Moscow	2000-07-15
+453044	Sinevo	Sinevo	Sinevo,Синево	57.74972	34.00556	P	PPL	RU		77				0		192	Europe/Moscow	2012-01-16
+453045	Bryakovo	Bryakovo	Brjakovo,Bryakovo,Бряково	57.74778	34.92028	P	PPL	RU		77				0		156	Europe/Moscow	2012-01-16
+453046	Pot’yanikha	Pot'yanikha	Pot'janikha,Pot'yanikha,Pot’yanikha,Потьяниха	57.74807	34.69533	P	PPLQ	RU		77				0		163	Europe/Moscow	2012-01-16
+453047	Shiryayevo	Shiryayevo	Shirjaevo,Shiryayevo,Ширяево	57.74716	34.34319	P	PPL	RU		77				0		161	Europe/Moscow	2012-01-16
+453048	Staroye-Kotchishche	Staroye-Kotchishche	Staroe-Kotchishhe,Staroye-Kotchishche,Старое-Котчище	57.74714	34.48691	P	PPL	RU		77				0		167	Europe/Moscow	2012-01-16
+453049	Bel’skiy	Bel'skiy	Bel'skij,Bel'skiy,Belskij,Bel’skiy,Бельский	57.7475	34.24333	P	PPL	RU		77				0		178	Europe/Moscow	2012-01-16
+453050	Ozero Divino	Ozero Divino		57.745	34.68044	H	LK	RU		77				0		154	Europe/Moscow	2000-07-15
+453051	Ozero Ziryayevo	Ozero Ziryayevo		57.74623	34.41178	H	LK	RU		77				0		157	Europe/Moscow	2000-07-15
+453052	Lyalino	Lyalino	Ljalino,Lyalino,Лялино	57.7423	34.39752	P	PPL	RU		77				0		163	Europe/Moscow	2012-01-16
+453053	Sadovyy	Sadovyy	Sadovyj,Sadovyy,Садовый	57.7396	34.49106	P	PPL	RU		77				0		164	Europe/Moscow	2012-01-16
+453054	Ozero Gorodnya	Ozero Gorodnya		57.74001	34.74046	H	LK	RU		77				0		160	Europe/Moscow	2000-07-15
+453055	Divovka	Divovka	Divovka,Дивовка	57.74019	34.67281	H	STM	RU		77				0		156	Europe/Moscow	2012-01-16
+453056	Novoye-Kotchishche	Novoye-Kotchishche	Novoe-Kotchishhe,Novoye-Kotchishche,Новое-Котчище	57.7384	34.4811	P	PPL	RU		77				0		164	Europe/Moscow	2012-01-16
+453057	Glubokoye	Glubokoye	Glubokoe,Glubokoye,Глубокое	57.73957	34.83221	P	PPL	RU		77				0		166	Europe/Moscow	2012-01-16
+453058	Urochishche Podsosen’ye	Urochishche Podsosen'ye	Urochishche Podsosen'ye,Urochishche Podsosen’ye,Urochishhe Podsosen'e,Урочище Подсосенье	57.73928	34.57037	L	LCTY	RU		77				0		178	Europe/Moscow	2012-01-16
+453059	Malyy-Gorodok	Malyy-Gorodok	Malyj-Gorodok,Malyy-Gorodok,Малый-Городок	57.73154	34.47347	P	PPL	RU		77				0		161	Europe/Moscow	2012-01-16
+453060	Krutets	Krutets	Krutec,Krutets,Крутец	57.73167	34.92583	H	STM	RU		77				0		163	Europe/Moscow	2012-01-16
+453061	Radunka	Radunka	Radunka,Радунка	57.73157	34.42151	P	PPL	RU		77				0		164	Europe/Moscow	2012-01-16
+453062	Zapol’ye	Zapol'ye		57.72593	34.39234	P	PPL	RU		77				0		165	Europe/Moscow	1997-11-26
+453063	Ukhab	Ukhab		57.72543	34.84408	P	PPL	RU		77				0		170	Europe/Moscow	1997-11-26
+453064	Bol’shoy-Gorodok	Bol'shoy-Gorodok	Bol'shoj-Gorodok,Bol'shoy-Gorodok,Bol’shoy-Gorodok,Большой-Городок	57.72544	34.46705	P	PPL	RU		77				0		160	Europe/Moscow	2012-01-16
+453065	Vasilëvo	Vasilevo		57.72342	34.66293	P	PPL	RU		77				0		172	Europe/Moscow	2000-07-15
+453066	Agrukhino	Agrukhino	Agrukhino,Агрухино	57.72503	34.74429	P	PPL	RU		77				0		163	Europe/Moscow	2012-01-16
+453067	Ozero Ol’shëvo	Ozero Ol'shevo	Ozero Ol'shevo,Ozero Ol'shjovo,Ozero Ol’shëvo,Озеро Ольшёво	57.7252	34.82015	H	LK	RU		77				0		160	Europe/Moscow	2012-01-16
+453068	Valentinovka	Valentinovka		57.72089	34.45894	P	PPL	RU		77				0		161	Europe/Moscow	1997-11-26
+453069	Kisharino	Kisharino	Kisharino,Кишарино	57.72151	34.47303	P	PPL	RU		77				0		159	Europe/Moscow	2012-01-16
+453070	Nakhodno	Nakhodno	Nakhodno,Находно	57.72042	34.32954	P	PPL	RU		77				0		161	Europe/Moscow	2012-01-16
+453071	Ozero Volkovo	Ozero Volkovo		57.7194	34.75069	H	LK	RU		77				0		158	Europe/Moscow	2000-07-15
+453072	Akademicheskaya	Akademicheskaya	Akademicheskaja,Akademicheskaya,Akademicheskij,Академическая,Академический	57.71833	34.34361	P	PPL	RU		77				0		162	Europe/Moscow	2012-01-16
+453073	Dudikha	Dudikha	Dudikha,Дудиха	57.71678	34.80159	P	PPL	RU		77				0		168	Europe/Moscow	2012-01-16
+453074	Ozero Taboshevo	Ozero Taboshevo		57.7175	34.94556	H	LK	RU		77				0		164	Europe/Moscow	2000-07-15
+453075	Rudinka	Rudinka	Rudinka,Рудинка	57.71772	34.45799	H	STM	RU		77				0		155	Europe/Moscow	2012-01-16
+453076	Khotilovo	Khotilovo	Khotilovo,Хотилово	57.71757	34.12621	P	PPLX	RU		77				0		183	Europe/Moscow	2020-01-08
+453077	Taboshevo	Taboshevo		57.71361	34.94111	P	PPL	RU		77				0		161	Europe/Moscow	1997-11-26
+453078	Liskovo	Liskovo	Liskovo,Лисково	57.71278	34.96306	P	PPL	RU		77				0		166	Europe/Moscow	2012-01-16
+453079	Prokhorovo	Prokhorovo	Prokhorovo,Прохорово	57.71226	34.82995	P	PPL	RU		77				0		169	Europe/Moscow	2012-01-16
+453080	Akademicheskiy	Akademicheskiy	Akademicheskij,Akademicheskiy,Akademitsjeskij,Академический	57.71111	34.31638	P	PPL	RU		77				0		172	Europe/Moscow	2012-01-16
+453081	Ozero Pochayevo	Ozero Pochayevo	Ozero Pochaevo,Ozero Pochayevo,Озеро Почаево	57.71045	34.77978	H	LK	RU		77				0		159	Europe/Moscow	2012-01-16
+453082	Ozero Dolgoye	Ozero Dolgoye		57.70907	34.69723	H	LK	RU		77				0		167	Europe/Moscow	2000-07-15
+453083	Ozero Vetrino	Ozero Vetrino		57.70961	34.84674	H	LK	RU		77				0		163	Europe/Moscow	2000-07-15
+453084	Zaluch’ye	Zaluch'ye	Zaluch'e,Zaluch'ye,Zaluch’ye,Залучье	57.70625	34.2443	P	PPL	RU		77				0		169	Europe/Moscow	2020-03-07
+453085	Ladyzhenka	Ladyzhenka	Ladyzhenka,Ладыженка	57.70389	34.01722	H	STM	RU		77				0		180	Europe/Moscow	2012-01-16
+453086	Ozero Gushchino	Ozero Gushchino		57.70336	34.8597	H	LK	RU		77				0		162	Europe/Moscow	2000-07-15
+453087	Maloye Gudobino	Maloye Gudobino	Maloe Gudobino,Maloye Gudobino,Малое Гудобино	57.7022	34.69969	P	PPL	RU		77				0		169	Europe/Moscow	2012-01-16
+453088	Nikulino	Nikulino	Nikulino,Никулино	57.69934	34.35707	P	PPL	RU		77				0		163	Europe/Moscow	2012-01-16
+453089	Rudnevka	Rudnevka	Rudnevka,Рудневка	57.69709	34.48983	H	STM	RU		77				0		159	Europe/Moscow	2012-01-16
+453090	Ozeryayevo	Ozeryayevo	Ozerjaevo,Ozeryayevo,Озеряево	57.69611	34.94667	P	PPL	RU		77				0		162	Europe/Moscow	2012-01-16
+453091	Shelemikha	Shelemikha	Shelemikha,Шелемиха	57.695	34.93444	P	PPL	RU		77				0		171	Europe/Moscow	2012-01-16
+453092	Studënka	Studenka	Studenka,Studjonka,Studënka,Студёнка	57.69286	34.05526	H	STM	RU		77				0		176	Europe/Moscow	2020-03-07
+453093	Ostanovochnyy Punkt Pochvino	Ostanovochnyy Punkt Pochvino		57.68688	34.39492	S	RSTP	RU		77				0		168	Europe/Moscow	2011-07-09
+453094	Veret’ye	Veret'ye		57.68691	34.91157	P	PPL	RU		77				0		169	Europe/Moscow	2011-07-09
+453095	Boloto Renëvka	Boloto Renevka	Boloto Renevka,Boloto Renjovka,Boloto Renëvka,Болото Ренёвка	57.68608	34.77377	H	SWMP	RU		77				0		161	Europe/Moscow	2012-01-16
+453096	Ozero Shchuch’ye	Ozero Shchuch'ye	Ozero Shchuch'ye,Ozero Shchuch’ye,Ozero Shhuch'e,Озеро Щучье	57.68402	34.79536	H	LK	RU		77				0		161	Europe/Moscow	2012-01-16
+453097	Oblino	Oblino	Oblino,Облино	57.68422	34.96495	P	PPL	RU		77				0		170	Europe/Moscow	2012-01-16
+453098	Ozero Gorodno	Ozero Gorodno		57.69222	34.93944	H	LK	RU		77				0		156	Europe/Moscow	2000-07-15
+453099	Borisovskiy	Borisovskiy	Borisovskij,Borisovskiy,Борисовский	57.68424	35.00046	P	PPL	RU		77				0		166	Europe/Moscow	2012-01-16
+453100	Ozero Shitovskoye	Ozero Shitovskoye	Ozero Shitovskoe,Ozero Shitovskoye,Озеро Шитовское	57.682	34.26405	H	LK	RU		77				0		165	Europe/Moscow	2012-01-16
+453101	Derevkovo	Derevkovo	Derevkovo,Деревково	57.6821	34.45068	P	PPL	RU		77				0		164	Europe/Moscow	2012-01-16
+453102	Ozero Zaverkhov’ye	Ozero Zaverkhov'ye		57.67429	34.35011	H	LK	RU		77				0		160	Europe/Moscow	2011-07-09
+453103	Boriskovo	Boriskovo	Boriskovo,Борисково	57.67425	34.99352	P	PPL	RU		77				0		162	Europe/Moscow	2012-01-16
+453104	Ozero Mets	Ozero Mets	Ozero Mec,Ozero Mets,Озеро Мец	57.66954	34.7674	H	LK	RU		77				0		159	Europe/Moscow	2012-01-16
+453105	Gorbovo	Gorbovo	Gorbovo,Горбово	57.66846	34.9599	P	PPL	RU		77				0		166	Europe/Moscow	2012-01-16
+453106	Ragozino	Ragozino	Ragozino,Рагозино	57.66781	34.48228	P	PPL	RU		77				0		158	Europe/Moscow	2012-01-16
+453107	Solnechnyy	Solnechnyy	Solnechnyj,Solnechnyy,Солнечный	57.66736	34.45981	P	PPL	RU		77				0		173	Europe/Moscow	2012-01-16
+453108	Ozero Glukhoye	Ozero Glukhoye		57.65533	34.3205	H	LK	RU		77				0		168	Europe/Moscow	2011-07-09
+453109	Ozero Puchino	Ozero Puchino	Ozero Puchino,Озеро Пучино	57.65142	34.76398	H	LK	RU		77				0		158	Europe/Moscow	2012-01-16
+453110	Boloto Orlovskoye	Boloto Orlovskoye	Boloto Ol'khovskoe,Boloto Ol'khovskoye,Boloto Ol’khovskoye,Boloto Orlovskoe,Boloto Orlovskoye,Болото Ольховское,Болото Орловское	57.65476	34.01203	H	SWMP	RU		77				0		182	Europe/Moscow	2020-01-08
+453111	Ozero Shepel’kino	Ozero Shepel'kino	Ozero Shepel'kino,Ozero Shepel’kino,Озеро Шепелькино	57.64776	34.62419	H	LK	RU		77				0		164	Europe/Moscow	2012-01-16
+453112	Oktyabr’skiy	Oktyabr'skiy	Oktjabr'skij,Oktyabr'skiy,Oktyabr’skiy,Октябрьский	57.64308	34.45074	P	PPL	RU		77				0		168	Europe/Moscow	2012-01-16
+453113	Bol’shaya Varezha	Bol'shaya Varezha	Bol'shaja Varezha,Bol'shaya Varezha,Bol’shaya Varezha,Большая Варежа	57.64376	34.84747	P	PPLQ	RU		77				0		168	Europe/Moscow	2012-01-16
+453114	Aleksina Gora	Aleksina Gora	Aleksina Gora,Алексина Гора	57.64386	34.51579	P	PPL	RU		77				0		152	Europe/Moscow	2012-01-16
+453115	Nivishche	Nivishche	Nivishche,Nivishhe,Нивище	57.64211	34.99932	P	PPL	RU		77				0		183	Europe/Moscow	2012-01-16
+453116	Ozero Kleshchino	Ozero Kleshchino		57.64028	34.95056	H	LK	RU		77				0		166	Europe/Moscow	2000-07-15
+453117	Ozero Sudomlya	Ozero Sudomlya	Ozero Sudomlja,Ozero Sudomlya,Озеро Судомля	57.64138	34.9611	H	LK	RU		77				0		166	Europe/Moscow	2012-01-16
+453118	Ozero Soroch’ye	Ozero Soroch'ye	Ozero Soroch'e,Ozero Soroch'ye,Ozero Soroch’ye,Озеро Сорочье	57.63556	34.63278	H	LK	RU		77				0		164	Europe/Moscow	2012-01-16
+453119	Pochinok	Pochinok	Pochinok,Починок	57.63222	34.63611	P	PPL	RU		77				0		166	Europe/Moscow	2012-01-16
+453120	Ozero Il’men’	Ozero Il'men'		57.63056	34.99806	H	LK	RU		77				0		168	Europe/Moscow	2000-07-15
+453121	Lukino	Lukino	Lukino,Лукино	57.63007	34.95903	P	PPL	RU		77				0		172	Europe/Moscow	2012-01-16
+453122	Ozero Krichino	Ozero Krichino		57.62903	34.64516	H	LK	RU		77				0		163	Europe/Moscow	2011-07-09
+453123	Boriskovo	Boriskovo	Boriskovo,Борисково	57.6274	34.51444	P	PPL	RU		77				0		165	Europe/Moscow	2012-01-16
+453124	Soroki	Soroki	Novyy Put',Novyy Put’,Soroki,Сороки	57.62744	34.61774	P	PPL	RU		77				0		169	Europe/Moscow	2012-01-16
+453125	Ozero Vekhlino	Ozero Vekhlino		57.62032	34.7398	H	LK	RU		77				0		156	Europe/Moscow	2011-07-09
+453126	Prigorodnyy	Prigorodnyy	Prigorodnyj,Prigorodnyy,Пригородный	57.62294	34.62481	P	PPLX	RU		77				0		169	Europe/Moscow	2012-01-16
+453127	Boloto Volchiy Ruchey	Boloto Volchiy Ruchey	Boloto Volchij Ruchej,Boloto Volchiy Ruchey,Болото Волчий Ручей	57.60369	34.12424	H	SWMP	RU		77				0		179	Europe/Moscow	2012-01-16
+453128	Suderevka	Suderevka	Suderevka,Судеревка	57.60192	34.87844	H	STM	RU		77				0		155	Europe/Moscow	2012-01-16
+453129	Zelënyy	Zelenyy	Zelenyy,Zeljonyj,Zelënyy,Зелёный	57.60183	34.2728	P	PPL	RU		77				0		167	Europe/Moscow	2019-06-04
+453130	Stantsiya Vyshniy Volochëk	Stantsiya Vyshniy Volochek	Stantsiya Vyshniy Volochek,Stantsiya Vyshniy Volochëk,Vyshniy Volochek,Vyshniy Volochëk	57.59944	34.56194	S	RSTN	RU	RU	77				0		161	Europe/Moscow	2012-01-16
+453131	Ozero Osechno	Ozero Osechno	Ozero Osechno,Озеро Осечно	57.59913	34.88066	H	LK	RU		77				0		155	Europe/Moscow	2012-01-16
+453132	Ozero Shchuch’ye	Ozero Shchuch'ye	Ozero Shchuch'ye,Ozero Shchuch’ye,Ozero Shhuch'e,Озеро Щучье	57.59777	34.69331	H	LKI	RU		77				0		159	Europe/Moscow	2012-01-16
+453133	Ostrov Lisiy	Ostrov Lisiy	Ostrov Lisij,Ostrov Lisiy,Остров Лисий	57.58586	34.40547	P	PPL	RU		77				0		166	Europe/Moscow	2012-01-16
+453134	Ozero Glukhoye	Ozero Glukhoye		57.58182	34.71667	H	LK	RU		77				0		157	Europe/Moscow	2011-07-09
+453135	Gornyak	Gornyak	Gornjak,Gornyak,Горняк	57.58033	34.63712	P	PPL	RU		77				0		169	Europe/Moscow	2012-01-16
+453136	Rechitsa	Rechitsa	Rechica,Rechitsa,Речица	57.57516	34.21349	H	STM	RU		77				0		171	Europe/Moscow	2012-01-16
+453137	Lyapunikha	Lyapunikha	Ljapunikha,Lyapunikha,Ляпуниха	57.56807	34.87617	P	PPL	RU		77				0		158	Europe/Moscow	2012-01-16
+453138	Terelesovskiy	Terelesovskiy		57.56744	34.73965	P	PPL	RU		77				0		163	Europe/Moscow	2011-07-09
+453139	Ostanovochnyy Punkt Terelesovskaya	Ostanovochnyy Punkt Terelesovskaya	Ostanovochnyy Punkt Terelesovskaya,Terelesovskaya	57.56523	34.73074	S	RSTP	RU		77				0		162	Europe/Moscow	2012-01-16
+453140	Ilenka	Ilenka	Ilenka,Иленка	57.56468	34.86611	H	STM	RU		77				0		163	Europe/Moscow	2012-01-16
+453141	Krasnoye	Krasnoye	Krasnoe,Krasnoye,Красное	57.56082	34.991	P	PPL	RU		77				0		171	Europe/Moscow	2012-01-16
+453142	Pionerlager’ Gradolyublya	Pionerlager' Gradolyublya	Gradoljublja,Pionerlager' Gradoljublja,Pionerlager' Gradolyublya,Pionerlager’ Gradolyublya,Градолюбля,Пионерлагерь Градолюбля	57.56017	34.42268	S	CMP	RU		77				0		144	Europe/Moscow	2019-06-04
+453143	Petrovskiye Domiki	Petrovskiye Domiki	Petrovskie Domiki,Petrovskiye Domiki,Петровские Домики	57.5583	34.5104	P	PPLX	RU		77				0		167	Europe/Moscow	2012-01-16
+453144	Ostrov Popov	Ostrov Popov	Ostrov Popov,Остров Попов	57.55799	34.43599	T	ISL	RU		77				0		162	Europe/Moscow	2012-01-16
+453145	Klyuchi	Klyuchi	Kljuchi,Klyuchi,Ключи	57.55291	34.74172	H	STM	RU		77				0		153	Europe/Moscow	2012-01-16
+453146	Kasharovo	Kasharovo	Kasharovo,Кашарово	57.54752	34.54646	P	PPLX	RU		77				0		178	Europe/Moscow	2012-01-16
+453147	Obradovo	Obradovo	Obradovo,Обрадово	57.54702	34.63089	P	PPL	RU		77				0		158	Europe/Moscow	2012-01-16
+453148	Stantsiya Osechenka	Stantsiya Osechenka	Osechenka,Stantsiya Osechenka	57.54506	34.80149	S	RSTN	RU		77				0		159	Europe/Moscow	2012-01-16
+453149	Ozarennyy	Ozarennyy	Ozarennyj,Ozarennyy,Озаренный	57.54412	34.86564	P	PPL	RU		77				0		160	Europe/Moscow	2012-01-16
+453150	Ostrov Zakharin Bor	Ostrov Zakharin Bor		57.53377	34.47338	T	ISL	RU		77				0		176	Europe/Moscow	2011-07-09
+453151	Pristan’ Pererva	Pristan' Pererva	Pererva,Pristan' Pererva,Pristan’ Pererva,Перерва,Пристань Перерва	57.53874	34.4237	S	LDNG	RU		77				0		144	Europe/Moscow	2020-06-09
+453152	Osechenka	Osechenka	Osechenka,Осеченка	57.53693	34.79017	H	STM	RU		77				0		153	Europe/Moscow	2012-01-16
+453153	Torforazrabotki Osechenskiye	Torforazrabotki Osechenskiye	Torforazrabotki Osechenskie,Torforazrabotki Osechenskiye,Торфоразработки Осеченские	57.53536	34.90971	L	PEAT	RU		77				0		160	Europe/Moscow	2012-01-16
+453154	Trudovoy	Trudovoy	Pervomayskiy,Trudovoy	57.53032	34.82842	P	PPL	RU		77				0		158	Europe/Moscow	2012-01-16
+453155	Goroncharovo	Goroncharovo	Goroncharovo,Горончарово	57.5309	34.57017	P	PPL	RU		77				0		179	Europe/Moscow	2012-01-16
+453156	Gurovichi	Gurovichi	Gurovichi,Гуровичи	57.52989	34.22949	P	PPL	RU		77				0		175	Europe/Moscow	2012-01-16
+453157	Krasnaya Gorka	Krasnaya Gorka	Krasnaja Gorka,Krasnaya Gorka,Красная Горка	57.52889	34.56389	P	PPL	RU		77				0		180	Europe/Moscow	2012-01-16
+453158	Ruchënaya	Ruchenaya	Ruchenaja,Ruchenaya,Ruchjonaja,Ruchënaya,Рученая,Ручёная	57.52656	34.09474	P	PPL	RU		77				0		192	Europe/Moscow	2019-09-04
+453159	Zheleznyak	Zheleznyak		57.52467	34.26206	P	PPL	RU		77				0		167	Europe/Moscow	2011-07-09
+453160	Ostanovochnyy Punkt Industriya	Ostanovochnyy Punkt Industriya		57.52346	34.83331	S	RSTP	RU		77				0		159	Europe/Moscow	2011-07-09
+453161	Yermakovo	Yermakovo		57.52403	34.54528	P	PPL	RU		77				0		184	Europe/Moscow	2011-07-09
+453162	Buslavlya	Buslavlya	Buslavlja,Buslavlya,Буславля	57.52217	34.56765	P	PPL	RU		77				0		173	Europe/Moscow	2012-01-16
+453163	Yakonovka	Yakonovka		57.51819	34.0895	H	STM	RU		77				0		174	Europe/Moscow	2011-07-09
+453164	Baranovka	Baranovka	Baranovka,Барановка	57.51992	34.3231	H	STM	RU		77				0		168	Europe/Moscow	2019-06-04
+453165	Ozero Bol’shoye	Ozero Bol'shoye		57.51699	34.6888	H	LK	RU		77				0		161	Europe/Moscow	2011-07-09
+453166	Gorelyshevo	Gorelyshevo	Gorelyshevo,Горелышево	57.51583	34.20194	P	PPL	RU		77				0		174	Europe/Moscow	2012-01-16
+453167	Cheremnitsa	Cheremnitsa	Cheremnica,Cheremnitsa,Черемница	57.51054	34.37953	H	STM	RU		77				0		153	Europe/Moscow	2019-06-04
+453168	Boloto Afim’ino	Boloto Afim'ino	Boloto Afim'ino,Boloto Afim’ino,Болото Афимьино	57.50193	34.69942	H	SWMP	RU		77				0		162	Europe/Moscow	2012-01-16
+453169	Rvyanka	Rvyanka	Rvjanka,Rvyanka,Рвянка	57.50846	34.46879	H	STM	RU		77				0		147	Europe/Moscow	2019-06-04
+453170	Zelenogorskiy	Zelenogorskiy		57.50609	34.56443	P	PPL	RU		77				0		186	Europe/Moscow	2011-07-09
+453171	Oktyabr’skiy	Oktyabr'skiy	Oktjabr'skij,Oktyabr'skiy,Oktyabr’skiy,Октябрьский	57.50487	34.9349	P	PPL	RU		77				0		168	Europe/Moscow	2012-01-16
+453172	Podsobnoye Khozyaystvo Spirovskiy Zagotskot	Podsobnoye Khozyaystvo Spirovskiy Zagotskot	Podsobnoe Khozjajstvo Spirovskij Zagotskot,Podsobnoye Khozyaystvo Spirovskiy Zagotskot,Подсобное Хозяйство Спировский Заготскот	57.50231	34.96287	S	FRM	RU		77				0		192	Europe/Moscow	2012-01-16
+453173	Borovskaya-Mel’nitsa	Borovskaya-Mel'nitsa	Borovskaja-Mel'nica,Borovskaya-Mel'nitsa,Borovskaya-Mel’nitsa,Боровская-Мельница	57.49802	34.06349	P	PPL	RU		77				0		192	Europe/Moscow	2012-01-16
+453174	Yevanovo	Yevanovo		57.49475	34.59668	P	PPL	RU		77				0		185	Europe/Moscow	2011-07-09
+453175	Lyubinka	Lyubinka	Ljubinka,Lyubinka,Любинка	57.49262	34.84387	H	STM	RU		77				0		158	Europe/Moscow	2012-01-16
+453176	Petrilovka	Petrilovka	Petrilovka,Петриловка	57.48945	34.29631	H	STM	RU		77				0		172	Europe/Moscow	2012-01-16
+453177	Krasnoarmeyets	Krasnoarmeyets	Krasnoarmeec,Krasnoarmeyets,Красноармеец	57.48173	34.89405	P	PPL	RU		77				0		171	Europe/Moscow	2012-01-16
+453178	Zybunovo	Zybunovo		57.4796	34.96331	P	PPL	RU		77				0		185	Europe/Moscow	2011-07-09
+453179	Stantsiya Lyubinka	Stantsiya Lyubinka	Lyubinka,Stantsiya Lyubinka	57.47151	34.91554	S	RSTN	RU		77				0		176	Europe/Moscow	2012-01-16
+453180	Nenorovo	Nenorovo	Nenorovo,Ненорово	57.46858	34.65583	P	PPL	RU		77				0		193	Europe/Moscow	2012-01-16
+453181	Krasnaya Zarya	Krasnaya Zarya	Krasnaja Zarja,Krasnaya Zarya,Красная Заря	57.46537	34.07273	P	PPL	RU		77				0		209	Europe/Moscow	2012-01-16
+453182	Novoye Selo	Novoye Selo	Novoe Selo,Novoye Selo,Новое Село	57.46495	34.7524	P	PPL	RU		77				0		178	Europe/Moscow	2012-01-16
+453183	Kolokol’nya	Kolokol'nya	Kolokol'nja,Kolokol'nya,Kolokolnja,Kolokol’nya,Колокольня	57.46527	34.80397	P	PPL	RU		77				0		159	Europe/Moscow	2012-01-16
+453184	Urochishche Gar’	Urochishche Gar'		57.46427	34.37091	L	LCTY	RU		77				0		173	Europe/Moscow	2011-07-09
+453185	Kholokholenka	Kholokholenka	Kholokholenka,Холохоленка	57.46164	34.80937	H	STM	RU		77				0		154	Europe/Moscow	2012-01-16
+453186	Ben’kovo	Ben'kovo	Ben'kovo,Benkovo,Ben’kovo,Беньково	57.46083	34.69556	P	PPL	RU		77				0		188	Europe/Moscow	2012-01-16
+453187	Shunkovo	Shunkovo	Shunkovo,Шунково	57.45958	34.61777	P	PPL	RU		77				0		193	Europe/Moscow	2012-01-16
+453188	Pryamik	Pryamik	Prjamik,Pryamik,Прямик	57.45728	34.57234	P	PPL	RU		77				0		171	Europe/Moscow	2012-01-16
+453189	Ryad	Ryad	Rjad,Ryad,Ряд	57.45496	34.80548	P	PPL	RU		77				0		160	Europe/Moscow	2012-01-16
+453190	Pestovo	Pestovo	Pestovo,Пестово	57.45449	34.70473	P	PPL	RU		77				0		196	Europe/Moscow	2012-01-16
+453191	Smorodino	Smorodino	Smorodino,Смородино	57.45334	34.72265	P	PPL	RU		77				0		191	Europe/Moscow	2012-01-16
+453192	Krutets	Krutets	Krutec,Krutets,Крутец	57.45364	34.76923	P	PPL	RU		77				0		187	Europe/Moscow	2012-01-16
+453193	Kholostoy	Kholostoy	Kholostoj,Kholostoy,Холостой	57.45186	34.44106	H	STM	RU		77				0		163	Europe/Moscow	2012-01-16
+453194	Krasnyy Gorodok	Krasnyy Gorodok	Krasnyj Gorodok,Krasnyy Gorodok,Красный Городок	57.45024	34.71671	P	PPL	RU		77				0		194	Europe/Moscow	2012-01-16
+453195	Barsuki	Barsuki	Barsuki,Барсуки	57.44886	34.15956	P	PPL	RU		77				0		203	Europe/Moscow	2012-01-16
+453196	Semkino	Semkino	Semkino,Семкино	57.44962	34.62725	P	PPL	RU		77				0		205	Europe/Moscow	2012-01-16
+453197	Shchegletnya	Shchegletnya	Shchegletnya,Shhegletnja,Щеглетня	57.447	34.60689	P	PPL	RU		77				0		185	Europe/Moscow	2012-01-16
+453198	Kalyagino	Kalyagino	Kaljagino,Kalyagino,Калягино	57.44361	34.94528	P	PPL	RU		77				0		184	Europe/Moscow	2012-01-16
+453199	Yakovtsevo	Yakovtsevo		57.43911	34.90763	P	PPL	RU		77				0		180	Europe/Moscow	2011-07-09
+453200	Loktevo	Loktevo	Loktevo,Локтево	57.43755	34.83732	P	PPL	RU		77				0		158	Europe/Moscow	2012-01-16
+453201	Urochishche Sinyaki	Urochishche Sinyaki	Urochishche Sinyaki,Urochishhe Sinjaki,Урочище Синяки	57.44252	34.48251	L	LCTY	RU		77				0		168	Europe/Moscow	2012-01-16
+453202	Vykhodtsy	Vykhodtsy		57.42635	34.69174	P	PPL	RU		77				0		197	Europe/Moscow	2011-07-09
+453203	Stantsiya Spirovo	Stantsiya Spirovo	Spirovo,Stantsiya Spirovo	57.42283	34.99531	S	RSTN	RU		77				0		181	Europe/Moscow	2012-01-16
+453204	Yukhovo	Yukhovo		57.41774	34.91622	P	PPL	RU		77				0		178	Europe/Moscow	2011-07-09
+453205	Akshontovo	Akshontovo	Akshontovo,Aksjontovo,Акшонтово	57.41628	34.77644	P	PPL	RU		77				0		198	Europe/Moscow	2012-01-16
+453206	Pen’kovo	Pen'kovo	Pen'kovo,Pen’kovo,Пеньково	57.41487	34.99661	P	PPL	RU		77				0		182	Europe/Moscow	2012-01-16
+453207	Podberez’ye	Podberez'ye	Podberez'e,Podberez'ye,Podberez’ye,Подберезье	57.41161	34.27334	P	PPL	RU		77				0		222	Europe/Moscow	2012-01-16
+453208	Dobretsovo	Dobretsovo	Dobrecovo,Dobretsovo,Добрецово	57.40998	34.79695	P	PPL	RU		77				0		186	Europe/Moscow	2012-01-16
+453209	Moshnya	Moshnya	Moshnja,Moshnya,Мошня	57.40893	34.11717	H	STM	RU		77				0		192	Europe/Moscow	2012-01-16
+453210	Malaya Tigma	Malaya Tigma	Malaja Tigma,Malaya Tigma,Малая Тигма	57.40744	34.86066	H	STM	RU		77				0		151	Europe/Moscow	2012-01-16
+453211	Yelokhovo	Yelokhovo		57.40467	34.30194	P	PPL	RU		77				0		235	Europe/Moscow	2011-07-09
+453212	Petrilovo	Petrilovo	Petrilovo,Петрилово	57.40262	34.26094	P	PPL	RU		77				0		236	Europe/Moscow	2012-01-16
+453213	Katikha	Katikha	Katikha,Катиха	57.40014	34.97499	P	PPL	RU		77				0		175	Europe/Moscow	2012-01-16
+453214	Vetcha	Vetcha		57.39982	34.17585	H	STM	RU		77				0		206	Europe/Moscow	2011-07-09
+453215	Bogaykino	Bogaykino	Bogajkino,Bogaykino,Богайкино	57.39556	34.22083	P	PPL	RU		77				0		221	Europe/Moscow	2012-01-16
+453216	Yemel’yanova Gorka	Yemel'yanova Gorka		57.39528	34.09972	P	PPL	RU		77				0		199	Europe/Moscow	2000-07-15
+453217	Valay	Valay		57.39092	34.5947	H	STM	RU		77				0		158	Europe/Moscow	2011-07-09
+453218	Vyaz’mikha	Vyaz'mikha		57.38903	34.80306	P	PPL	RU		77				0		177	Europe/Moscow	2011-07-09
+453219	Malaya Yemel’yanova Gorka	Malaya Yemel'yanova Gorka	Malaja Emel'janova Gorka,Malaya Yemel'yanova Gorka,Malaya Yemel’yanova Gorka,Малая Емельянова Горка	57.38689	34.09165	P	PPL	RU		77				0		213	Europe/Moscow	2012-01-16
+453220	Konstantinikha	Konstantinikha	Konstantinikha,Константиниха	57.38402	34.78658	P	PPL	RU		77				0		188	Europe/Moscow	2012-01-16
+453221	Blokhinka	Blokhinka	Blokhinka,Блохинка	57.38375	34.09388	H	STM	RU		77				0		204	Europe/Moscow	2012-01-16
+453222	Laden’kovo	Laden'kovo	Laden'kovo,Laden’kovo,Ладеньково	57.38479	34.87893	P	PPL	RU		77				0		167	Europe/Moscow	2012-01-16
+453223	Pochinok	Pochinok	Pochinok,Починок	57.38283	34.6199	P	PPL	RU		77				0		185	Europe/Moscow	2012-01-16
+453224	Khorevo	Khorevo	Khorevo,Хорево	57.38179	34.07033	P	PPL	RU		77				0		205	Europe/Moscow	2012-01-16
+453225	Vetcha	Vetcha		57.38248	34.23786	P	PPL	RU		77				0		252	Europe/Moscow	2011-07-09
+453226	Vasil’yevo	Vasil'yevo		57.38051	34.79009	P	PPL	RU		77				0		183	Europe/Moscow	2011-07-09
+453227	Politskoye	Politskoye	Politskoe,Politskoye,Политское	57.37995	34.59705	P	PPL	RU		77				0		170	Europe/Moscow	2012-01-16
+453228	Osovets	Osovets	Osovec,Osovets,Осовец	57.37583	34.01944	P	PPL	RU		77				0		223	Europe/Moscow	2012-01-16
+453229	Cherenkovo	Cherenkovo	Cherenkovo,Черенково	57.37562	34.85888	P	PPL	RU		77				0		162	Europe/Moscow	2012-01-16
+453230	Borilovo	Borilovo	Borilovo,Борилово	57.36923	34.77539	P	PPL	RU		77				0		180	Europe/Moscow	2012-01-16
+453231	Lukino	Lukino	Lukino,Лукино	57.36773	34.88749	P	PPL	RU		77				0		166	Europe/Moscow	2012-01-16
+453232	Sorochikha	Sorochikha	Sorochikha,Сорочиха	57.36747	34.554	P	PPL	RU		77				0		193	Europe/Moscow	2012-01-16
+453233	Nikiforovo	Nikiforovo	Nikiforovo,Никифорово	57.36279	34.62864	P	PPL	RU		77				0		200	Europe/Moscow	2012-01-16
+453234	Ryskino	Ryskino	Ryskino,Рыскино	57.36254	34.65664	P	PPL	RU		77				0		204	Europe/Moscow	2012-01-16
+453235	Chertovlya	Chertovlya	Chertovlja,Chertovlya,Чертовля	57.36015	34.4975	H	STM	RU		77				0		165	Europe/Moscow	2012-01-16
+453236	Plotichenka	Plotichenka	Plotichenka,Плотиченка	57.36053	34.5789	H	STM	RU		77				0		156	Europe/Moscow	2012-01-16
+453237	Galkino	Galkino	Galkino,Галкино	57.36023	34.38175	P	PPL	RU		77				0		194	Europe/Moscow	2012-01-16
+453238	Urochishche Krasnyy Pakhar’	Urochishche Krasnyy Pakhar'		57.35919	34.10502	L	LCTY	RU		77				0		229	Europe/Moscow	2011-07-09
+453239	Shitovichi	Shitovichi	Shitovichi,Шитовичи	57.35988	34.59019	P	PPL	RU		77				0		182	Europe/Moscow	2012-01-16
+453240	Petrovka	Petrovka	Petrovka,Петровка	57.3584	34.76676	P	PPL	RU		77				0		183	Europe/Moscow	2012-01-16
+453241	Bukholovo	Bukholovo	Bukholovo,Бухолово	57.35878	34.42938	P	PPL	RU		77				0		210	Europe/Moscow	2012-01-16
+453242	Zaborov’ye	Zaborov'ye		57.35667	34.36917	P	PPL	RU		77				0		240	Europe/Moscow	1997-11-26
+453243	Pashino	Pashino	Pashino,Пашино	57.35767	34.49719	P	PPL	RU		77				0		177	Europe/Moscow	2012-01-16
+453244	Pestovo	Pestovo	Pestovo,Пестово	57.35556	34.8225	P	PPL	RU		77				0		167	Europe/Moscow	2012-01-16
+453245	Moshkovo	Moshkovo	Moshkovo,Мошково	57.35155	34.95556	P	PPL	RU		77				0		172	Europe/Moscow	2012-01-16
+453246	Burmino	Burmino	Burmino,Бурмино	57.35433	34.68397	P	PPL	RU		77				0		211	Europe/Moscow	2012-01-16
+453247	Gorka	Gorka	Gorka,Горка	57.35035	34.3674	P	PPL	RU		77				0		256	Europe/Moscow	2012-01-16
+453248	Kolmakovo	Kolmakovo	Kolmakovo,Колмаково	57.34783	34.44954	P	PPL	RU		77				0		190	Europe/Moscow	2012-01-16
+453249	Yelyakovo	Yelyakovo		57.34728	34.61853	P	PPL	RU		77				0		196	Europe/Moscow	2011-07-09
+453250	Veshki	Veshki		57.34673	34.83248	P	PPL	RU		77				0		166	Europe/Moscow	2011-07-09
+453251	Tretnikovo	Tretnikovo		57.34606	34.53943	P	PPL	RU		77				0		192	Europe/Moscow	2011-07-09
+453252	Griganovo	Griganovo	Griganovo,Григаново	57.34506	34.78349	P	PPL	RU		77				0		178	Europe/Moscow	2012-01-16
+453253	Rachkovo	Rachkovo	Rachkovo,Рачково	57.34393	34.75615	P	PPL	RU		77				0		163	Europe/Moscow	2012-01-16
+453254	Man’kovo	Man'kovo	Man'kovo,Man’kovo,Маньково	57.34395	34.46611	P	PPL	RU		77				0		200	Europe/Moscow	2012-01-16
+453255	Cherentsovo	Cherentsovo	Cherencovo,Cherentsovo,Черенцово	57.33882	34.62821	P	PPL	RU		77				0		194	Europe/Moscow	2012-01-16
+453256	Dyad’kino	Dyad'kino	Djad'kino,Dyad'kino,Dyad’kino,Дядькино	57.3382	34.79853	P	PPL	RU		77				0		176	Europe/Moscow	2012-01-16
+453257	Pavlovo	Pavlovo	Pavlovo,Павлово	57.33694	34.66333	P	PPL	RU		77				0		205	Europe/Moscow	2012-01-16
+453259	Zakidovo	Zakidovo		57.99833	33.5225	P	PPL	RU		52				0		188	Europe/Moscow	2007-01-23
+453260	Ostrov Tëmnyy	Ostrov Temnyy	Ostrov Temnyy,Ostrov Tjomnyj,Ostrov Tëmnyy,Остров Тёмный	57.99413	33.34069	H	LK	RU		52				0		187	Europe/Moscow	2019-09-04
+453261	Ozero Nizhneberëznoye	Ozero Nizhnebereznoye	Ozero Nizhnebereznoye,Ozero Nizhneberjoznoe,Ozero Nizhneberëznoye,Озеро Нижнеберёзное	57.99222	33.93917	H	LK	RU		77				0		157	Europe/Moscow	2012-01-16
+453262	Iverskiy Monastyr’	Iverskiy Monastyr'	Iverskij Monastyr',Iverskiy Monastyr',Iverskiy Monastyr’,Иверский Монастырь	57.98892	33.30676	S	MSTY	RU		52				0		200	Europe/Moscow	2019-09-04
+453263	Solnechnyy	Solnechnyy	Solnechnyj,Solnechnyy,Солнечный	57.98806	33.87333	P	PPLQ	RU		77				0		176	Europe/Moscow	2019-09-04
+453264	Stantsiya Berezayka	Stantsiya Berezayka	Berezajka,Berezayka,Stancija Berezajka,Stantsiya Berezayka,Березайка,Станция Березайка	57.98583	33.9075	S	RSTN	RU		77				0		169	Europe/Moscow	2020-03-07
+453265	Ovinchishche	Ovinchishche	Ovinchishche,Ovinchishhe,Овинчище	57.98417	33.16306	P	PPL	RU		52				0		214	Europe/Moscow	2012-01-16
+453266	Chernishka	Chernishka	Chernishka,Чернишка	57.97333	33.44778	H	STM	RU		52				0		184	Europe/Moscow	2020-03-07
+453267	Pestovo	Pestovo	Pestovo,Пестово	57.9718	33.05439	P	PPL	RU		52				0		138	Europe/Moscow	2012-01-16
+453268	Yel’chino	Yel'chino		57.97028	33.14333	P	PPL	RU		52				0		200	Europe/Moscow	2007-01-23
+453269	Ostanovochnyy Punkt 356 km	Ostanovochnyy Punkt 356 km		57.97	33.13528	S	RSTP	RU		52				0		210	Europe/Moscow	1997-12-04
+453270	Mironushka	Mironushka	Mironushka,Миронушка	57.96778	33.18556	P	PPL	RU		52				0		215	Europe/Moscow	2015-08-17
+453271	Zagor’ye	Zagor'ye		57.96694	33.05244	P	PPL	RU		52				0		126	Europe/Moscow	2007-01-23
+453272	Ozero Gorodno	Ozero Gorodno	Ozero Gorodno,Озеро Городно	57.96611	33.55889	H	LK	RU		52				0		193	Europe/Moscow	2020-03-07
+453273	Korobenka	Korobenka	Korobenka,Коробенка	57.96433	33.8755	H	STM	RU		77				0		163	Europe/Moscow	2019-09-04
+453274	Ozero Kalenoye	Ozero Kalenoye	Ozero Kalenoe,Ozero Kalenoye,Озеро Каленое	57.95833	33.97333	H	LK	RU		77				0		163	Europe/Moscow	2020-03-07
+453275	Ozero Verkhneberëznoye	Ozero Verkhnebereznoye	Ozero Verkhnebereznoye,Ozero Verkhneberjoznoe,Ozero Verkhneberëznoye,Озеро Верхнеберёзное	57.95528	33.93472	H	LK	RU		77				0		162	Europe/Moscow	2019-09-04
+453276	Ozero Yel’chinskoye	Ozero Yel'chinskoye	Ozero Yeginskaye,Ozero Yel'chinskoye,Ozero Yel’chinskoye	57.95417	33.16472	H	LK	RU		52				0		201	Europe/Moscow	2020-06-09
+453277	Sitnaya	Sitnaya	Sitnaja,Sitnaya,Ситная	57.95389	33.4675	H	STM	RU		52				0		185	Europe/Moscow	2012-01-16
+453278	Guzyatino	Guzyatino	Guziatino,Guzjatino,Guzyatino,Гузятино	57.95306	33.95167	P	PPL	RU		77				0		172	Europe/Moscow	2012-01-16
+453279	Stantsiya Chernushki	Stantsiya Chernushki	Chernushki,Stancija Chernushki,Stantsiya Chernushki,Станция Чернушки,Чернушки	57.95222	33.31472	S	RSTN	RU		52				0		221	Europe/Moscow	2020-03-07
+453280	Ostanovochnyy Punkt 310 km	Ostanovochnyy Punkt 310 km		57.95139	33.96	S	RSTP	RU		77				0		172	Europe/Moscow	1997-12-04
+453281	Ozero Sitno	Ozero Sitno	Ozero Sitno,Озеро Ситно	57.95111	33.48361	H	LK	RU		52				0		185	Europe/Moscow	2012-01-16
+453282	Krapivenka	Krapivenka	Krapivenka,Крапивенка	57.94669	33.83812	H	STM	RU		77				0		181	Europe/Moscow	2019-09-04
+453283	Ostanovochnyy Punkt 361 km	Ostanovochnyy Punkt 361 km		57.94583	33.07176	S	RSTP	RU		52				0		194	Europe/Moscow	2007-01-23
+453284	Ozero Petrovo	Ozero Petrovo	Ozero Petrovo,Озеро Петрово	57.94389	33.525	H	LK	RU		52				0		190	Europe/Moscow	2012-01-16
+453285	Chërnaya	Chernaya	Chernaja,Chernaya,Chërnaya,Черная	57.94071	33.00117	H	STM	RU		52				0		158	Europe/Moscow	2012-01-16
+453287	Poplavenets	Poplavenets	Poplavenec,Poplavenets,Поплавенец	57.9375	33.98167	P	PPL	RU		77				0		178	Europe/Moscow	2012-01-16
+453288	Ozero Korotskoye	Ozero Korotskoye	Ozero Korockoe,Ozero Korotskoye,Озеро Короцкое	57.93611	33.25806	H	LK	RU		52				0		215	Europe/Moscow	2020-03-07
+453289	Studenka	Studenka	Studenka,Студенка	57.93444	33.36972	H	STM	RU		52				0		208	Europe/Moscow	2012-01-16
+453290	Korachëvka	Korachevka	Korachevka,Korachjovka,Korachëvka,Корачёвка	57.93389	33.31972	H	STM	RU		52				0		208	Europe/Moscow	2020-04-08
+453291	Ozero Boroye	Ozero Boroye		57.93167	33.2175	H	LK	RU		52				0		220	Europe/Moscow	2007-01-23
+453292	Ozero Seredeyskoye	Ozero Seredeyskoye	Ozero Seredejskoe,Ozero Seredeyskoye,Озеро Середейское	57.93111	33.17806	H	LK	RU		52				0		204	Europe/Moscow	2012-01-16
+453293	Ozero Glukhoye	Ozero Glukhoye	Ozero Glukhoe,Ozero Glukhoye,Озеро Глухое	57.92972	33.88778	H	LK	RU		77				0		169	Europe/Moscow	2020-03-07
+453294	Korotsko	Korotsko	Korocko,Korotsko,Короцко	57.93833	33.24667	P	PPL	RU		52				0		206	Europe/Moscow	2019-10-09
+453295	Stantsiya Ryadchino	Stantsiya Ryadchino	Rjadchino,Ryadchino,Stancija Rjadchino,Stantsiya Ryadchino,Рядчино,Станция Рядчино	57.92611	33.54639	S	RSTN	RU	RU	52				0		204	Europe/Moscow	2019-09-04
+453296	Ryadchino	Ryadchino	Rjadchino,Ryadchino,Рядчино	57.92528	33.55111	P	PPL	RU		52				0		205	Europe/Moscow	2012-01-16
+453297	Tishin	Tishin	Tishin,Тишин	57.92056	33.25278	H	STM	RU		52				0		205	Europe/Moscow	2020-03-07
+453298	Ozero Sharovo	Ozero Sharovo	Ozero Sharovo,Озеро Шарово	57.91944	33.87	H	LK	RU		77				0		170	Europe/Moscow	2012-01-16
+453299	Stantsiya Yedrovo	Stantsiya Yedrovo	Edrovo,Stancija Edrovo,Stantsiya Yedrovo,Yedrovo,Едрово,Станция Едрово	57.91861	33.63417	S	RSTN	RU		52				0		204	Europe/Moscow	2020-03-07
+453300	Zelënaya Roshcha	Zelenaya Roshcha	Zelenaya Roshcha,Zeljonaja Roshha,Zelënaya Roshcha,Зелёная Роща	57.91556	33.46	P	PPL	RU		52				0		208	Europe/Moscow	2020-03-07
+453301	Ozero Tagran’	Ozero Tagran'	Ozero Tagran',Ozero Tagran’,Ozero Tugran,Озеро Тагрань	57.91675	33.44988	H	LK	RU		52				0		186	Europe/Moscow	2020-06-09
+453302	Gryazny	Gryazny	Grjazny,Gryazny,Грязны	57.91386	33.84978	P	PPL	RU		77				0		182	Europe/Moscow	2019-09-04
+453303	Kobylka	Kobylka	Kobylka,Кобылка	57.9125	33.43944	H	STM	RU		52				0		196	Europe/Moscow	2012-01-16
+453304	Ozero Nesterovo	Ozero Nesterovo	Ozero Nesterovo,Озеро Нестерово	57.91167	33.98333	H	LK	RU		77				0		167	Europe/Moscow	2012-01-16
+453305	Ozero Nakhodno	Ozero Nakhodno	Ozero Nakhodno,Озеро Находно	57.91139	33.17028	H	LK	RU		52				0		208	Europe/Moscow	2012-01-16
+453306	Stantsiya Guzyatino	Stantsiya Guzyatino	Guzjatino,Guzyatino,Stancija Guzjatino,Stantsiya Guzyatino,Гузятино,Станция Гузятино	57.91083	33.88444	S	RSTN	RU		77				0		176	Europe/Moscow	2020-03-07
+453307	Narachino	Narachino	Narachino,Poselok Narachino,Posjolok Narachino,Posëlok Narachino,Нарачино,Посёлок Нарачино	57.91056	33.74306	P	PPL	RU		77				0		196	Europe/Moscow	2019-09-04
+453308	Ostanovochnyy Punkt 308 km	Ostanovochnyy Punkt 308 km		57.91	33.91861	S	RSTP	RU		77				0		178	Europe/Moscow	2007-01-23
+453309	Stantsiya Narachino	Stantsiya Narachino	Narachino,Stancija Narachino,Stantsiya Narachino,Нарачино,Станция Нарачино	57.90917	33.74417	S	RSTN	RU		77				0		192	Europe/Moscow	2020-03-07
+453310	Stantsiya Zlino	Stantsiya Zlino	Stancija Zlino,Stantsiya Zlino,Zlino,Злино,Станция Злино	57.90721	33.98427	S	RSTN	RU		77				0		155	Europe/Moscow	2019-09-04
+453311	Neftyanka	Neftyanka	Neftjanka,Neftyanka,Нефтянка	57.89306	33.97083	H	STM	RU		77				0		167	Europe/Moscow	2012-01-16
+453313	Ozero Ryadchinskoye	Ozero Ryadchinskoye	Ozero Rjadchinskoe,Ozero Ryadchinskoye,Озеро Рядчинское	57.89028	33.475	H	LK	RU		52				0		206	Europe/Moscow	2012-01-16
+453314	Tokarëvo	Tokarevo	Tokarevo,Tokarjovo,Tokarëvo,Токарёво	57.88972	33.73583	P	PPL	RU		77				0		185	Europe/Moscow	2020-03-07
+453315	Ozero Selishche	Ozero Selishche	Ozero Selishche,Ozero Selishhe,Озеро Селище	57.88972	33.80583	H	LK	RU		77				0		168	Europe/Moscow	2012-01-16
+453316	Ozero Bol’shaya Ptinka	Ozero Bol'shaya Ptinka	Ozero Bol'shaja Ptinka,Ozero Bol'shaya Ptinka,Ozero Bol’shaya Ptinka,Озеро Большая Птинка	57.88806	33.90361	H	LK	RU		77				0		173	Europe/Moscow	2020-03-07
+453317	Ozero Onisimovo	Ozero Onisimovo	Ozero Onisimovo,Озеро Онисимово	57.87788	33.59331	H	LK	RU		52				0		203	Europe/Moscow	2019-09-04
+453318	Ozero Manushkino	Ozero Manushkino	Ozero Manushkino,Озеро Манушкино	57.87848	33.06368	H	LK	RU		52				0		189	Europe/Moscow	2012-01-16
+453319	Ozero Berëznoye	Ozero Bereznoye	Ozero Bereznoye,Ozero Berjoznoe,Ozero Berëznoye,Озеро Берёзное	57.86806	33.75833	H	LK	RU		77				0		173	Europe/Moscow	2020-03-07
+453320	Ozero Kobylino	Ozero Kobylino	Ozero Kobylino,Озеро Кобылино	57.86305	33.29968	H	LK	RU		52				0		212	Europe/Moscow	2019-09-04
+453321	Ozero Bol’shoye Perteshno	Ozero Bol'shoye Perteshno	Ozero Bol'shoe Perteshno,Ozero Bol'shoye Perteshno,Ozero Bol’shoye Perteshno,Озеро Большое Пертешно	57.86139	33.80583	H	LK	RU		77				0		175	Europe/Moscow	2020-03-07
+453322	Ozero Lokhovo	Ozero Lokhovo	Ozero Lokhovo,Озеро Лохово	57.85611	33.85556	H	LK	RU		77				0		174	Europe/Moscow	2012-01-16
+453323	Orlovka	Orlovka	Orlovka,Орловка	57.85083	33.13083	H	STM	RU		52				0		190	Europe/Moscow	2012-01-16
+453324	Ozero Ozer	Ozero Ozer	Ozero Ozer,Озеро Озер	57.85123	33.03942	H	LK	RU		52				0		182	Europe/Moscow	2012-01-16
+453325	Gvozdki	Gvozdki	Bol'shiye Gvozdki,Bol’shiye Gvozdki,Gvozdki,Гвоздки	57.84917	33.4175	P	PPL	RU		52				0		197	Europe/Moscow	2012-01-16
+453326	Livitsa	Livitsa	Livica,Livitsa,Ливица	57.84583	33.64139	H	STM	RU		00				0		178	Europe/Moscow	2012-01-16
+453327	Ozero Mikhaylovskoye	Ozero Mikhaylovskoye	Ozero Mikhajlovskoe,Ozero Mikhaylovskoye,Озеро Михайловское	57.84444	33.62306	H	LK	RU		77				0		178	Europe/Moscow	2012-01-16
+453328	Ozero Russkoye	Ozero Russkoye	Ozero Russkoe,Ozero Russkoye,Озеро Русское	57.8425	33.12139	H	LK	RU		52				0		187	Europe/Moscow	2012-01-16
+453329	Ozero Dolgoye	Ozero Dolgoye	Ozero Dolgoe,Ozero Dolgoye,Озеро Долгое	57.84421	33.86397	H	LK	RU		77				0		167	Europe/Moscow	2019-09-04
+453331	Ozero Kholmskoye	Ozero Kholmskoye	Ozero Khohmskoye,Ozero Kholmskoe,Ozero Kholmskoye,Озеро Холмское	57.83639	33.46333	H	LK	RU	RU	52				0		183	Europe/Moscow	2019-09-04
+453332	Ozero Maloye Perteshno	Ozero Maloye Perteshno	Ozero Maloe Perteshno,Ozero Maloye Perteshno,Озеро Малое Пертешно	57.83583	33.81278	H	LK	RU		77				0		172	Europe/Moscow	2012-01-16
+453333	Golovkovo	Golovkovo	Golovkovo,Головково	57.8352	33.56962	P	PPL	RU		77				0		190	Europe/Moscow	2019-09-04
+453334	Makushino	Makushino	Makushino,Макушино	57.83278	33.40028	P	PPL	RU		52				0		193	Europe/Moscow	2012-01-16
+453335	Ozero Somino	Ozero Somino	Ozero Somino,Озеро Сомино	57.83167	33.38806	H	LK	RU		52				0		200	Europe/Moscow	2012-01-16
+453336	Ozero Somikha	Ozero Somikha	Ozero Somikha,Озеро Сомиха	57.83056	33.57778	H	LK	RU		00				0		182	Europe/Moscow	2012-01-16
+453337	Batovo	Batovo	Batovo,Батово	57.82917	33.22194	P	PPLQ	RU		52				0		199	Europe/Moscow	2012-01-16
+453338	Ozero Bol’shoye Iskrovno	Ozero Bol'shoye Iskrovno		57.8275	33.66944	H	LK	RU		77				0		179	Europe/Moscow	2007-01-23
+453339	Kostelëvo	Kostelevo	Kostelevo,Kosteljovo,Kostelëvo,Костелёво	57.82694	33.46083	P	PPL	RU		52				0		198	Europe/Moscow	2020-04-08
+453340	Ozero Osovets	Ozero Osovets	Ozero Osovec,Ozero Osovets,Озеро Осовец	57.82611	33.99056	H	LK	RU		77				0		184	Europe/Moscow	2012-01-16
+453341	Ozero Maloye Iskrovno	Ozero Maloye Iskrovno	Ozero Maloe Iskrovno,Ozero Maloye Iskrovno,Озеро Малое Искровно	57.82361	33.69417	H	LK	RU		77				0		178	Europe/Moscow	2012-01-16
+453342	Ol’khovyy	Ol'khovyy	Ol'khovyj,Ol'khovyy,Ol’khovyy,Ольховый	57.82028	33.26611	H	STM	RU		52				0		197	Europe/Moscow	2012-01-16
+453343	Shkura	Shkura	Shkura,Шкура	57.81444	33.36028	P	PPLQ	RU		52				0		196	Europe/Moscow	2012-01-16
+453344	Kozlovo	Kozlovo	Kozlovo,Козлово	57.805	33.1	P	PPL	RU		52				0		212	Europe/Moscow	2012-01-16
+453345	Ozero Kolpinets	Ozero Kolpinets		57.805	33.81639	H	LK	RU		77				0		184	Europe/Moscow	2007-01-23
+453346	Kolotovka	Kolotovka	Kolotovka,Колотовка	57.80278	33.28	P	PPLQ	RU		52				0		198	Europe/Moscow	2012-01-16
+453347	Ozero Plotishno	Ozero Plotishno	Ozero Plotishno,Озеро Плотишно	57.8025	33.10056	H	LK	RU		52				0		202	Europe/Moscow	2012-01-16
+453348	Urochishche Rudovo	Urochishche Rudovo	Urochishche Rudovo,Urochishhe Rudovo,Урочище Рудово	57.80167	33.39806	L	AREA	RU		52				0		206	Europe/Moscow	2012-01-16
+453349	Ozero Nemega	Ozero Nemega	Ozero Nemega,Озеро Немега	57.80056	33.69861	H	LK	RU		77				0		188	Europe/Moscow	2012-01-16
+453350	Mezhutoki	Mezhutoki	Mezhutoki,Межутоки	57.79944	33.70417	P	PPL	RU		77				0		181	Europe/Moscow	2012-01-16
+453351	Buyakovo	Buyakovo	Bujakovo,Buyakovo,Буяково	57.79917	33.12056	P	PPLQ	RU		52				0		213	Europe/Moscow	2012-01-16
+453352	Ozero Dorishche	Ozero Dorishche		57.79694	33.16556	H	LK	RU		52				0		207	Europe/Moscow	2000-07-11
+453354	Berezay	Berezay	Berezaj,Berezay,Березай	57.78167	33.28806	P	PPLQ	RU		52				0		205	Europe/Moscow	2012-01-16
+453355	Ozero Khorino	Ozero Khorino	Ozero Khorina,Ozero Khorino	57.78139	33.595	H	LK	RU		77				0		187	Europe/Moscow	2012-01-16
+453356	Ozero Gogolino	Ozero Gogolino		57.77694	33.63056	H	LK	RU		77				0		189	Europe/Moscow	2007-01-23
+453357	Ozero Karasino	Ozero Karasino		57.77306	33.78194	H	LK	RU		77				0		185	Europe/Moscow	2007-01-23
+453358	Podkop	Podkop	Podkop,Подкоп	57.76626	33.29129	H	STM	RU		52				0		216	Europe/Moscow	2019-09-04
+453359	Ozero Listvennik	Ozero Listvennik	Ozero Listvennik,Озеро Лиственник	57.76	33.61944	H	LK	RU		77				0		190	Europe/Moscow	2012-01-16
+453360	Ozero Lovchevo	Ozero Lovchevo	Ozero Lovchevo,Озеро Ловчево	57.75444	33.69417	H	LK	RU		77				0		187	Europe/Moscow	2012-01-16
+453361	Ozero Shlintso	Ozero Shlintso	Ozero Shlinco,Ozero Shlintse,Ozero Shlintso,Озеро Шлинцо	57.75361	33.51583	H	LK	RU		52				0		202	Europe/Moscow	2012-01-16
+453362	Ozero Bragino	Ozero Bragino		57.75333	33.15472	H	LK	RU		52				0		222	Europe/Moscow	2000-07-11
+453363	Boloto Gladkoye	Boloto Gladkoye	Boloto Gladkoe,Boloto Gladkoye,Болото Гладкое	57.74944	33.54333	H	SWMP	RU		00				0		205	Europe/Moscow	2012-01-16
+453364	Knyazhevo	Knyazhevo	Knjazhevo,Knyazhevo,Княжево	57.74847	33.03998	P	PPL	RU		52				0		213	Europe/Moscow	2012-01-16
+453365	Ozero Ukleinskoye	Ozero Ukleinskoye		57.74641	33.07262	H	LK	RU		52				0		209	Europe/Moscow	2000-07-11
+453366	Novaya Ivanovka	Novaya Ivanovka	Novaja Ivanovka,Novaya Ivanovka,Novo-Ivanovka,Новая Ивановка	57.74194	33.14167	P	PPL	RU		52				0		231	Europe/Moscow	2012-01-16
+453367	Okunëvo	Okunevo	Okunevo,Okunjovo,Okunëvo,Окунёво	57.73222	33.31556	P	PPLQ	RU		52				0		211	Europe/Moscow	2012-01-16
+453368	Nikol’skoye	Nikol'skoye	Nikol'skoe,Nikol'skoye,Nikol’skoye,Никольское	57.72946	33.00257	P	PPL	RU		52				0		219	Europe/Moscow	2012-01-16
+453369	Ozero Osinovskoye	Ozero Osinovskoye	Ozero Osinovskoe,Ozero Osinovskoye,Озеро Осиновское	57.72722	33.54667	H	LK	RU		52				0		196	Europe/Moscow	2012-01-16
+453370	Ozero Glukhoye	Ozero Glukhoye		57.72722	33.78417	H	LK	RU		77				0		187	Europe/Moscow	2007-01-23
+453371	Stantsiya Kuzhenkino	Stantsiya Kuzhenkino	Kuzhenkino,Stantsiya Kuzhenkino	57.72667	33.97639	S	RSTN	RU		77				0		190	Europe/Moscow	2012-01-16
+453372	Simanikha	Simanikha	Simanikha,Симаниха	57.72316	33.06099	P	PPL	RU		52				0		213	Europe/Moscow	2012-01-16
+453373	Paberezh’ye	Paberezh'ye	Paberezh'e,Paberezh'ye,Paberezh’ye,Пабережье	57.71926	33.01398	P	PPL	RU		52				0		215	Europe/Moscow	2012-01-16
+453374	Ozero Klevetetskoye	Ozero Klevetetskoye	Ozero Kleveteckoe,Ozero Klevetetskoye,Озеро Клеветецкое	57.71194	33.25417	H	LK	RU		52				0		212	Europe/Moscow	2020-03-07
+453375	Ostrov Zhakhin	Ostrov Zhakhin		57.70849	33.03221	T	ISL	RU		52				0		217	Europe/Moscow	2007-01-23
+453376	Rechka	Rechka	Rechka,Речка	57.70083	33.40361	P	PPL	RU		52				0		200	Europe/Moscow	2012-01-16
+453378	Lib’ya	Lib'ya	Lib'ja,Lib'ya,Lib’ya,Либья	57.69	33.3	H	STM	RU		52				0		196	Europe/Moscow	2012-01-16
+453379	Kuzhenkino	Kuzhenkino	Kuzhenkino,Kuzjenkino,Shlino,Куженкино	57.68917	33.95667	P	PPL	RU	RU	77				0		183	Europe/Moscow	2008-11-30
+453380	Ostrov Bol’shoy	Ostrov Bol'shoy	Ostrov Bol'shoj,Ostrov Bol'shoy,Ostrov Bol’shoy,Остров Большой	57.68603	33.3905	T	ISL	RU		00				0		204	Europe/Moscow	2020-03-07
+453381	Boloto Gladkoye	Boloto Gladkoye	Boloto Gladkoe,Boloto Gladkoye,Болото Гладкое	57.68317	33.63901	H	SWMP	RU		77				0		201	Europe/Moscow	2012-01-16
+453382	Sofiyevka	Sofiyevka	Sofievka,Sofiyevka,Софиевка	57.68133	33.43543	P	PPL	RU		77				0		197	Europe/Moscow	2019-09-04
+453383	Ostrov Sudachina	Ostrov Sudachina	Ostrov Sudachina,Остров Судачина	57.67784	33.3943	T	ISL	RU		77				0		195	Europe/Moscow	2012-01-16
+453384	Poperechnaya	Poperechnaya	Poperechnaja,Poperechnaya,Поперечная	57.67868	33.23364	H	STM	RU		52				0		211	Europe/Moscow	2012-01-16
+453385	Vodopay	Vodopay		57.67904	33.21428	H	STM	RU		52				0		206	Europe/Moscow	2011-07-09
+453386	Plav	Plav	Plav,Плав	57.67435	33.31531	P	PPL	RU		52				0		211	Europe/Moscow	2012-01-16
+453387	Komkino	Komkino	Komkino,Комкино	57.6736	33.4324	P	PPL	RU		77				0		196	Europe/Moscow	2019-09-04
+453388	Sharapikha	Sharapikha	Sharapika,Sharapikha,Шарапиха	57.67245	33.03286	P	PPL	RU		52				0		214	Europe/Moscow	2012-01-16
+453389	Ozero Starozhil	Ozero Starozhil	Ozero Starozhil,Озеро Старожил	57.67038	33.32493	H	LK	RU		52				0		195	Europe/Moscow	2012-01-16
+453390	Urochishche Tonishche	Urochishche Tonishche		57.67308	33.58545	L	AREA	RU		77				0		214	Europe/Moscow	2011-07-09
+453391	Svyatkovo	Svyatkovo	Svjatkovo,Svyatkovo,Святково	57.66345	33.48861	P	PPL	RU		77				0		191	Europe/Moscow	2019-09-04
+453392	Shlina	Shlina	Shlina,Шлина	57.66141	33.89825	P	PPL	RU		77				0		189	Europe/Moscow	2012-01-16
+453393	Ostrov Panov	Ostrov Panov	Ostrov Panov,Остров Панов	57.66229	33.02726	T	ISL	RU		52				0		214	Europe/Moscow	2012-01-16
+453394	Dobryy	Dobryy	Dobryj,Dobryy,Добрый	57.65597	33.54456	H	STM	RU		77				0		185	Europe/Moscow	2012-01-16
+453395	Dubov	Dubov	Dubov,Дубов	57.6551	33.59342	H	STM	RU		77				0		185	Europe/Moscow	2012-01-16
+453396	Parshukovo	Parshukovo	Parshukovo,Паршуково	57.6497	33.49079	P	PPLQ	RU		77				0		214	Europe/Moscow	2012-01-16
+453397	Chudino	Chudino	Chudino,Чудино	57.65017	33.61618	P	PPL	RU		77				0		199	Europe/Moscow	2019-09-04
+453398	Uzmen’	Uzmen'	Uzmen',Uzmen’,Узмень	57.64003	33.7088	P	PPL	RU		77				0		187	Europe/Moscow	2020-03-07
