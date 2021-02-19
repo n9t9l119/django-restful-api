@@ -1,1 +1,1 @@
-default_app_config = 'geo_names.apps.GeonamesConfig'
+default_app_config = 'geonames.apps.GeonamesConfig'
