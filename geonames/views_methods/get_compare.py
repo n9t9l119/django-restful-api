@@ -62,7 +62,8 @@ def get_items_by_ids(ids: List[int]) -> List[GeoNames]:
 
 def find_all_ids(name: str) -> List[int]:
     ru_ids = get_ids_by_name(name)
-    name = translit(name, reversed=True)
+    print(name)
+    name = translit(name, 'ru', reversed=True)
     alt_ids = get_ids_by_name(name)
     for id in ru_ids:
         if id not in alt_ids:

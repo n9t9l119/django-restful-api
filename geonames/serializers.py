@@ -7,3 +7,4 @@ class GeoNamesSerializer(serializers.ModelSerializer):
     class Meta:
         model = GeoNames
         fields = '__all__'
+

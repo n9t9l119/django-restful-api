@@ -32,3 +32,5 @@ class GeoNames(models.Model):
 class NameId(models.Model):
     name = models.CharField(max_length=384)
     geonameid = models.ForeignKey(GeoNames, on_delete=models.CASCADE)
+
+

@@ -50,12 +50,12 @@ class Migration(migrations.Migration):
             fields=[
                 ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),
                 ('name', models.CharField(max_length=384)),
-                ('geonameid', models.ForeignKey(on_delete=django.db.models.deletion.CASCADE, to='geonames.geonames')),
+                ('geonameid', models.ForeignKey(on_delete=django.db.models.deletion.CASCADE, to='geo_names.geo_names')),
             ],
         ),
         migrations.AddField(
-            model_name='geonames',
+            model_name='geo_names',
             name='timezone',
-            field=models.ForeignKey(null=True, on_delete=django.db.models.deletion.SET_NULL, to='geonames.timezones'),
+            field=models.ForeignKey(null=True, on_delete=django.db.models.deletion.SET_NULL, to='geo_names.timezones'),
         ),
     ]
