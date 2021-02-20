@@ -23,16 +23,17 @@ def create_db(ru_txt, timezones_txt):
 
 logging.basicConfig(level='INFO')
 
-if "geonames_geonames" in connection.introspection.table_names() and GeoNames.objects.count() == 0:
-    logging.info("Database creation is started")
+if "geonames_geonames" in connection.introspection.table_names():
+    if GeoNames.objects.count() == 0:
+        logging.info("Database creation is started...\nIt can take a few minutes")
 
-    try:
-        with open(ConfigDataBase.ru_txt_path, 'r', encoding="utf8") as ru_txt, \
-                open(ConfigDataBase.timezones_txt_path, 'r', encoding="utf8") as timezones_txt:
-            create_db(ru_txt, timezones_txt)
-    except IOError as e:
-        logging.critical(f"Can't open file: {e.strerror}")
+        try:
+            with open(ConfigDataBase.ru_txt_path, 'r', encoding="utf8") as ru_txt, \
+                    open(ConfigDataBase.timezones_txt_path, 'r', encoding="utf8") as timezones_txt:
+                create_db(ru_txt, timezones_txt)
+        except IOError as e:
+            logging.critical(f"Can't open file: {e.strerror}")
+        else:
+            logging.info("Database creation was completed successfully")
     else:
-        logging.info("Database creation was completed successfully")
-else:
-    logging.info("Database is already exist!")
+        logging.info("Database is already exist!")
