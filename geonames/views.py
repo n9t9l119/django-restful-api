@@ -8,7 +8,7 @@ from geonames.views_services.get_page import page
 
 
 class GeoNamesInfoView(generics.ListAPIView):
-    serializer = GeoNamesSerializer
+    serializer_class = GeoNamesSerializer
 
     def post(self, request):
         elem = GeoNames.objects.get(geonameid=int(request.data['geonameid']))
