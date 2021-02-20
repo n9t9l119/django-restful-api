@@ -14,9 +14,3 @@ urlpatterns = [
 ]
 
 
-
-
-# ru_txt = open("geonames\RU.txt", 'r', encoding="utf8")
-# timezones_txt = open("geonames\\timezones.txt", 'r', encoding="utf8")
-# print("Hei")
-# create_db(ru_txt, timezones_txt)

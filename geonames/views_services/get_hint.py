@@ -1,22 +1,26 @@
 import re
-from typing import List
+from typing import List, Union
+from rest_framework import status
+from rest_framework.response import Response
 
 from geonames.models import NameId
 
 
-def hint(request: str):
-    if request_validation(request):
+def hint(request: str) -> Union[List, Response]:
+    validation = request_validation(request)
+    if validation is True:
         return make_hint_list(request)
+    return validation
 
 
-def request_validation(request: str) -> bool:
+def request_validation(request: str) -> Union[bool, Response]:
     if re.match(r'[\wА-Яа-я\d]', request) is None:
-        print(400)
+        Response("Invalid characters for hints!", status=status.HTTP_400_BAD_REQUEST)
     return True
 
 
+# Нужен бинарный поиск
 def make_hint_list(request: str) -> List[str]:
-    print(request)
     hint_list = []
     all_names = NameId.objects.order_by('name')
     for item in all_names:

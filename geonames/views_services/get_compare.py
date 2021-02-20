@@ -1,14 +1,15 @@
 import re
-
+from rest_framework import status
+from rest_framework.response import Response
 from transliterate import translit
 from typing import Union, Dict, Any, Tuple, List
 
 from geonames.models import GeoNames, NameId, Timezones
 
 
-def info_comparison(geo_1: str, geo_2: str):
+def info_comparison(geo_1: str, geo_2: str) -> Union[Response, Dict[str, Any]]:
     validation = input_validation(geo_1, geo_2)
-    if validation:
+    if validation is True:
         return make_compare_dict(geo_1, geo_2)
     return validation
 
@@ -20,11 +21,11 @@ def make_compare_dict(geo_1: str, geo_2: str) -> Dict[str, Any]:
     return lt
 
 
-def input_validation(geo_1: str, geo_2: str) -> Union[bool, str]:
+def input_validation(geo_1: str, geo_2: str) -> Union[bool, Response]:
     if re.match(r'[А-Яа-я0-9\s]*$', geo_1) \
             and re.match(r'[А-Яа-я0-9\s]*$', geo_2) is not None:
         return True
-    return "Names can only contain cyrillic letters and numbers!"
+    return Response("Names can only contain cyrillic letters and numbers!", status=status.HTTP_400_BAD_REQUEST)
 
 
 def translit_request(geo_1: str, geo_2: str) -> Tuple[str, str]:
@@ -108,7 +109,7 @@ def timezones_difference(time_1: Timezones, time_2: Timezones) -> Union[str, flo
     return time_1 - time_2
 
 
-def get_timezone(timezone: str) -> Union[str, Timezones]:
+def get_timezone(timezone: str) -> str:
     if timezone == "":
         return "Timezone is not defined!"
     else:
