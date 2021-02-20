@@ -1,20 +1,14 @@
-import json
-
-from rest_framework import generics
+from rest_framework import generics, status
 from rest_framework.response import Response
 
 from geonames.serializers import *
-from geonames.views_methods.get_compare import info_comparison
-from geonames.views_methods.get_hint import hint
-
-
-class GeoNamesDetailView(generics.RetrieveUpdateDestroyAPIView):
-    serializer_class = GeoNamesSerializer
-    queryset = GeoNames.objects.all()
+from geonames.views_services.get_compare import info_comparison
+from geonames.views_services.get_hint import hint
+from geonames.views_services.get_page import page
 
 
 class GeoNamesInfoView(generics.ListAPIView):
-    serializer_class = GeoNamesSerializer
+    serializer = GeoNamesSerializer
 
     def post(self, request):
         elem = GeoNames.objects.get(geonameid=int(request.data['geonameid']))
@@ -22,31 +16,28 @@ class GeoNamesInfoView(generics.ListAPIView):
 
 
 class GeoNamesPageView(generics.ListAPIView):
-    serializer_class = GeoNamesSerializer
-
     def post(self, request):
-        start_id = int(request.data['page_number']) * int(request.data['items_value']) + 1
-        items = []
-        for value in range(int(request.data['items_value'])):
-            items.append(self.get_serializer(GeoNames.objects.get(pk=(start_id + value))).data)
-        return Response(items)
-
-
+        items = page(request.data['page_number'], request.data['items_value'])
+        serializer = GeoNamesSerializer(data=items, many=True)
+        serializer.is_valid()
+        return Response(serializer.data)
 
 
 class GeoNamesCompareView(generics.ListAPIView):
     serializer_class = GeoNamesSerializer
 
     def post(self, request):
-        data ={}
-        data['geo_1']=self.get_serializer(info_comparison(request.data['geo_1'], request.data['geo_2'])['geo_1']).data
-        data['geo_2'] = self.get_serializer(info_comparison(request.data['geo_1'], request.data['geo_2'])['geo_2']).data
-        data['compares']=info_comparison(request.data['geo_1'], request.data['geo_2'])['compares']
-        return Response( data)
+        data = info_comparison(request.data['geo_1'], request.data['geo_2'])
+
+        data['geo_1'] = self.get_serializer(data['geo_1']).data
+        data['geo_2'] = self.get_serializer(data['geo_2']).data
+
+        return Response(data)
 
 
 class GeoNamesHintView(generics.ListAPIView):
-    serializer_class = GeoNamesSerializer(many=True)
+    serializer_class = GeoNamesSerializer()
 
     def post(self, request):
-        return Response(json.dumps(hint(request.data['hint'])))
+        result = {'hint': hint(request.data['hint'])}
+        return Response(result)

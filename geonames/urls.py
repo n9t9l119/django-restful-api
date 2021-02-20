@@ -1,14 +1,12 @@
-from django.urls import path, include
+from django.urls import path
 
 from geonames.db.create_db import create_db
 from geonames.views import *
-from geonames.models import GeoNames
+
 
 app_name = 'geonames'
 
 urlpatterns = [
-    path('all/<int:pk>/', GeoNamesDetailView.as_view()),
-
     path('geonameid/', GeoNamesInfoView.as_view()),
     path('page/', GeoNamesPageView.as_view()),
     path('compare/', GeoNamesCompareView.as_view()),
