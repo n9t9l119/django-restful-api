@@ -7,6 +7,7 @@ from geonames.models import GeoNames
 
 
 def page(page_number: int, items_value: int) -> Union[Response, List]:
+    """Getting data for a given page."""
     validation = input_validation(page_number, items_value)
     if validation is True:
         start_id = items_value * page_number + 1
@@ -15,6 +16,7 @@ def page(page_number: int, items_value: int) -> Union[Response, List]:
 
 
 def input_validation(page_number: int, items_value: int) -> Union[bool, Response]:
+    """ Checking the data received from the server."""
     if re.match(r'[0-9]{1,6}$', str(page_number)) \
             and re.match(r'[0-9]{1,6}$', str(items_value)) is not None:
         return numerical_range_validation(page_number, items_value)
@@ -23,6 +25,7 @@ def input_validation(page_number: int, items_value: int) -> Union[bool, Response
 
 
 def numerical_range_validation(page_number: int, items_value: int) -> Union[bool, Response]:
+    """Checking if a page exists at given values."""
     max_value = len(GeoNames.objects.all())
     if items_value > max_value:
         return Response("There is not so many values in database!", status=status.HTTP_400_BAD_REQUEST)
@@ -32,6 +35,7 @@ def numerical_range_validation(page_number: int, items_value: int) -> Union[bool
 
 
 def make_items_lst(items_value: int, start_id: int) -> List[GeoNames]:
+    """Getting a list of objects located on a given page."""
     items = []
     for value in range(items_value):
         items.append(GeoNames.objects.get(pk=(start_id + value)))

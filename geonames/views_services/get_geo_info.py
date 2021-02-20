@@ -6,6 +6,7 @@ from geonames.models import GeoNames
 
 
 def info(geonameid: int) -> Union[GeoNames, Response]:
+    """Getting data for required object."""
     validation = geonameid_validation(geonameid)
     if validation is True:
         return get_item_by_geonameid(geonameid)
@@ -13,6 +14,7 @@ def info(geonameid: int) -> Union[GeoNames, Response]:
 
 
 def geonameid_validation(geonameid: int) -> Union[bool, Response]:
+    """Checking the data received from the server """
     if 451747 <= int(geonameid) <= 12123288:
         return True
     return Response("Wrong range!\nIt should be no less than 451747 and no more than 12123288",
@@ -20,6 +22,7 @@ def geonameid_validation(geonameid: int) -> Union[bool, Response]:
 
 
 def get_item_by_geonameid(geonameid: int) -> Union[GeoNames, Response]:
+    """Getting an object by geonameid."""
     item = GeoNames.objects.get(geonameid=geonameid)
     if item is None:
         return Response("Such id does not exist!", status=status.HTTP_404_NOT_FOUND)

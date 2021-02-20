@@ -7,6 +7,7 @@ from geonames.models import NameId
 
 
 def hint(request: str) -> Union[List, Response]:
+    """Getting hints for a received request."""
     validation = request_validation(request)
     if validation is True:
         return make_hint_list(request)
@@ -14,6 +15,7 @@ def hint(request: str) -> Union[List, Response]:
 
 
 def request_validation(request: str) -> Union[bool, Response]:
+    """ Checking the data received from the server """
     if re.match(r'[\wА-Яа-я\d]', request) is None:
         Response("Invalid characters for hints!", status=status.HTTP_400_BAD_REQUEST)
     return True
@@ -21,6 +23,7 @@ def request_validation(request: str) -> Union[bool, Response]:
 
 # Нужен бинарный поиск
 def make_hint_list(request: str) -> List[str]:
+    """Getting a list of required prompts."""
     hint_list = []
     all_names = NameId.objects.order_by('name')
     for item in all_names:
